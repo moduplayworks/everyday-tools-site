@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-02T16:38:27.870Z",
+  "builtAt": "2026-10-02T16:43:21.841Z",
   "files": [
     {
       "file": "404.html",
@@ -38,9 +38,9 @@
       "sha256": "ccac95f6c76085b61703079a6bc3c953e93e3984ef8326ff7eacdeb89a676f37"
     },
     {
-      "file": "_astro/ExpansionToolPage.astro_astro_type_script_index_0_lang.B2tp9I1K.js",
-      "bytes": 15908,
-      "sha256": "151d21d23b301fe159ff01bc8adb1135448591d986e85d46d30b4f05388da4c0"
+      "file": "_astro/ExpansionToolPage.astro_astro_type_script_index_0_lang.BbSiadIH.js",
+      "bytes": 16090,
+      "sha256": "155b7b793699b686677d7fce29a7684d05774893ed7d75e4a1557a11d817bc45"
     },
     {
       "file": "_astro/GeneralToolPage.astro_astro_type_script_index_0_lang.Dj8RBU__.js",
@@ -78,9 +78,9 @@
       "sha256": "0e7ca8a9ec75e6fc072fd64c91fc6b8c2931dba4a0e2e5e4bf709eeea04a9bdb"
     },
     {
-      "file": "_astro/browser.DvEh3QHE.js",
+      "file": "_astro/browser.DSZITbb2.js",
       "bytes": 23513,
-      "sha256": "495ccfd9f795014e00355f59a1bcbf9ab888dd6f2e69a5b90c313b1b65903e99"
+      "sha256": "752e071a5d2507a49eb21c0f3e5319c1510fc8521e96198ebf7ce4577e289a37"
     },
     {
       "file": "_astro/index.astro_astro_type_script_index_0_lang.C1AWU8op.js",
@@ -345,7 +345,7 @@
     {
       "file": "gpa/index.html",
       "bytes": 16228,
-      "sha256": "60655b10061e19dfa13d8a83e5bee427f8340915bc3c890dcd4e86b1878fbe85"
+      "sha256": "c554ece07e94a9517d70c7fffbf2fa367daa880791fc20b4256167777c9816a9"
     },
     {
       "file": "guide/index.html",
@@ -365,7 +365,7 @@
     {
       "file": "image-compress/index.html",
       "bytes": 16265,
-      "sha256": "31944585381f31eebc48a649144c410d39d2cf6418cfbe1646fbf356d453485f"
+      "sha256": "c7536e56c0495cbc5dc3f195cb3166ce40729b2bc2d0ff431b92744be7a2757b"
     },
     {
       "file": "index.html",
@@ -965,7 +965,7 @@
     {
       "file": "pdf-merge/index.html",
       "bytes": 15642,
-      "sha256": "9820b05b5916cbc698c2c82f5cc98d203a479e7621acad066eac2190c4c4138f"
+      "sha256": "cb8f62bdd8d1a4464e7b29a04d35627db4426b417fb8c07ae2f42708e84c58dc"
     },
     {
       "file": "percent-change/index.html",
@@ -1030,7 +1030,7 @@
     {
       "file": "qr-generator/index.html",
       "bytes": 17538,
-      "sha256": "61706eff053db3aee1ac1432a5a2a559525cccdb052222b03258007ee9c00a2f"
+      "sha256": "220dc9d05c8c17cbaf457788badf7e38f756b83cc7590bf2dad70ddbaf44cba2"
     },
     {
       "file": "quadratic/index.html",
