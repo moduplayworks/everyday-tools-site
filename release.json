@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-02T07:35:29.761Z",
+  "builtAt": "2026-10-02T07:59:24.263Z",
   "files": [
     {
       "file": "404.html",
@@ -18,14 +18,19 @@
       "sha256": "d00e53e9523bd4a747952d100fa03e9ab48c5f3d9d19f98aa299e929a9d38a3a"
     },
     {
-      "file": "_astro/AnalyticsPreferences.astro_astro_type_script_index_0_lang.sQ-DyHBz.js",
-      "bytes": 3121,
-      "sha256": "6b5efed6262fbb0f2a58df04ed8c8ab5f7c126a67bc2c7135671b8e53d3b69b7"
+      "file": "_astro/AnalyticsPreferences.astro_astro_type_script_index_0_lang.26RDVryN.js",
+      "bytes": 3317,
+      "sha256": "8dd8d320277f85e4376620d655e4f528a72ea1322950695d7ad3ecfe2fe3f583"
     },
     {
-      "file": "_astro/Calculator.astro_astro_type_script_index_0_lang.Bob6XCot.js",
-      "bytes": 15893,
-      "sha256": "dc044dfe83d02bc1bdf04ffd43bb0592d3cc579efdcb000db60d2781bdeb808f"
+      "file": "_astro/Calculator.astro_astro_type_script_index_0_lang.BeQCm51Q.js",
+      "bytes": 15912,
+      "sha256": "981cbc34e4fca7ed4b63e8eb4e334fb4bfbc7cbabb2a20be7e6063aceb341357"
+    },
+    {
+      "file": "_astro/CharacterCounter.astro_astro_type_script_index_0_lang.CDLGUqhf.js",
+      "bytes": 1866,
+      "sha256": "5953c8d8348c7a3e40d39052ac55adfa5986bb6bbc252f33b4b485c2cecbb166"
     },
     {
       "file": "_astro/CharacterCounter.astro_astro_type_script_index_1_lang.vBkjwE-1.js",
@@ -48,14 +53,14 @@
       "sha256": "ff112d5e796b76a71970dfe5639c93ae2be6b859324b4acbe29e3acf247a3803"
     },
     {
-      "file": "_astro/analytics.BoizXvco.js",
-      "bytes": 933,
-      "sha256": "ec009b95fee5c25918ae80eb863a54e8cc0fe9de9cf53054f8e085c4beea8e25"
+      "file": "_astro/analytics.C5S3FMoW.js",
+      "bytes": 2276,
+      "sha256": "0420727b5b5a9de53cb6054bcd82ccc73ab6d6356d88461532fec4dbc1457f52"
     },
     {
-      "file": "_astro/index.astro_astro_type_script_index_0_lang.DIsGABzi.js",
+      "file": "_astro/index.astro_astro_type_script_index_0_lang.uycIVy3q.js",
       "bytes": 777,
-      "sha256": "0775df0d3a10483ef41b6bf8a9dcbd4e9509b93372da45c2ecb46f8b1773db2a"
+      "sha256": "4455230b0cd814636c8b5327df507015c3f784f321bd860aa4f21c34b823c9c6"
     },
     {
       "file": "_astro/study.DUyeYvzI.js",
@@ -65,7 +70,7 @@
     {
       "file": "about/index.html",
       "bytes": 5926,
-      "sha256": "a3eab618e75134cd9b9a135783b146dd161a63fa9e782b94be57e8ef6287143a"
+      "sha256": "04660a6b33899cfcdc49bc0528dfe72913af1b1752d0191f61257d6c1bdc1325"
     },
     {
       "file": "ads.txt",
@@ -75,17 +80,17 @@
     {
       "file": "category/study/index.html",
       "bytes": 7053,
-      "sha256": "722fab4bc29ec4b5f99a6e9e392f84f3d23579be1e81a83a81bc15a006c6aca3"
+      "sha256": "cbaa3631054886ea96889d9fc55eb015e99f86f5af1d8675d9b149fcf97d6d00"
     },
     {
       "file": "category/text/index.html",
       "bytes": 6371,
-      "sha256": "c9e184cd392018bebaf7f6408fda989792a4f8035c43e410aaa6dc880805d7b5"
+      "sha256": "2cdda60bf9511a0a5dc7b07a4676849028a2499a2359dd8dc913e68dd24b4a09"
     },
     {
       "file": "contact/index.html",
       "bytes": 5499,
-      "sha256": "3f057e5f0b08be72885a97347780cf7b54351fdee5c2fc32d6c5402fc3023df0"
+      "sha256": "4ff36c38d36c5039b7684fbaaefd38b0036e60b27b5f4b08cdb4d2432741d856"
     },
     {
       "file": "favicon.svg",
@@ -95,17 +100,17 @@
     {
       "file": "guide/index.html",
       "bytes": 8171,
-      "sha256": "ecd9730aaac188d73d8266c93d41708240d593ab6e85fd9dca74bdc0a3899610"
+      "sha256": "8d4383d240dc424a59841bbfbc1907b11f7086f8e324d854e49600bec81fdae5"
     },
     {
       "file": "index.html",
       "bytes": 8510,
-      "sha256": "36c582155dfb187a3e5b6710aba20a2c2a63078e75d5cf59f06837d8db166d6f"
+      "sha256": "e6ec9dc1ec23fdf3bb038c42cb8bd1d4224459b45b5fde008cddaf34efa75606"
     },
     {
       "file": "privacy/index.html",
-      "bytes": 8349,
-      "sha256": "35516f7d1d7f232a47d3c84c9ba91202d8a6a8c040fe6b9075598c8504be2ed0"
+      "bytes": 8399,
+      "sha256": "d73616dcdffef0bc66cdb4db15b7d8b313fa318de971bb94f931f592f83e9d94"
     },
     {
       "file": "robots.txt",
@@ -125,22 +130,22 @@
     {
       "file": "terms/index.html",
       "bytes": 6152,
-      "sha256": "63b7601304059081e249ccbb0b4e8748283ae01db99ebf425d19ddd7267ad13e"
+      "sha256": "ba9c701f1bca8db10dd306e8f9dfb21b3db9379cc6c5b68bb9f4d52cef86c75c"
     },
     {
       "file": "tools/character-count/index.html",
-      "bytes": 12486,
-      "sha256": "cf0817099b1551ea06518d66befede570b00ca75dad486ea5e303a22552bb589"
+      "bytes": 10824,
+      "sha256": "2ec6c210c7d8899db9e9ff2c7cf41112354302212cce401c7244894dddd60d3a"
     },
     {
       "file": "tools/completion-plan/index.html",
-      "bytes": 17649,
-      "sha256": "f624a11f61f89dde3d427fe180071a98c9b9d2f6509051101c51e37c5fc442d7"
+      "bytes": 17680,
+      "sha256": "a9be112c2472c46113a811b5f471a06ab12c4514bce107bab7605d32a02e49d5"
     },
     {
       "file": "tools/lecture-speed/index.html",
-      "bytes": 14822,
-      "sha256": "3e17c1977e4b12a4616cf22c898b7e2c7587d82ccdfa84e73b97455d7737e005"
+      "bytes": 14851,
+      "sha256": "23d1c6197638177cf1ac42262659de7c59e0c7b553bf424d3218258ac81239ba"
     }
   ]
 }
