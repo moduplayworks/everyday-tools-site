@@ -1,11 +1,16 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-02T04:55:38.000Z",
+  "builtAt": "2026-10-02T05:20:05.516Z",
   "files": [
     {
       "file": "404.html",
-      "bytes": 2222,
-      "sha256": "2922c75be79cb8de6c047fe2980360ee4e1a4190e33603c1869aa2e528b89049"
+      "bytes": 3103,
+      "sha256": "9a7c046ea59d7c968230cb518e79dc52fb55b94e24de92c64c34a2dd379f539e"
+    },
+    {
+      "file": "9cac8ce2489eedcc23a79495b861c94d.txt",
+      "bytes": 33,
+      "sha256": "d5524703a9b3ff759a2a970c8f9a938a4eb835b4415acc78844c089f36b9c80e"
     },
     {
       "file": "_astro/Calculator.astro_astro_type_script_index_0_lang.4z4tMWfV.js",
@@ -13,9 +18,9 @@
       "sha256": "ff8554071a8760c25ecc5c50ee5981a80a5c16f1e317069ae1aafc0bfab4f169"
     },
     {
-      "file": "_astro/Layout.DCQt9E5u.css",
-      "bytes": 12934,
-      "sha256": "697de80de2c6e6d656b30dde9a97100850b7c7dcebbc524c94394022a77dcc2a"
+      "file": "_astro/Layout.BbmU3T_S.css",
+      "bytes": 13106,
+      "sha256": "43e1a03f0b41179c650cff5b522dfad9e6646c9770972573d2f0cfeb3b5eec51"
     },
     {
       "file": "_astro/index.astro_astro_type_script_index_0_lang.z3bMdrzs.js",
@@ -29,18 +34,18 @@
     },
     {
       "file": "about/index.html",
-      "bytes": 3095,
-      "sha256": "88111dc6ab5f6c053d66f1f2d171d1cd2fe9c4fb4ff11b070c3e9f5211f332b8"
+      "bytes": 4730,
+      "sha256": "e07d0e865b39eb2d8cffcb527746553319ee1ec75a8349c70df699854ed95eba"
     },
     {
       "file": "category/study/index.html",
-      "bytes": 3201,
-      "sha256": "1e9ec75b433de9b1a21e430bbacd551cc2b3bb43d48bb3d28e473591f712f709"
+      "bytes": 6039,
+      "sha256": "11109e3476a6baf2ca98212b679d95817ce46157da0ddd0ad1635b8148a40b76"
     },
     {
       "file": "contact/index.html",
-      "bytes": 2768,
-      "sha256": "ee29817b424c43d3140582446a454da3d2c4499871ef87b13114728c1395e7fa"
+      "bytes": 4311,
+      "sha256": "0c39a2f1a369dc45d4c5b7447d6b2124b420930fc5531104cd4bf7a45782db11"
     },
     {
       "file": "favicon.svg",
@@ -49,18 +54,18 @@
     },
     {
       "file": "guide/index.html",
-      "bytes": 5323,
-      "sha256": "0217cb8282120edbde504d600c76713205c4d8c549a667c12f29573ef771c361"
+      "bytes": 7022,
+      "sha256": "5ab4f418c10f796a42653ab6149d78dd6ce9ca20cd8912b6167293daf192ac9d"
     },
     {
       "file": "index.html",
-      "bytes": 4392,
-      "sha256": "2479d24df2a227020b8ea72725249577060f29f09060c8e93aad7fe0c72e899d"
+      "bytes": 6657,
+      "sha256": "ea5f362c443b058838248b69c838832df41ec9e47b198147855a473a109b35c8"
     },
     {
       "file": "privacy/index.html",
-      "bytes": 3858,
-      "sha256": "26ae0406a91568ffaa8cad1035e1eb98e9a7e91c4c42fd87efb05c569b49422c"
+      "bytes": 5515,
+      "sha256": "56e1a0991db9afd1a77619df2637715694730e5257d434d73a18858482053212"
     },
     {
       "file": "robots.txt",
@@ -69,23 +74,28 @@
     },
     {
       "file": "sitemap.xml",
-      "bytes": 864,
-      "sha256": "2eb86bcd61f330989bf26dcb7f03c929b22ee94486b6425b423d3daaacaae967"
+      "bytes": 922,
+      "sha256": "4a9dddba6d531aef338ab13a41600bfecbc5a372ff025d1e565c793588ebf8c1"
+    },
+    {
+      "file": "social-card.png",
+      "bytes": 41526,
+      "sha256": "068fa8c8d4aba9651a6fd134aed2bcef31cbe32ccc1f4f281faff49ed93f7df1"
     },
     {
       "file": "terms/index.html",
-      "bytes": 3340,
-      "sha256": "b5f7b182b0efc11ec67901cec37f88b2376c1a2a6b70570b1d69b30bc5d3dd1f"
+      "bytes": 4969,
+      "sha256": "ee21212a7579ae92ffc61526e1efa507a0aa6f81638864a4586635cb6997680e"
     },
     {
       "file": "tools/completion-plan/index.html",
-      "bytes": 10393,
-      "sha256": "8c11ebb58203c8608cedb25b17546d34fa3565d9abe05a2b1b38d823b44d5533"
+      "bytes": 16770,
+      "sha256": "a5892a2bd4beb3b183e03ba02292a92d2dbc2b19ed6f751f606243f7061bce22"
     },
     {
       "file": "tools/lecture-speed/index.html",
-      "bytes": 7930,
-      "sha256": "c8966a81f6e2c217ccf99b41ace1cd0f72ca65c0dc737db08fd91982fdefdba3"
+      "bytes": 13945,
+      "sha256": "52ae5001b744a53f1802fc214462be23af52ee64efe502aa271819976061b4c7"
     }
   ]
 }
