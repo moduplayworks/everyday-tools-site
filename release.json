@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-02T07:59:24.263Z",
+  "builtAt": "2026-10-02T08:15:22.578Z",
   "files": [
     {
       "file": "404.html",
-      "bytes": 3010,
-      "sha256": "6f45e5f26d13fd8e6b7203fe4c5f34d11d7051305efe6e96785dd71d806c9776"
+      "bytes": 3032,
+      "sha256": "f2bbf82fee317bae3d802fa97510b25a3fa3277d81a2f2b3aebc0af8ba0c2830"
     },
     {
       "file": "9cac8ce2489eedcc23a79495b861c94d.txt",
@@ -69,8 +69,8 @@
     },
     {
       "file": "about/index.html",
-      "bytes": 5926,
-      "sha256": "04660a6b33899cfcdc49bc0528dfe72913af1b1752d0191f61257d6c1bdc1325"
+      "bytes": 5948,
+      "sha256": "e0a0938a61243e66990c60314b715ef7fcfbe07d73fbb86ffd6b7be7a136a1bc"
     },
     {
       "file": "ads.txt",
@@ -79,18 +79,28 @@
     },
     {
       "file": "category/study/index.html",
-      "bytes": 7053,
-      "sha256": "cbaa3631054886ea96889d9fc55eb015e99f86f5af1d8675d9b149fcf97d6d00"
+      "bytes": 7051,
+      "sha256": "a30e137cdc80e870a288b3161f6f8ab63a5051c835933a1cf3faf6d20549dfb2"
     },
     {
       "file": "category/text/index.html",
-      "bytes": 6371,
-      "sha256": "2cdda60bf9511a0a5dc7b07a4676849028a2499a2359dd8dc913e68dd24b4a09"
+      "bytes": 6381,
+      "sha256": "44cdb58af93934b1ee84bccb168c9f7188966542b795090f665c431f632ae0eb"
+    },
+    {
+      "file": "character-count/index.html",
+      "bytes": 10780,
+      "sha256": "654abfbb4bd2acc6707c157573ae613087dd0926b5c6f37bd42a971cbcced98b"
+    },
+    {
+      "file": "completion-plan/index.html",
+      "bytes": 17624,
+      "sha256": "e6edf00205701611196c02ccaea3bf0b5f5adbe6503e92f44ce224dd5606f240"
     },
     {
       "file": "contact/index.html",
-      "bytes": 5499,
-      "sha256": "4ff36c38d36c5039b7684fbaaefd38b0036e60b27b5f4b08cdb4d2432741d856"
+      "bytes": 5521,
+      "sha256": "d6a92430dbd98b0606c295504adb16feea08f0eeacec051cf5496155d2fb39b3"
     },
     {
       "file": "favicon.svg",
@@ -99,18 +109,23 @@
     },
     {
       "file": "guide/index.html",
-      "bytes": 8171,
-      "sha256": "8d4383d240dc424a59841bbfbc1907b11f7086f8e324d854e49600bec81fdae5"
+      "bytes": 8181,
+      "sha256": "4b4c24160359b715c0b3c14a7b504c8ae31d9bc4fda1b8c03485701443e4e4f6"
     },
     {
       "file": "index.html",
-      "bytes": 8510,
-      "sha256": "e6ec9dc1ec23fdf3bb038c42cb8bd1d4224459b45b5fde008cddaf34efa75606"
+      "bytes": 8496,
+      "sha256": "f93ada24014627bb4de033ccd744cd1407f564dc7abffe990d4ccfeeb660301a"
+    },
+    {
+      "file": "lecture-speed/index.html",
+      "bytes": 14795,
+      "sha256": "12f6bec09ed00039ddb09912a4a49b16df57c83dba15dc126963e6708b0fbb73"
     },
     {
       "file": "privacy/index.html",
-      "bytes": 8399,
-      "sha256": "d73616dcdffef0bc66cdb4db15b7d8b313fa318de971bb94f931f592f83e9d94"
+      "bytes": 8421,
+      "sha256": "40684d01bd2a6528572d39e4a334323af0059f5edcd720c3c7f6451d47fe4181"
     },
     {
       "file": "robots.txt",
@@ -119,8 +134,8 @@
     },
     {
       "file": "sitemap.xml",
-      "bytes": 860,
-      "sha256": "a42988a655fc5a39665ace418140a7ab54db1f3cf9ae777137e6a1db7d0c2103"
+      "bytes": 842,
+      "sha256": "14dac66f742b56f08b60bcd8928a79c99c5b0f97614162432120e6d92536bd11"
     },
     {
       "file": "social-card.png",
@@ -129,23 +144,23 @@
     },
     {
       "file": "terms/index.html",
-      "bytes": 6152,
-      "sha256": "ba9c701f1bca8db10dd306e8f9dfb21b3db9379cc6c5b68bb9f4d52cef86c75c"
+      "bytes": 6174,
+      "sha256": "6a432345403a8e41d832e779128166efd0a461aa5890ece5b122ed80e91ed67f"
     },
     {
       "file": "tools/character-count/index.html",
-      "bytes": 10824,
-      "sha256": "2ec6c210c7d8899db9e9ff2c7cf41112354302212cce401c7244894dddd60d3a"
+      "bytes": 507,
+      "sha256": "5e27e1b0c5f3689c2e8f531d5f58d4ab5de6af6ee927a8572151e808964af197"
     },
     {
       "file": "tools/completion-plan/index.html",
-      "bytes": 17680,
-      "sha256": "a9be112c2472c46113a811b5f471a06ab12c4514bce107bab7605d32a02e49d5"
+      "bytes": 521,
+      "sha256": "4f27e136491893e3cdb9c73f8db3acf69cc48b0b2da59374787ff86e178129a2"
     },
     {
       "file": "tools/lecture-speed/index.html",
-      "bytes": 14851,
-      "sha256": "23d1c6197638177cf1ac42262659de7c59e0c7b553bf424d3218258ac81239ba"
+      "bytes": 515,
+      "sha256": "dd62fe437971142e4f5aa0500ba67bc28ec0735fc8e2c5e34e418eb0a9c18fde"
     }
   ]
 }
