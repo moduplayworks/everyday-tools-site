@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-02T05:36:51.921Z",
+  "builtAt": "2026-10-02T05:51:02.563Z",
   "files": [
     {
       "file": "404.html",
-      "bytes": 2853,
-      "sha256": "85758a89de45e5f2902dbe5e0dbd8ea2f793a420efaa2ae2193ce0800a945c57"
+      "bytes": 2941,
+      "sha256": "1f960f07082674d31970c8a07e75f53bf2174fafdbfa4acfafd62bfd1564b092"
     },
     {
       "file": "9cac8ce2489eedcc23a79495b861c94d.txt",
@@ -39,8 +39,8 @@
     },
     {
       "file": "about/index.html",
-      "bytes": 4375,
-      "sha256": "83ec630c2595499491273056fa5ec58ec85d746d9691db8863e0834427b8e42c"
+      "bytes": 4463,
+      "sha256": "6d5eae33c8fc8d9f981854fc619c292eafd05307b9d72d8fb8c1ec702521b592"
     },
     {
       "file": "ads.txt",
@@ -49,13 +49,13 @@
     },
     {
       "file": "category/study/index.html",
-      "bytes": 5474,
-      "sha256": "f7ef30ad7cf05ff63aa3238e06589e1afac0f1e53a4efb6a5ec86089824e50c6"
+      "bytes": 5562,
+      "sha256": "dd62a875d28f40f3022a8d94c6fa0cd5651bb657cf3b3a4ad03e90d2da05a27e"
     },
     {
       "file": "contact/index.html",
-      "bytes": 3956,
-      "sha256": "acd063c3e979e83db983a042612a8253bf5dede9b13bec077fdffdb1f79a9da3"
+      "bytes": 4044,
+      "sha256": "e19089fcb076d8bc7cb77317c163f034f04abfdf77ac384f247b1a12212a6e3a"
     },
     {
       "file": "favicon.svg",
@@ -64,18 +64,18 @@
     },
     {
       "file": "guide/index.html",
-      "bytes": 6607,
-      "sha256": "09f2d301bc233eff4ddb2a3fa7935f8924cd537e5ac194787a62ad410d3114a3"
+      "bytes": 6695,
+      "sha256": "b5155da5e9c9a21cf9e1b97627b8a17e2fb8a38e1940be0bc19657b593307969"
     },
     {
       "file": "index.html",
-      "bytes": 6172,
-      "sha256": "103e31a54164d3b9e6738209187b3aeba406864e983811c6833f78b18348ccea"
+      "bytes": 6260,
+      "sha256": "617c47a12d023857d50e16cf8a564b4816534fdf5dc2c1878dda56bb0cdb5214"
     },
     {
       "file": "privacy/index.html",
-      "bytes": 5120,
-      "sha256": "15dfc97535dcbbab7c88302eccb759c20efbfa00415fd3df101261405d6c562b"
+      "bytes": 5208,
+      "sha256": "8ac8fa286d26dfd5b3dd2cd7cc84588be00e26a65bc0b4e520a131b4edd90ee0"
     },
     {
       "file": "robots.txt",
@@ -94,18 +94,18 @@
     },
     {
       "file": "terms/index.html",
-      "bytes": 4594,
-      "sha256": "41c662251a95f5a82871634bfdf4271962d3aabb477135a4a47790a1281a8bc9"
+      "bytes": 4682,
+      "sha256": "10ab287d81705313b0fe2dbd223c32bb42c37ecb41ab20fa5d268dbe9c946c72"
     },
     {
       "file": "tools/completion-plan/index.html",
-      "bytes": 16075,
-      "sha256": "338e897c9e3906c1ae101fe7619f04da81143c0671a7307beca59455c33c58f4"
+      "bytes": 16163,
+      "sha256": "fee2a7c33109471296b2a770b3ab4a3ec3ac775135e23347b0384859f7a2a11f"
     },
     {
       "file": "tools/lecture-speed/index.html",
-      "bytes": 13250,
-      "sha256": "4f0baa2931ccf4a8036a155fe67c631dfd7c4876c2024484b58a49a20d8d96a5"
+      "bytes": 13338,
+      "sha256": "ef7e2b4a79dcf4ff4a3ef17caabc49ef99c66abc1fcc52096f178d922b4f1aeb"
     }
   ]
 }
