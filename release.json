@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-02T22:49:50.404Z",
+  "builtAt": "2026-10-02T23:02:54.513Z",
   "files": [
     {
       "file": "404.html",
@@ -78,9 +78,9 @@
       "sha256": "8226c38a96c8b8c51949113391bfda1cfc771044daa0035b693a18a2a3202941"
     },
     {
-      "file": "_astro/ImageUtilitiesPage.astro_astro_type_script_index_0_lang.zafqOaPz.js",
-      "bytes": 20491,
-      "sha256": "7076fd8a95f97d92bdb568785ce637f01bd2e9e536a315d47ad2c22268d178f9"
+      "file": "_astro/ImageUtilitiesPage.astro_astro_type_script_index_0_lang.CGgT4S9-.js",
+      "bytes": 21281,
+      "sha256": "45219a8476707f8d73930cf1004a177c163b09726ac5f3875cf38f426e24c2dd"
     },
     {
       "file": "_astro/JsBarcode.Cz_irYAh.js",
@@ -314,8 +314,8 @@
     },
     {
       "file": "barcode-generator/index.html",
-      "bytes": 16450,
-      "sha256": "d61a9061378fd0a98928193191b4caf768ac41a3917687c2373aa01651f225cc"
+      "bytes": 16532,
+      "sha256": "b48af8810ac745fba3d5d496e50991ee174a475ad87a7d639b2fa3331c07ba24"
     },
     {
       "file": "base64/index.html",
@@ -505,7 +505,7 @@
     {
       "file": "favicon-maker/index.html",
       "bytes": 17055,
-      "sha256": "905191655ff8d9059a38bd40ad560097432aacfed5e3db08209276d6d44ea67c"
+      "sha256": "e800790767b59ebf34f06a6f7a00de241ec02ed6070618a2dc75f21803bba1c8"
     },
     {
       "file": "favicon.svg",
@@ -595,7 +595,7 @@
     {
       "file": "image-palette/index.html",
       "bytes": 16481,
-      "sha256": "d3204017b4b8513af9445e62dd185673d9fa6362368446fa501084d6b62aa932"
+      "sha256": "4390715c320a465f917c6a1f6e43c5bee3c8af0eeac133e531b28cd7721a8b57"
     },
     {
       "file": "image-redact/index.html",
@@ -1540,7 +1540,7 @@
     {
       "file": "qr-reader/index.html",
       "bytes": 15351,
-      "sha256": "a90ad96f8fedf8068e3138d6ce4c044cfc81e00b154f43bba54298371ef07f8c"
+      "sha256": "99aa1c523811e08673b92179c519df89c966d6216851bad886aaa8acc57c139c"
     },
     {
       "file": "quadratic/index.html",
