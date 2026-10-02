@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-02T21:03:04.508Z",
+  "builtAt": "2026-10-02T21:07:59.603Z",
   "files": [
     {
       "file": "404.html",
@@ -38,9 +38,9 @@
       "sha256": "ccac95f6c76085b61703079a6bc3c953e93e3984ef8326ff7eacdeb89a676f37"
     },
     {
-      "file": "_astro/ComparisonToolPage.astro_astro_type_script_index_0_lang.B82u7Vo6.js",
-      "bytes": 26712,
-      "sha256": "65763455057f827cea9112dceb449671fd1d17629b188130f50240d96987f56b"
+      "file": "_astro/ComparisonToolPage.astro_astro_type_script_index_0_lang.DaHCgNmH.js",
+      "bytes": 27180,
+      "sha256": "6229567a856568334b753d04250659d6d278ef1d7fa8290b6f02e6bb26723ed7"
     },
     {
       "file": "_astro/DeveloperWorkbenchPage.astro_astro_type_script_index_0_lang.BgnYVsF2.js",
@@ -240,7 +240,7 @@
     {
       "file": "actual-fuel-economy/index.html",
       "bytes": 17830,
-      "sha256": "15cd3ce8a335086cfa308ef60fb6dfd4f3e8ea724b919e22dd5f661cbaff475c"
+      "sha256": "7d01d9865006b66dd756a9c7d278206eb303cc1311402a0644e25806e076b139"
     },
     {
       "file": "ads.txt",
@@ -255,7 +255,7 @@
     {
       "file": "appliance-energy/index.html",
       "bytes": 18728,
-      "sha256": "a627a4dcd6a82472748f0d88753e6e863803b3a2dc33c005ffa2a3d5ee7eb21b"
+      "sha256": "34385956db93b421018cbded95ed9c0fb73b1994c2c17e41e84fa2ee37d3bd15"
     },
     {
       "file": "archive-extract/index.html",
@@ -390,7 +390,7 @@
     {
       "file": "coupon-discount/index.html",
       "bytes": 20514,
-      "sha256": "f66933c7d85de3a25a57943f4448b6fe00cbae8c5640592fceec32ad17c85a7b"
+      "sha256": "6d836331c4a07a433417469756ece43d88b5b93eb941b190972a6f4bb3684aba"
     },
     {
       "file": "css-clamp/index.html",
@@ -1395,7 +1395,7 @@
     {
       "file": "pizza-value/index.html",
       "bytes": 19167,
-      "sha256": "b4234889b97830450f427ed61c2ba95d0fbd0f17f6a76561efdf1a651c9ee919"
+      "sha256": "97136d68dab24f6102196d98aa310b0e07a1c39e79cebfcb1cf6b9c801bb0402"
     },
     {
       "file": "power-converter/index.html",
@@ -1469,8 +1469,8 @@
     },
     {
       "file": "recipe-scale/index.html",
-      "bytes": 17249,
-      "sha256": "515bdcb5313eb88b24b331418e11829218ddee39ed52137c1e08d11a93c52039"
+      "bytes": 17247,
+      "sha256": "6e88cddad0bd5d08b713dc1d431aecb4295569b194453bf85b58f652df9eea39"
     },
     {
       "file": "rectangle/index.html",
@@ -1565,7 +1565,7 @@
     {
       "file": "subscription-cost/index.html",
       "bytes": 17955,
-      "sha256": "bdccba8d3fb8ee353a8cdf174a5577b7e96dd7aacd55942f32e9a89b07a7e9cf"
+      "sha256": "fc224f43c46b74ca5f4fd2ed8e24b959cdd290d2f4f039aad7b90de46714ae38"
     },
     {
       "file": "team-generator/index.html",
@@ -2295,7 +2295,7 @@
     {
       "file": "trip-fuel-cost/index.html",
       "bytes": 19567,
-      "sha256": "2aeec95f031aca8673823cb7e490f60c03a52ecb834933e1d1aae636adac4090"
+      "sha256": "a0be6967d3a293048d970c868953af8e71ae511ae92a9b2bc26d83a79496b56d"
     },
     {
       "file": "truncate-text/index.html",
@@ -2315,7 +2315,7 @@
     {
       "file": "unit-price/index.html",
       "bytes": 18550,
-      "sha256": "549a084dbff763619869539cf63ef49b31b51c88dc702b287409b94c8143903b"
+      "sha256": "0f43890233d7b7abdd4db844d85a0925a5fcdbd35fab875a70c6b264df0a3f00"
     },
     {
       "file": "unix-timestamp/index.html",
