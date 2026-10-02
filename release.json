@@ -1,0 +1,91 @@
+{
+  "version": "0.1.0",
+  "builtAt": "2026-10-02T04:30:54.387Z",
+  "files": [
+    {
+      "file": "404.html",
+      "bytes": 2222,
+      "sha256": "2dd43683f0a7991cd73ad188c8dedb0dea724ea684d6fb4119332f3127a7a427"
+    },
+    {
+      "file": "_astro/Calculator.astro_astro_type_script_index_0_lang.4z4tMWfV.js",
+      "bytes": 15701,
+      "sha256": "ff8554071a8760c25ecc5c50ee5981a80a5c16f1e317069ae1aafc0bfab4f169"
+    },
+    {
+      "file": "_astro/Layout.q0YtgMmm.css",
+      "bytes": 11931,
+      "sha256": "d5f93e62d800f93af106a81dbfa9d28f5a9aabe5db62d91a6861f682fa9750b8"
+    },
+    {
+      "file": "_astro/index.astro_astro_type_script_index_0_lang.z3bMdrzs.js",
+      "bytes": 682,
+      "sha256": "8e4786538ebacf2b47dd0490c9732edf39091994bfb58471c07a3d45fa4cf943"
+    },
+    {
+      "file": "_astro/study.DUyeYvzI.js",
+      "bytes": 8299,
+      "sha256": "fb7eaf4e48469e1700baa62a2d125e36ba3d3838cc815541ea5a442f5303b330"
+    },
+    {
+      "file": "about/index.html",
+      "bytes": 3095,
+      "sha256": "1b44bfaa6a36e3e6da9088ebbe913efc15a68cc348fa4166eeddb82b0bb36bac"
+    },
+    {
+      "file": "category/study/index.html",
+      "bytes": 3201,
+      "sha256": "8a0d79d9ba914862575920bec677c3b9bf0f81d6a390abfb59c410a9fb947eef"
+    },
+    {
+      "file": "contact/index.html",
+      "bytes": 2768,
+      "sha256": "c4183c5bd8fb9c0f9a6c34dd5aa7a667723fb56767acf4983fa03b7c2d9dde62"
+    },
+    {
+      "file": "favicon.svg",
+      "bytes": 219,
+      "sha256": "71390de39d99c2092d3bfb1eac386d9e088b424be62ab5d1a337f465de4ee625"
+    },
+    {
+      "file": "guide/index.html",
+      "bytes": 5323,
+      "sha256": "8dd6d5494fe4ac4c677d8eadd70d62c35f2c73515d6ac8a95ce657dde59c1fe3"
+    },
+    {
+      "file": "index.html",
+      "bytes": 4392,
+      "sha256": "2353a0a6299eaa4d2947c7f0a3dfee682512f8fb6189a19361adb993d334831d"
+    },
+    {
+      "file": "privacy/index.html",
+      "bytes": 3858,
+      "sha256": "ea8f97f9ad93405fda384d1e1f47067f056303fdafa80fcb58b483ccf8d4b3da"
+    },
+    {
+      "file": "robots.txt",
+      "bytes": 96,
+      "sha256": "aa543e33c5116e0e3906fa89ccca9b31d1e138f8a53bea4d212eeaa55ac8bf09"
+    },
+    {
+      "file": "sitemap.xml",
+      "bytes": 864,
+      "sha256": "2eb86bcd61f330989bf26dcb7f03c929b22ee94486b6425b423d3daaacaae967"
+    },
+    {
+      "file": "terms/index.html",
+      "bytes": 3340,
+      "sha256": "3abe8b995c228807aa91502c778b737851404409d21e374e6e2a52ebf3b2fda3"
+    },
+    {
+      "file": "tools/completion-plan/index.html",
+      "bytes": 10393,
+      "sha256": "a52c99423387a97db3bca6979d39fc179a651bc45d55fdbca7e8a5841bc75fc5"
+    },
+    {
+      "file": "tools/lecture-speed/index.html",
+      "bytes": 7930,
+      "sha256": "6e72fe15202df7eb381428efb721b37ed029615ba1090f6a71e05412072a7909"
+    }
+  ]
+}

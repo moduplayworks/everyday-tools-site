@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moduplayworks.github.io/everyday-tools-site/sitemap.xml
