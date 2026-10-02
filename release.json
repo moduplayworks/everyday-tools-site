@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-02T04:30:54.387Z",
+  "builtAt": "2026-10-02T04:55:38.000Z",
   "files": [
     {
       "file": "404.html",
       "bytes": 2222,
-      "sha256": "2dd43683f0a7991cd73ad188c8dedb0dea724ea684d6fb4119332f3127a7a427"
+      "sha256": "2922c75be79cb8de6c047fe2980360ee4e1a4190e33603c1869aa2e528b89049"
     },
     {
       "file": "_astro/Calculator.astro_astro_type_script_index_0_lang.4z4tMWfV.js",
@@ -13,9 +13,9 @@
       "sha256": "ff8554071a8760c25ecc5c50ee5981a80a5c16f1e317069ae1aafc0bfab4f169"
     },
     {
-      "file": "_astro/Layout.q0YtgMmm.css",
-      "bytes": 11931,
-      "sha256": "d5f93e62d800f93af106a81dbfa9d28f5a9aabe5db62d91a6861f682fa9750b8"
+      "file": "_astro/Layout.DCQt9E5u.css",
+      "bytes": 12934,
+      "sha256": "697de80de2c6e6d656b30dde9a97100850b7c7dcebbc524c94394022a77dcc2a"
     },
     {
       "file": "_astro/index.astro_astro_type_script_index_0_lang.z3bMdrzs.js",
@@ -30,17 +30,17 @@
     {
       "file": "about/index.html",
       "bytes": 3095,
-      "sha256": "1b44bfaa6a36e3e6da9088ebbe913efc15a68cc348fa4166eeddb82b0bb36bac"
+      "sha256": "88111dc6ab5f6c053d66f1f2d171d1cd2fe9c4fb4ff11b070c3e9f5211f332b8"
     },
     {
       "file": "category/study/index.html",
       "bytes": 3201,
-      "sha256": "8a0d79d9ba914862575920bec677c3b9bf0f81d6a390abfb59c410a9fb947eef"
+      "sha256": "1e9ec75b433de9b1a21e430bbacd551cc2b3bb43d48bb3d28e473591f712f709"
     },
     {
       "file": "contact/index.html",
       "bytes": 2768,
-      "sha256": "c4183c5bd8fb9c0f9a6c34dd5aa7a667723fb56767acf4983fa03b7c2d9dde62"
+      "sha256": "ee29817b424c43d3140582446a454da3d2c4499871ef87b13114728c1395e7fa"
     },
     {
       "file": "favicon.svg",
@@ -50,17 +50,17 @@
     {
       "file": "guide/index.html",
       "bytes": 5323,
-      "sha256": "8dd6d5494fe4ac4c677d8eadd70d62c35f2c73515d6ac8a95ce657dde59c1fe3"
+      "sha256": "0217cb8282120edbde504d600c76713205c4d8c549a667c12f29573ef771c361"
     },
     {
       "file": "index.html",
       "bytes": 4392,
-      "sha256": "2353a0a6299eaa4d2947c7f0a3dfee682512f8fb6189a19361adb993d334831d"
+      "sha256": "2479d24df2a227020b8ea72725249577060f29f09060c8e93aad7fe0c72e899d"
     },
     {
       "file": "privacy/index.html",
       "bytes": 3858,
-      "sha256": "ea8f97f9ad93405fda384d1e1f47067f056303fdafa80fcb58b483ccf8d4b3da"
+      "sha256": "26ae0406a91568ffaa8cad1035e1eb98e9a7e91c4c42fd87efb05c569b49422c"
     },
     {
       "file": "robots.txt",
@@ -75,17 +75,17 @@
     {
       "file": "terms/index.html",
       "bytes": 3340,
-      "sha256": "3abe8b995c228807aa91502c778b737851404409d21e374e6e2a52ebf3b2fda3"
+      "sha256": "b5f7b182b0efc11ec67901cec37f88b2376c1a2a6b70570b1d69b30bc5d3dd1f"
     },
     {
       "file": "tools/completion-plan/index.html",
       "bytes": 10393,
-      "sha256": "a52c99423387a97db3bca6979d39fc179a651bc45d55fdbca7e8a5841bc75fc5"
+      "sha256": "8c11ebb58203c8608cedb25b17546d34fa3565d9abe05a2b1b38d823b44d5533"
     },
     {
       "file": "tools/lecture-speed/index.html",
       "bytes": 7930,
-      "sha256": "6e72fe15202df7eb381428efb721b37ed029615ba1090f6a71e05412072a7909"
+      "sha256": "c8966a81f6e2c217ccf99b41ace1cd0f72ca65c0dc737db08fd91982fdefdba3"
     }
   ]
 }
