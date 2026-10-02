@@ -1,0 +1,1 @@
+function e(e){matchMedia(`(max-width: 1023px)`).matches&&(e.focus({preventScroll:!0}),e.scrollIntoView({block:`start`,behavior:`auto`}))}function t(e){e.querySelector(`input:not([type="hidden"]),textarea,select`)?.focus({preventScroll:!0}),e.scrollIntoView({block:`start`,behavior:`auto`})}export{e as n,t};
