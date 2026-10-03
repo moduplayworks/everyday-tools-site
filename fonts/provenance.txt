@@ -1,0 +1,58 @@
+{
+  "source": "https://github.com/google/fonts/tree/main/ofl/notosanskr",
+  "gitBlob": "b386890ba945e1f39448a6b59f20c5d194f58808",
+  "sourceSha256": "194018e6b2b293a7964f037b25c0249ce1418bc9ab3c971060a03aa57861e252",
+  "sha256": "0d222038eadb1554fa652977ac119fb716c0dd288661fe0659f752820f001e1c",
+  "fontTools": "4.61.1",
+  "weight": 400,
+  "modified": true,
+  "family": "Everyday Korean",
+  "unicodeRanges": [
+    [
+      "0x20",
+      "0x24f"
+    ],
+    [
+      "0x1100",
+      "0x11ff"
+    ],
+    [
+      "0x1e00",
+      "0x1eff"
+    ],
+    [
+      "0x2000",
+      "0x206f"
+    ],
+    [
+      "0x20a0",
+      "0x20cf"
+    ],
+    [
+      "0x3000",
+      "0x30ff"
+    ],
+    [
+      "0x3130",
+      "0x318f"
+    ],
+    [
+      "0x3200",
+      "0x33ff"
+    ],
+    [
+      "0xa960",
+      "0xa97f"
+    ],
+    [
+      "0xac00",
+      "0xd7ff"
+    ],
+    [
+      "0xff00",
+      "0xffef"
+    ]
+  ],
+  "license": "SIL Open Font License 1.1",
+  "note": "Static weight 400 with Korean syllables, Jamo, Latin, kana and punctuation; unsupported glyphs rejected. Retains original copyright; renamed derivative. No OpenType shaping tables; text uses NFC and direct glyph mapping and unique Unicode-to-glyph cmap entries."
+}
