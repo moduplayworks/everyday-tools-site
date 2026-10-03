@@ -1,4 +1,4 @@
-import{s as e}from"./analytics.D9Wg0T_t.js";import{n as t}from"./result-sharing.DmFkqaRq.js";import{n,t as r}from"./result-navigation.DAMCIgbc.js";var i=class extends Error{field;constructor(e,t=``){super(e),this.field=t}},a=`apple	사과
+import{s as e}from"./analytics.C7Chja97.js";import{n as t}from"./result-sharing.DmFkqaRq.js";import{n,t as r}from"./result-navigation.DAMCIgbc.js";var i=class extends Error{field;constructor(e,t=``){super(e),this.field=t}},a=`apple	사과
 book	책
 window	창문`,o={ko:`오늘의 작은 연습이 내일의 변화를 만듭니다.`,en:`Small steps today make a better tomorrow.`},s=`민준
 서연
