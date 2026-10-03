@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-03T04:30:49.817Z",
+  "builtAt": "2026-10-03T04:37:12.105Z",
   "files": [
     {
       "file": "404.html",
@@ -58,9 +58,9 @@
       "sha256": "01ac8b28249c0b787aaec0d393e369e7992d15b921f17fd9dff370153755307a"
     },
     {
-      "file": "_astro/DocumentScanPage.astro_astro_type_script_index_0_lang.DlRrhJLs.js",
-      "bytes": 16055,
-      "sha256": "14d26370e756f78d05a9c456b9657ed2c77fc4780b7be4428236db98151fea1c"
+      "file": "_astro/DocumentScanPage.astro_astro_type_script_index_0_lang.DRDdx8qJ.js",
+      "bytes": 16745,
+      "sha256": "7a57fdc3bc49149d84e26782ab5f41c511ed68ab56dff8aa552efb62fa2b82c5"
     },
     {
       "file": "_astro/DocumentWorkbenchPage.astro_astro_type_script_index_0_lang.DPYJzd9P.js",
@@ -560,7 +560,7 @@
     {
       "file": "document-scan/index.html",
       "bytes": 23599,
-      "sha256": "e6e099dc7965eefde7a29502d7f4bd3670b201f19d2755addf3d494b50865239"
+      "sha256": "17e2861aee8c660d0528941a583a948d2dc86519d7a4d27c5599e755afcf5c34"
     },
     {
       "file": "duration-unit-converter/index.html",
