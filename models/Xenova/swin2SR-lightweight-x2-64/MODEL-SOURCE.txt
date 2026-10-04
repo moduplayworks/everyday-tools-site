@@ -1,0 +1,9 @@
+Swin2SR lightweight x2 model
+
+ONNX conversion: Xenova/swin2SR-lightweight-x2-64
+Pinned repository revision: 92a21aca5713f20faf9a87590cdfbdce2e34112c
+Base model: https://huggingface.co/caidas/swin2SR-lightweight-x2-64
+Base model license: Apache-2.0
+Execution: @huggingface/transformers 4.3.0, q4 ONNX, local WebAssembly only
+
+The model performs 2x image super-resolution. It may estimate details that were not present in the source and does not guarantee recovery of original detail. The 3x and 4x export sizes use Lanczos interpolation after the 2x model output.
