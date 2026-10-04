@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-04T14:02:00.701Z",
+  "builtAt": "2026-10-04T14:32:41.742Z",
   "files": [
     {
       "file": "404.html",
@@ -479,8 +479,8 @@
     },
     {
       "file": "background-remove/index.html",
-      "bytes": 18264,
-      "sha256": "a5ac8882124aa7b6cf674e7818e7424601e5b60afcb264b6bacbc86c39154450"
+      "bytes": 18488,
+      "sha256": "6d0f797e359f7c7d9df33ea971499e7efcb1932ee99e1f53892793ebe790fcca"
     },
     {
       "file": "baking-pan/index.html",
