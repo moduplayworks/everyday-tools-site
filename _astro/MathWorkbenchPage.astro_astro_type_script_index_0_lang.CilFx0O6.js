@@ -1,4 +1,4 @@
-import{s as e}from"./analytics.Yk-dVAlV.js";import{n as t,t as n}from"./result-navigation.DAMCIgbc.js";import{n as r}from"./result-sharing.DmFkqaRq.js";import"./ads.C5Vip8CY.js";var i={"linear-system":{fields:{"matrix-a":`1 1 3
+import{s as e}from"./analytics.Yk-dVAlV.js";import{n as t,t as n}from"./result-navigation.DAMCIgbc.js";import{n as r}from"./result-sharing.DmFkqaRq.js";import"./ads.CkcN3MOE.js";var i={"linear-system":{fields:{"matrix-a":`1 1 3
 2 -1 0`,tolerance:`1e-12`},formula:`증강행렬 [A|b]에 행 교환·배수·행 더하기 → 수치 RREF → 해의 종류와 자유변수`,example:`x₁+x₂=3, 2x₁−x₂=0이면 x₁=1, x₂=2입니다. 마지막 열에는 각 식의 우변을 입력합니다.`,limits:`최대 8개 식·8개 미지수. 실수 근사 계산이며 행별 계수 크기 정규화 후 피벗 허용오차를 적용합니다. 허용오차에 따라 거의 특이한 식의 판정이 달라질 수 있습니다.`},"matrix-calculator":{fields:{operation:`inverse`,"matrix-a":`1 2
 3 4`,"matrix-b":`5 6
 7 8`,tolerance:`1e-12`},formula:`곱 Cᵢⱼ=ΣₖAᵢₖBₖⱼ · 역행렬 [A|I]→[I|A⁻¹] · 행렬식: 행 교환 부호와 소거 피벗·행 크기의 곱`,example:`A=[[1,2],[3,4]]의 행렬식은 −2이며 역행렬은 [[−2,1],[1.5,−0.5]]입니다. A와 B의 곱은 [[19,22],[43,50]]입니다.`,limits:`각 행렬은 최대 8×8. 실수만 지원합니다. 역행렬·행렬식은 정사각행렬만 계산합니다. 특이성은 작은 행렬식 자체가 아닌 정규화한 피벗의 허용오차로 판정합니다.`},regression:{fields:{points:`1 2
