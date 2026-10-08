@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-08T00:47:59.996Z",
+  "builtAt": "2026-10-08T01:07:56.946Z",
   "files": [
     {
       "file": "404.html",
@@ -599,8 +599,8 @@
     },
     {
       "file": "ads.txt",
-      "bytes": 59,
-      "sha256": "7e18e9a96875204e935e990d8e16843c25e5318364ede22a3fb224107553dabb"
+      "bytes": 118,
+      "sha256": "05616738f1d9be6eb7d0021dd59e79c4394416eefd5f3f49a0e7d5c6c1a3c7e6"
     },
     {
       "file": "age/index.html",
