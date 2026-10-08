@@ -1,0 +1,7 @@
+import{i as e,n as t,t as n}from"./general-tool.WdThzhYN.js";import{c as r,f as i,p as a}from"./shared.BJ72sHGW.js";function o(n,o){e(n,o);let s=Number(o.a),c=Number(o.b),l=Number(o.c),u=(o.text??``).replace(/\r\n?/g,`
+`),d=r(u);switch(n.id){case`uuid`:return Array.from({length:s},()=>crypto.randomUUID()).join(`
+`);case`password-generator`:{let e=[`ABCDEFGHJKLMNPQRSTUVWXYZ`,`abcdefghijkmnopqrstuvwxyz`,`23456789`,`!@#$%&*+-=?`],t=e.join(``),n;do n=Array.from({length:s},()=>t[i(t.length)]);while(e.some(e=>!n.some(t=>e.includes(t))));return n.join(``)}case`random-number`:{let e=c-s+1;if(e<l||e<1)throw Error(`범위가 올바르며 뽑을 개수 이상의 정수를 포함해야 합니다.`);let t=new Set;for(;t.size<l;)t.add(s+i(e));return[...t].join(`, `)}case`shuffle-list`:return a(d.filter(e=>e.trim())).join(`
+`);case`team-generator`:{let e=a(d.filter(e=>e.trim()));if(s>e.length)throw new t(`a`,`팀 수는 참가자 수 이하로 입력하세요.`);let n=Array.from({length:s},()=>[]);return e.forEach((e,t)=>n[t%s].push(e)),n.map((e,t)=>`${t+1}팀 (${e.length}명)\n${e.join(`
+`)}`).join(`
+
+`)}case`dice`:{let e=Array.from({length:c},()=>i(s)+1);return`주사위: ${e.join(`, `)}\n합계: ${e.reduce((e,t)=>e+t,0)}`}case`coin-flip`:{let e=Array.from({length:s},()=>i(2));return`앞면: ${e.filter(e=>e===0).length}회\n뒷면: ${e.filter(e=>e===1).length}회\n${e.map(e=>e?`뒷면`:`앞면`).join(`, `)}`}default:throw Error(`등록되지 않은 도구입니다.`)}}n(o);
