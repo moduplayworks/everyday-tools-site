@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-08T11:08:26.928Z",
+  "builtAt": "2026-10-08T11:22:32.322Z",
   "files": [
     {
       "file": "404.html",
@@ -19349,8 +19349,8 @@
     },
     {
       "file": "sitemap.xml",
-      "bytes": 305130,
-      "sha256": "912a34e7a6370bf38bf6203710b9cbc7426ada1907ba38bd0d79f417eb8276d7"
+      "bytes": 323313,
+      "sha256": "4a7f8c74c251b162639ae8e3dd9b8e185802df6a50343a50a8f60e1c69c95c36"
     },
     {
       "file": "slug-generator/index.html",
