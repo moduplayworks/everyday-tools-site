@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-08T08:56:10.708Z",
+  "builtAt": "2026-10-08T11:08:26.928Z",
   "files": [
     {
       "file": "404.html",
@@ -2464,8 +2464,8 @@
     },
     {
       "file": "en/flashcards/index.html",
-      "bytes": 30003,
-      "sha256": "caa633857a1e113848ac481b57605b01d193d7519781e7bc43510a1e68d3a6a0"
+      "bytes": 30371,
+      "sha256": "d5ab5ddd25f66ec8fc9ded2ff5e2eafc03c959eb3ac573acc46f5f460695542a"
     },
     {
       "file": "en/fraction/index.html",
@@ -2614,8 +2614,8 @@
     },
     {
       "file": "en/json-formatter/index.html",
-      "bytes": 22103,
-      "sha256": "0ba2f0fb1a066acc838c93ae881e2a8d621419ef5a99e5867f267ea3720b20cb"
+      "bytes": 22612,
+      "sha256": "5b6718c052173d26034d9a031ec8aa0db991eef0f2f24bd2dddabba738a554d1"
     },
     {
       "file": "en/json-to-csv/index.html",
@@ -3064,8 +3064,8 @@
     },
     {
       "file": "en/subtitle-convert/index.html",
-      "bytes": 28551,
-      "sha256": "a64e6b8eef75661f69354f15f968814f2ec78135269a8efac517dc1040bbb73b"
+      "bytes": 28993,
+      "sha256": "395955b0eef763243995316238e727713ad1a44fd8c0aaedef829f56e4f6511c"
     },
     {
       "file": "en/subtitle-sync/index.html",
@@ -3094,8 +3094,8 @@
     },
     {
       "file": "en/text-compare/index.html",
-      "bytes": 21760,
-      "sha256": "c075443baa95cbe39b7deb846111db870dbfa6330aec73f99bd1f96ea4c20c98"
+      "bytes": 22184,
+      "sha256": "951ca39c52550ddf9a5db5ebbf703d1c2fc7bab43ec6de1995185552fde73f43"
     },
     {
       "file": "en/time-difference/index.html",
@@ -12699,8 +12699,8 @@
     },
     {
       "file": "ja/flashcards/index.html",
-      "bytes": 31366,
-      "sha256": "40c960693e15e65e359476945f9989a5c65ab4b0c78725240922d74026d2bad2"
+      "bytes": 31832,
+      "sha256": "2ddab1979263f343a41bb4b65b1b2f5f9d128f11b9830181309051ffb0f55688"
     },
     {
       "file": "ja/fraction/index.html",
@@ -12849,8 +12849,8 @@
     },
     {
       "file": "ja/json-formatter/index.html",
-      "bytes": 23291,
-      "sha256": "9409f6fb4edbf1731e48f88093810573f198ce9f7fb52a860c32d4778a7bd93d"
+      "bytes": 23841,
+      "sha256": "a6604e93ebc32df3197a9367d1126830e8780be174ae746f7e9a37334d8e2805"
     },
     {
       "file": "ja/json-to-csv/index.html",
@@ -13299,8 +13299,8 @@
     },
     {
       "file": "ja/subtitle-convert/index.html",
-      "bytes": 30118,
-      "sha256": "88502e0a26645e267e8ea6e5362d8d1992a8343ef03bac3962d1e0bb10d64f35"
+      "bytes": 30676,
+      "sha256": "e0bde3c456ab036df475298b891d431a1b1bdb50ddae676b3523334ce9cb604d"
     },
     {
       "file": "ja/subtitle-sync/index.html",
@@ -13329,8 +13329,8 @@
     },
     {
       "file": "ja/text-compare/index.html",
-      "bytes": 22545,
-      "sha256": "5f2fb9db43aa2bbf119c1f85ecb86519d93c08c03f22a57678a91d69d5a36da4"
+      "bytes": 23074,
+      "sha256": "b7a82d5f91372193c58cd2cb2299c00d97e5151837194f564d16121ee2673a29"
     },
     {
       "file": "ja/time-difference/index.html",
@@ -13854,8 +13854,8 @@
     },
     {
       "file": "ko/flashcards/index.html",
-      "bytes": 34526,
-      "sha256": "5dc1bbd52ddd9bbb7fc1d438a8a762b1bb8b2219be066fa6b851605a616c7efa"
+      "bytes": 34925,
+      "sha256": "93fca5bec90168ba0a940edea04b345f144a4f35265b42f9a4c5ae5257cd8b38"
     },
     {
       "file": "ko/fraction/index.html",
@@ -14004,8 +14004,8 @@
     },
     {
       "file": "ko/json-formatter/index.html",
-      "bytes": 26969,
-      "sha256": "118a3ed9d225790bf600546ff7c2a94dbb37b51efe63c141b337334f109dd065"
+      "bytes": 27491,
+      "sha256": "d2b9f43db1da0c9fc95c7c881e2d38b8ef996c32576db2a2f5364196241715ac"
     },
     {
       "file": "ko/json-to-csv/index.html",
@@ -14454,8 +14454,8 @@
     },
     {
       "file": "ko/subtitle-convert/index.html",
-      "bytes": 33469,
-      "sha256": "5febcba056bea92b73a2cc3cd48ebcb49a5db35fa2e203a817b6ec0257308288"
+      "bytes": 34018,
+      "sha256": "0294fad00789918c5afd7dd4d72abc71325177c6b00f1d65be93291bd971874f"
     },
     {
       "file": "ko/subtitle-sync/index.html",
@@ -14484,8 +14484,8 @@
     },
     {
       "file": "ko/text-compare/index.html",
-      "bytes": 26367,
-      "sha256": "666fa7fad1bbb92add778afc5e315bb765ad68c0cb586000468d7f0e068fa9c9"
+      "bytes": 26857,
+      "sha256": "10733efc1233026f1c86a63f5f4c3d0b6d15c783772a5672e9fe52906cd5ede5"
     },
     {
       "file": "ko/time-difference/index.html",
