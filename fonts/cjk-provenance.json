@@ -1,0 +1,75 @@
+{
+  "source": "https://github.com/google/fonts/tree/main/ofl/notosanskr",
+  "gitBlob": "b386890ba945e1f39448a6b59f20c5d194f58808",
+  "sourceSha256": "194018e6b2b293a7964f037b25c0249ce1418bc9ab3c971060a03aa57861e252",
+  "supplementSource": "https://github.com/google/fonts/tree/main/ofl/notosansjp",
+  "supplementGitBlob": "cdd8f083c1f5928ff3361f8cda4d3fc9462cbe89",
+  "supplementSha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+  "supplementGlyphCount": 5353,
+  "sha256": "1612c61668d6e43f72aa33b38b129dc74837849ad606ec962657eb8ba235523d",
+  "fontTools": "4.61.1",
+  "weight": 400,
+  "modified": true,
+  "family": "Everyday CJK",
+  "unicodeRanges": [
+    [
+      "0x20",
+      "0x24f"
+    ],
+    [
+      "0x1100",
+      "0x11ff"
+    ],
+    [
+      "0x1e00",
+      "0x1eff"
+    ],
+    [
+      "0x2000",
+      "0x206f"
+    ],
+    [
+      "0x20a0",
+      "0x20cf"
+    ],
+    [
+      "0x3000",
+      "0x30ff"
+    ],
+    [
+      "0x3130",
+      "0x318f"
+    ],
+    [
+      "0x3200",
+      "0x33ff"
+    ],
+    [
+      "0x3400",
+      "0x4dbf"
+    ],
+    [
+      "0x4e00",
+      "0x9fff"
+    ],
+    [
+      "0xa960",
+      "0xa97f"
+    ],
+    [
+      "0xac00",
+      "0xd7ff"
+    ],
+    [
+      "0xf900",
+      "0xfaff"
+    ],
+    [
+      "0xff00",
+      "0xffef"
+    ]
+  ],
+  "license": "SIL Open Font License 1.1",
+  "licenseFile": "OFL.txt",
+  "note": "Renamed static Korean derivative supplemented with missing Japanese glyphs from Noto Sans JP; with Hangul, kana, CJK ideographs, Latin and punctuation. NFC direct glyph mapping; Unicode aliases have cloned outlines and metrics for unambiguous PDF text extraction; unsupported glyphs rejected. Embed complete derivative: PDF font subsetting corrupts rendered glyphs. Original copyright retained. Korean Noto source uses Korean regional CJK glyph shapes."
+}
