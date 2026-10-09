@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-09T01:27:35.345Z",
+  "builtAt": "2026-10-09T03:11:45.194Z",
   "files": [
     {
       "file": "404.html",
@@ -641,6 +641,11 @@
       "file": "_astro/HandwritingPracticePage.astro_astro_type_script_index_0_lang.BmSYBBz-.js",
       "bytes": 11912,
       "sha256": "084266372d1e2b16b1268f8143e55ba1cb0372802ee5c232cc7780e57b2815b1"
+    },
+    {
+      "file": "_astro/HandwritingPracticePage.astro_astro_type_script_index_0_lang.CmjzCO4a.js",
+      "bytes": 13286,
+      "sha256": "0983292c8935a01232bc166bc18a283983b973fc280e8de33c7e77ce2064c053"
     },
     {
       "file": "_astro/HandwritingPracticePage.astro_astro_type_script_index_0_lang.DPztolgp.js",
@@ -2530,7 +2535,7 @@
     {
       "file": "en/handwriting-practice/index.html",
       "bytes": 26722,
-      "sha256": "b91df14e0d7ba06896f254d6cf9a9da45f8f2eb5e2a75b05abf442c17abd1e66"
+      "sha256": "9df617c05bb89434074b17ef471928bf24ccc209c60e87b85b43eb9daacfc898"
     },
     {
       "file": "en/hex-text/index.html",
@@ -13935,7 +13940,7 @@
     {
       "file": "ja/handwriting-practice/index.html",
       "bytes": 28234,
-      "sha256": "f36c7e621cc1d495465d3d09a90d675b13db1137d3035e2ad89cf4a0a28f94b2"
+      "sha256": "2cf3ec6cb5c35c6c1d3d43be5d59d03a04d25fb36d188adcc8a824c10f8edcbb"
     },
     {
       "file": "ja/hex-text/index.html",
@@ -15090,7 +15095,7 @@
     {
       "file": "ko/handwriting-practice/index.html",
       "bytes": 32338,
-      "sha256": "02d65328404e859cabb5e7e13898137216c4cbf268f661bfaaeffdc9853b51e0"
+      "sha256": "4b82c32cea530736e68267740e70dce124c383d8dc46c20ea3d2b804e69e64b8"
     },
     {
       "file": "ko/hex-text/index.html",
