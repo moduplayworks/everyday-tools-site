@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-08T16:27:50.091Z",
+  "builtAt": "2026-10-09T01:27:35.345Z",
   "files": [
     {
       "file": "404.html",
@@ -641,6 +641,11 @@
       "file": "_astro/HandwritingPracticePage.astro_astro_type_script_index_0_lang.BmSYBBz-.js",
       "bytes": 11912,
       "sha256": "084266372d1e2b16b1268f8143e55ba1cb0372802ee5c232cc7780e57b2815b1"
+    },
+    {
+      "file": "_astro/HandwritingPracticePage.astro_astro_type_script_index_0_lang.DPztolgp.js",
+      "bytes": 13271,
+      "sha256": "fa9a136ba2e8964d3644a40d8af0bbf64b4b0cca502b8aa79cab453e4b6a9c96"
     },
     {
       "file": "_astro/HandwritingPracticePage.astro_astro_type_script_index_0_lang.sJymLFm4.js",
@@ -2525,7 +2530,7 @@
     {
       "file": "en/handwriting-practice/index.html",
       "bytes": 26722,
-      "sha256": "c36f03b3d7bdbf104e7305c21098b3e6d562df34cc363706d4d4b7d66075c8a0"
+      "sha256": "b91df14e0d7ba06896f254d6cf9a9da45f8f2eb5e2a75b05abf442c17abd1e66"
     },
     {
       "file": "en/hex-text/index.html",
@@ -5336,6 +5341,11 @@
       "file": "i18n/en/guide.json",
       "bytes": 38553,
       "sha256": "4c48308fb50fac0d4a8c9fb978a627ff201f83496f61f0699d1c5009672d15a8"
+    },
+    {
+      "file": "i18n/en/handwriting-practice.36ca4ec0d735eb30.json",
+      "bytes": 15703,
+      "sha256": "36ca4ec0d735eb300d3ec65411fdcb318dcdf364fb790426309c7cee762b5a6b"
     },
     {
       "file": "i18n/en/handwriting-practice.52cca8ff23dc9a19.json",
@@ -10518,6 +10528,11 @@
       "sha256": "42fda6c9930877f3ca656d037199bead04c2a4f153aff18a72dfe1dc06da6da4"
     },
     {
+      "file": "i18n/ja/handwriting-practice.26e1c5e79056bf16.json",
+      "bytes": 16977,
+      "sha256": "26e1c5e79056bf161028dfc09e727145656b9b12355ea1e5ef1632c092a1e3ab"
+    },
+    {
       "file": "i18n/ja/handwriting-practice.53a5d0a78c16ecb0.json",
       "bytes": 16314,
       "sha256": "53a5d0a78c16ecb0bd8744a161682c1e4e01101baf2fd5a3f8380d7141cebe79"
@@ -13920,7 +13935,7 @@
     {
       "file": "ja/handwriting-practice/index.html",
       "bytes": 28234,
-      "sha256": "fe7f7ffd9c5f0125a30c673cd604e4cde39506d32014fd64bc7c99ad4ab26368"
+      "sha256": "f36c7e621cc1d495465d3d09a90d675b13db1137d3035e2ad89cf4a0a28f94b2"
     },
     {
       "file": "ja/hex-text/index.html",
@@ -15075,7 +15090,7 @@
     {
       "file": "ko/handwriting-practice/index.html",
       "bytes": 32338,
-      "sha256": "e6413207a06da6714979461d8a747ab4b204d951faafe534ee59674838ea63fe"
+      "sha256": "02d65328404e859cabb5e7e13898137216c4cbf268f661bfaaeffdc9853b51e0"
     },
     {
       "file": "ko/hex-text/index.html",
@@ -20515,7 +20530,7 @@
     {
       "file": "sitemap.xml",
       "bytes": 323313,
-      "sha256": "bd303de9f99787ed3a60e4118a04aa6c27950c7f06507192b53784f2528cee6a"
+      "sha256": "6d0c53b62104f73d5f5cc9e78121e994240fce93108b9183da454c35235571be"
     },
     {
       "file": "slug-generator/index.html",
