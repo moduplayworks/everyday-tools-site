@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-10T13:31:54.587Z",
+  "builtAt": "2026-10-12T14:14:41.424Z",
   "files": [
     {
       "file": "404.html",
       "bytes": 3104,
-      "sha256": "83e4329619530a24b9aec7326266d9e30f677303a0f4aaef520f1d1604da350e"
+      "sha256": "c1aa10ff011bdbf580e3b3ffabcc9bde2af5331f21a39da157f6b7114175d664"
     },
     {
       "file": "9cac8ce2489eedcc23a79495b861c94d.txt",
@@ -16,6 +16,16 @@
       "file": "CNAME",
       "bytes": 19,
       "sha256": "d00e53e9523bd4a747952d100fa03e9ab48c5f3d9d19f98aa299e929a9d38a3a"
+    },
+    {
+      "file": "_astro/AdChromeRuntime.astro_astro_type_script_index_0_lang.Yijh7y8N.js",
+      "bytes": 1236,
+      "sha256": "6fc861f32b4d5add3cdd58e4a880a61623b0d1f7662b44d6416427d5eedfcd7d"
+    },
+    {
+      "file": "_astro/AdPreferences.astro_astro_type_script_index_0_lang.Bf9seK3w.js",
+      "bytes": 1243,
+      "sha256": "aa5a0ff0156a4a21b39fe3762a4630a3b320c9c9a936f75964ea5e3b463ac133"
     },
     {
       "file": "_astro/AdPreferences.astro_astro_type_script_index_0_lang.DWtfi_vt.js",
@@ -751,6 +761,11 @@
       "file": "_astro/Layout.Cs2_G76d.css",
       "bytes": 27790,
       "sha256": "32a9c2687e6af181af1643b2638b3804d35e561c921e9a8f8527d5417ab01754"
+    },
+    {
+      "file": "_astro/Layout.YPTxIZxr.css",
+      "bytes": 28328,
+      "sha256": "1ff860d1b38ae8d6072106aed8f34e7d73bc350b8f3a6865acdcf9f08bdd7dc8"
     },
     {
       "file": "_astro/LiveAdRuntime.astro_astro_type_script_index_0_lang.BF1h5ZhD.js",
@@ -2175,1137 +2190,1137 @@
     {
       "file": "en/about/index.html",
       "bytes": 8804,
-      "sha256": "45337b2870a48f31321209015f0a3edd0d72ffd536e9ec724a1a6eb767b2789b"
+      "sha256": "8c5911c694b3fd8c939b2de710884c4f47e88efcf2ac039b50ca511c776b91ae"
     },
     {
       "file": "en/actual-fuel-economy/index.html",
-      "bytes": 29607,
-      "sha256": "f39712b6ab75d50ebd11f358c2691b9f4da8cd0f42a3917e5804c5426ba3c48a"
+      "bytes": 28662,
+      "sha256": "2f6c968717c7f2475a42ee9adcd84fa893e6bf2ac77061a12326838cfada224d"
     },
     {
       "file": "en/age/index.html",
-      "bytes": 28949,
-      "sha256": "f740f76591c341b2f22d3da67a0ee8803a5d4f89b52ae21f32eb113314e43679"
+      "bytes": 28004,
+      "sha256": "82e6d13444a2bedd2e9d995b33ca54d1ef68392fbf73cdd6e6e1b834fed0420f"
     },
     {
       "file": "en/angle-converter/index.html",
-      "bytes": 21790,
-      "sha256": "afde0ad5ade6d4412e686abd5ef88b92ed44ad1c56a96fc35aef69fd863a1963"
+      "bytes": 20845,
+      "sha256": "851d449b8b4bf43c3a1190e457b71e00b7f89b5e88aec9b49a7214a84302da1a"
     },
     {
       "file": "en/anki-cloze-check/index.html",
-      "bytes": 23171,
-      "sha256": "db331d1639b60ff4fc0da878fade01a124ae6677a47fae379d88ed706f1abbef"
+      "bytes": 22226,
+      "sha256": "80810e75e864af061e6384a8986950749c461ad761c6fd1d83af3243904f30c4"
     },
     {
       "file": "en/appliance-energy/index.html",
-      "bytes": 30510,
-      "sha256": "bf9912e4bdc8e0a2fb8999c6920c7783093c017f360c118ab88e3bf6c468b2ea"
+      "bytes": 29565,
+      "sha256": "e12186c422f53141a10167e114de980eeebe2f4ccd22229480424fdee7cb9515"
     },
     {
       "file": "en/archive-extract/index.html",
-      "bytes": 24655,
-      "sha256": "39c191cc2a880d5f2424c96f1b766770633021985e2fe277674c1ab911abe1b5"
+      "bytes": 23710,
+      "sha256": "685a87886676bb0f6a166d7922b35f819f62c2658ae2d0975226457c39061de4"
     },
     {
       "file": "en/area-converter/index.html",
-      "bytes": 21832,
-      "sha256": "c72994ed49e4d2e7186fcbf7ab4d846a57507b9f80b8e82295800dd0247efd08"
+      "bytes": 20887,
+      "sha256": "c9d30fcd815768dccf492136f6858b8296967343874fe9a4d57afd6198e04f5d"
     },
     {
       "file": "en/arithmetic-sequence/index.html",
-      "bytes": 22390,
-      "sha256": "a1a4060a633f83a795aa22aa20954eea86cabb8b22d9825c0d44a12ee7edfdc4"
+      "bytes": 21445,
+      "sha256": "4ef252bf6a925a6004843dadd50dc42e2260c4190ac5dfdbd2794c08a2f88d2f"
     },
     {
       "file": "en/aspect-ratio/index.html",
-      "bytes": 22332,
-      "sha256": "4e2b04a44758c3b340b999fb701effedc4e01d0071765ca862098b46c09ed4aa"
+      "bytes": 21387,
+      "sha256": "530f6082f25f26d1ca166b94bbe2786399ff76ffb38ed2eb5cf61d75fd590cd4"
     },
     {
       "file": "en/ass-font-audit/index.html",
-      "bytes": 30721,
-      "sha256": "93f1f0c78e17a3fa72cff3c84d9f973465ef5309a1e12fb5bc98421af1dff629"
+      "bytes": 29776,
+      "sha256": "d8a6ff9e05bb2d39adc90bf02af860d6bf469147bf8ba43e7ae866d0b1137587"
     },
     {
       "file": "en/audio-convert/index.html",
-      "bytes": 29100,
-      "sha256": "0618bb1c60c2d0dac9a32475a56522b88ac765f4d215407dbd6f376e0510eef0"
+      "bytes": 28155,
+      "sha256": "23ba56f0484d8bee888d93d4ee1b0f041003b790fb1f556c07dda697365aa2ff"
     },
     {
       "file": "en/audio-trim/index.html",
-      "bytes": 28100,
-      "sha256": "042422e8277dfce96a26b401ba0c4eec108a4ebe803993f0bc64dbae6c238d24"
+      "bytes": 27155,
+      "sha256": "abf18a8cfffd9429d88f8518009d44dc66dd2128e7d4fb9a09c3a32646fb181b"
     },
     {
       "file": "en/average/index.html",
-      "bytes": 21023,
-      "sha256": "a07969e3cc2c4f4eb740e2a81749f1bbce38f62db80b2daf6861b73c73eb51ac"
+      "bytes": 20078,
+      "sha256": "d25246ff33e72aa9a0150e60b261ff77bd1b06c6cd2873a2cd43830d144df927"
     },
     {
       "file": "en/background-remove/index.html",
-      "bytes": 28305,
-      "sha256": "a512596cec8c440d990d5226d8c265de15f0a1d4b46f4d7447b65c2521b7c12d"
+      "bytes": 27360,
+      "sha256": "ca52b7d8d7d1ab7577424e5e7dd92cc5dfc37501b0704dbe998d643040aeef85"
     },
     {
       "file": "en/baking-pan/index.html",
-      "bytes": 25524,
-      "sha256": "03d5172eb8395837160e874fd90045256a820c05bf8f2782c903706855a01cb2"
+      "bytes": 24579,
+      "sha256": "15bcacdceff9a830b5e64d13a20f2ef8ada3f591e423762c44f5bb243d30fe8e"
     },
     {
       "file": "en/barcode-generator/index.html",
-      "bytes": 27506,
-      "sha256": "82a9e6a95dce27ab015e08270446da275691db2d7765f60f76852f3dc260fc02"
+      "bytes": 26561,
+      "sha256": "490bf7cb9ca9791980a5747d2646e9456610994b58edf4fe1acaefb9c4e5b89a"
     },
     {
       "file": "en/base64/index.html",
-      "bytes": 21830,
-      "sha256": "b946b8f0d4397556e423f6de249e40bdbf01d70033f0e547fa53155fd4f576d8"
+      "bytes": 20885,
+      "sha256": "92f39d55e6c3e940e8d140887a258c36fe020b15650c1b30f9517362a7cea942"
     },
     {
       "file": "en/batch-rename/index.html",
-      "bytes": 25458,
-      "sha256": "842ab848c29054f0e8b97a595e42035ce4ac93d39a926e8c656dfe35b143ab12"
+      "bytes": 24513,
+      "sha256": "56a55d08b4e7e50e0184ea4b901dcf71bff2d51ffc051aaeb9ea750c2f92a142"
     },
     {
       "file": "en/binomial-probability/index.html",
-      "bytes": 28507,
-      "sha256": "63b68d2b9684fca84ccb9098aa4208a9009825894a19a14eabca7a4b91ed01bf"
+      "bytes": 27562,
+      "sha256": "2e99b1cafaa1c2b319810a494e0ae26aed13400b5f37a9b8b71597e87a029e5d"
     },
     {
       "file": "en/break-even/index.html",
-      "bytes": 24462,
-      "sha256": "1550b4e2e381a071e5458431cfa8fc85fcc9d6995d90d9a5b3c6df06a598a5c8"
+      "bytes": 23517,
+      "sha256": "f7e06f617bc319eae15b67cef9013ad92a567d60135095c285a105ffe5562ddb"
     },
     {
       "file": "en/calendar-event/index.html",
-      "bytes": 30428,
-      "sha256": "f79e3381fdcd13a7691c375a8cfce025e3133ed53248cb3727d61f3b867fff36"
+      "bytes": 29483,
+      "sha256": "4fbf3ab7590ce8b8ced1f164c8c970a5282cb21f0af79d89298bb22ea7eaf719"
     },
     {
       "file": "en/category/developer/index.html",
       "bytes": 34052,
-      "sha256": "0ba70e11411ae9f860779ecf4284d49096180fabfb0151bd1d0ccc086c28d590"
+      "sha256": "9ecc08f7581a26da71b5bf3407a52deca7d002a5aaa7e53af5d8e1c0b4597583"
     },
     {
       "file": "en/category/file/index.html",
       "bytes": 12576,
-      "sha256": "776d49b8fa470a2d8ead85c5fadefd433b1248d0f82a16e2e2af43f512cccdfe"
+      "sha256": "b183885dbbd25a4f53dc51efbda0a3d54d2adae11d3b97565a2d02bc0ad9de56"
     },
     {
       "file": "en/category/image/index.html",
       "bytes": 22601,
-      "sha256": "c6e44e9888b58800ca1556707105d47ee6ff3b7ffa8afc68d73896e4d4048f9a"
+      "sha256": "65adabb45db73227ee3b68cca2101907f0365f2c7321afbb362d3e0bf63dde03"
     },
     {
       "file": "en/category/life/index.html",
       "bytes": 30060,
-      "sha256": "e05e84e351930d69c93680a8bef307df5fbd26ebc5b7536dbd4aa2eb57261363"
+      "sha256": "3661831564df16da249c52adcce71b594ab8c9e5d9fdf73ca74568b46da682ef"
     },
     {
       "file": "en/category/math/index.html",
       "bytes": 31936,
-      "sha256": "f38803cb7f53ad9fb772fb833253143b2314d771648036833af65f3eef24d88a"
+      "sha256": "c5a9d868c3f75fae8f5be8980fb641a7615f4efebba63b1c384c7c85d18e7371"
     },
     {
       "file": "en/category/media/index.html",
       "bytes": 17931,
-      "sha256": "85c38f28c7407633161609b4e6da6cebc9b4924bc583b0e10c51df8223f2ae99"
+      "sha256": "a593f2e56b387ad992697a5414ed718de39fb720136c66d0532390734b4a2c18"
     },
     {
       "file": "en/category/pdf/index.html",
       "bytes": 19980,
-      "sha256": "51e0965c428d222a10527689bcb38008e5241c3702d6cbcb358c663252b82d99"
+      "sha256": "432165c318875b94474b341f881eab082d94a6d39d02d2f0c96244fc4601f392"
     },
     {
       "file": "en/category/random/index.html",
       "bytes": 13943,
-      "sha256": "5cf089f736dd459c726d75f67b57f24d451579b5a99ab766364d375d1b295b53"
+      "sha256": "ab0b6809e6de3bcb3de47d7051905d07acfd43ae253179f8b1806672939055de"
     },
     {
       "file": "en/category/study/index.html",
       "bytes": 15701,
-      "sha256": "a5f34c18ce622a38d0a1ceeefe21864da6314b453f704092f47b84ad36240c6e"
+      "sha256": "be15be71df249ed9a6cb6961da577a23e92ec08e6eb8c963abb82d63b301104d"
     },
     {
       "file": "en/category/text/index.html",
       "bytes": 19056,
-      "sha256": "f7fed71ad661e93be108dd427426bcd5c358a6877c41c6d225dc0d57917e269b"
+      "sha256": "3680e62b93c9f0418c175122c21e055dc7f6b18951f66723042ad8d5bac55936"
     },
     {
       "file": "en/category/time/index.html",
       "bytes": 19405,
-      "sha256": "339d9312d8a015de81354868e0f9214a5a8675137ea44fb37fec561930cccb7a"
+      "sha256": "0f4dca8dc8ad9df4fa12a77476447768777a43fe4a4748451fd3baa630c0a684"
     },
     {
       "file": "en/category/unit/index.html",
       "bytes": 19567,
-      "sha256": "487dc317cfdbc3a5e2424c15bbdb1817260759f561df8ef60d64d01f7c3a7dae"
+      "sha256": "8fce07ce5e19a18865c4cc3916ac2f2acfd37cbc55228e25d8611d4cf33c98a1"
     },
     {
       "file": "en/character-count/index.html",
-      "bytes": 21578,
-      "sha256": "9b96cd1cfca9790156daec5c589022642b3aa988efa774c78c7c23f436d181cb"
+      "bytes": 20633,
+      "sha256": "35e9f15b3354da36c144e7e6435a0fc63458db987433324364e6a2e5e7b78ad2"
     },
     {
       "file": "en/circle/index.html",
-      "bytes": 21169,
-      "sha256": "f8a1d7670d7d382bd274ad0d5d54497503647809184d240ba90246e72c02aaa8"
+      "bytes": 20224,
+      "sha256": "4a604080d08a6d07daa703b4ca61a9b5047773d13e5f30da70022efaabcdfeb9"
     },
     {
       "file": "en/coin-flip/index.html",
-      "bytes": 20943,
-      "sha256": "309d215c551ed22b9731d0cda8e22bb2b530b3be2d88bb2bec2cfcaafe4712fe"
+      "bytes": 19998,
+      "sha256": "1a82324150eda05ae93769c7edf77298da5e3e33e206a25a4eec7158436f5dd1"
     },
     {
       "file": "en/color-converter/index.html",
-      "bytes": 20950,
-      "sha256": "f8b784952c99e01fab9efce315a802b93081b04be0fd4eb6e6bc0ae0ebab0f18"
+      "bytes": 20005,
+      "sha256": "478bee75a16dc432874ed4a262cd8a8e51f92c7e915832aed45e876e8430b548"
     },
     {
       "file": "en/completion-plan/index.html",
-      "bytes": 27823,
-      "sha256": "f83e6a7ffce3c5cc7bccb0c2706db98bc9223ef51da3851a29ae51b1672a0d71"
+      "bytes": 26878,
+      "sha256": "957b43bfc71f0971a643fb4a2faa1146ecce5bd59e51ee49f115a1699d727195"
     },
     {
       "file": "en/compound-interest/index.html",
-      "bytes": 25210,
-      "sha256": "46472484f7e368c545c032e60869a0e181df13a701026d740a271bf1393eaad9"
+      "bytes": 24265,
+      "sha256": "e56bfc59c0d4daad484e6c669d0a2c06f3e823dd5d77184cb5faf2cd10aa1bd7"
     },
     {
       "file": "en/cone/index.html",
-      "bytes": 21440,
-      "sha256": "73ae4577f3dee00abfe15315c884324cc26172a48a34374b3214985db5107a25"
+      "bytes": 20495,
+      "sha256": "40a60fd6eaddacf1126f217ccedfbab263d5514248739da2999a84277720789e"
     },
     {
       "file": "en/contact/index.html",
       "bytes": 7344,
-      "sha256": "c5cd56597cb50dca897b57745baab19871df3e3e3f5496444c0cc46f6509bc71"
+      "sha256": "f4b280fab03544c873abe4a37d21565361f3bf56591009725d13e124798c3ef4"
     },
     {
       "file": "en/contrast-checker/index.html",
-      "bytes": 22087,
-      "sha256": "739bfb19f9aec9196cd9689b87cce16b3bd8f1a0f2b52911e9e33b4beb72ff5b"
+      "bytes": 21142,
+      "sha256": "34ec21536b40e69210c2cde7332e91f962e608256c277c3945b8cc2f76841461"
     },
     {
       "file": "en/countdown-timer/index.html",
       "bytes": 22035,
-      "sha256": "8431308d3349832ab2a575646da6c7076a61a5c234fddf6ac38c954b8f22478f"
+      "sha256": "ae6a77d6fa28d8424941c5d0eec16895d89a49b898e4824fde6c44912202214d"
     },
     {
       "file": "en/coupon-discount/index.html",
-      "bytes": 42116,
-      "sha256": "38120e058cce60c417764691d36c4c1cdf401910c2aa7ad166a76d7034f8068e"
+      "bytes": 41171,
+      "sha256": "0454eec855a4ab7e6d711b2a8c6c48843d33a8d17d722f6b6e8002056f22694a"
     },
     {
       "file": "en/cron-helper/index.html",
-      "bytes": 30505,
-      "sha256": "62c17973319e014ae1f713b71ff3729bbdbd3da34cd1d1c24d3a8a601551959a"
+      "bytes": 29560,
+      "sha256": "a7faf97bf9277d9aab184ded22e96e59c361af24739991099273935a43f86db4"
     },
     {
       "file": "en/css-clamp/index.html",
-      "bytes": 22966,
-      "sha256": "2fa77c374d35d3d5732f9a5cdf7b2ccd5eeef5468636e51db4dce9df0ef16f59"
+      "bytes": 22021,
+      "sha256": "d4cd52b3da672c0ff90864f2bf7262a0b079476750c9e03b037a110a0bf2d129"
     },
     {
       "file": "en/css-gradient/index.html",
-      "bytes": 21916,
-      "sha256": "273f259a4b0d821c5032f0226f2326c5541a6b876bd05353a148ff1dace7924e"
+      "bytes": 20971,
+      "sha256": "312022fdbd6e6e0b871b4c538e038fac23e57141719b4d0ebbbd42c35c21910b"
     },
     {
       "file": "en/css-shadow/index.html",
-      "bytes": 22720,
-      "sha256": "a207b8bc220111c9f8d78fdd739728b465f7fac563d71aba04ae5939523e1392"
+      "bytes": 21775,
+      "sha256": "6fa88b6c18557117f65d249f0f36eaed9b6242a5f417d3f62dd62996892853c7"
     },
     {
       "file": "en/csv-to-json/index.html",
-      "bytes": 21595,
-      "sha256": "ab8ad7972b602862cb3befaccad22aad9758b0e1980effac049372ffa61a23bf"
+      "bytes": 20650,
+      "sha256": "576c23a736283a1f568f725adc6c7392f552f656f6400c2ba46bc141b18c6578"
     },
     {
       "file": "en/csv-viewer/index.html",
-      "bytes": 27713,
-      "sha256": "08033368559243235b679a9090ea33c3d121d58a3b4961ad967b658e34c7fe1d"
+      "bytes": 26768,
+      "sha256": "7e3e30254060938ca54c2fea00d67c4a140861a4e67ac6e3689fabf2e3db57af"
     },
     {
       "file": "en/currency-budget/index.html",
-      "bytes": 26433,
-      "sha256": "22ccd87a5bac87359d0e8750c43d7310d705032961f9f28e947415bbc913fc0f"
+      "bytes": 25488,
+      "sha256": "9becb48f809aa3cb4fe213ef4cae1eba074dbd4b1d3b9d674f8195af22f549ec"
     },
     {
       "file": "en/cylinder/index.html",
-      "bytes": 21245,
-      "sha256": "429c70ff97632057cb8a9ff73d7cf4e07b4c452c61acb6bdbefca34769cb5c46"
+      "bytes": 20300,
+      "sha256": "b09b3ba7ab635e9a619f926c2ec9fe90c0169848137f906a55648406d0332963"
     },
     {
       "file": "en/data-converter/index.html",
-      "bytes": 21828,
-      "sha256": "70bfc7d9b24faf44d786ac50c91fa09123906c9532c384f41e7ff923c2b8dd62"
+      "bytes": 20883,
+      "sha256": "860aad9eb523a7c65186a6bea6b2bc21edee5ae2ee657773bf34129b5852a569"
     },
     {
       "file": "en/date-add/index.html",
-      "bytes": 21097,
-      "sha256": "891c11f096dc22c2200b0e5d06cf17f3ecd1e63ee25b40c14674336585793ad7"
+      "bytes": 20152,
+      "sha256": "ff748b5ab97e43f6b6d8a03102f2abe29f0d8c718e6d4b609ae86bf25d6e84e1"
     },
     {
       "file": "en/date-difference/index.html",
-      "bytes": 22174,
-      "sha256": "47916c59d40a030ad59f95f7fe56f612085a97f679ecee292b68a3f8dd01671a"
+      "bytes": 21229,
+      "sha256": "63cc3b22f599f24380f45253de5e0eecaa64c3e62e43448db14eeffd90b92d3c"
     },
     {
       "file": "en/day-of-year/index.html",
-      "bytes": 20676,
-      "sha256": "685ac0d1bc418b156d43169d6c9e7461008faec136d26afa1c5593336910c698"
+      "bytes": 19731,
+      "sha256": "e9274a64e103ecb53b52ee7467c30979c00b7cd6048226b0735e5bde936b8009"
     },
     {
       "file": "en/deduplicate-lines/index.html",
-      "bytes": 21383,
-      "sha256": "35a82196a32603f8b2de179357ab5d4f9b177e7c5671c04ef0e67a41502f820d"
+      "bytes": 20438,
+      "sha256": "ca2fd332c9ce79fe03c7f158f84e020f11828440676c46bad386c7a1d6fd08ca"
     },
     {
       "file": "en/dice/index.html",
-      "bytes": 21264,
-      "sha256": "d27edd16a579101db39915b64d52a32f596579927940c7680858b6253ab72ef4"
+      "bytes": 20319,
+      "sha256": "4b8d1a920f4be76e30ddc7368e0828c2b0f19a97b893613cf56cf407cdf45e94"
     },
     {
       "file": "en/document-scan/index.html",
-      "bytes": 33939,
-      "sha256": "3eac00406064685be0e38ed6f7a634da45032d1f87dabb16d9acc28604166e98"
+      "bytes": 32994,
+      "sha256": "befd0348c8102a1d8702effe8c363e3c099486c795b1a118c4f1c3d8dcc5bae0"
     },
     {
       "file": "en/duplex-photocard/index.html",
-      "bytes": 28062,
-      "sha256": "aac998945c53c6feea3559f2df4f1e60b44635d5b58a84ab180c2c01167e2df6"
+      "bytes": 27117,
+      "sha256": "c74ba47c648064f40f8432ebb22e30ad6454dd8e8bfc909cc08d2148af3f3829"
     },
     {
       "file": "en/duration-unit-converter/index.html",
-      "bytes": 22340,
-      "sha256": "260c531819cbf6bf219c6941ff22dc471588e253699e21c38ce6e123543456e1"
+      "bytes": 21395,
+      "sha256": "a74794f371fad619109f925ae7fcd672275b40598a350fea92a83c5ddf3b3b5c"
     },
     {
       "file": "en/energy-converter/index.html",
-      "bytes": 22010,
-      "sha256": "a37f70771e332463840caacf0781543f19eb802016a7d55802ee9b278ffe4764"
+      "bytes": 21065,
+      "sha256": "8a989a1593f686edcbb57a86154620297afe2eb77b6b776d185f26771c4f77bf"
     },
     {
       "file": "en/expense-split/index.html",
-      "bytes": 36153,
-      "sha256": "5e8c4d5d4f47176052ac0965b64039f73d68e39d178ce679cd520692461cfcae"
+      "bytes": 35208,
+      "sha256": "697058a79ef07b20843f6a884e4db7cb62a04e5b37f73504ac17ce68699bd42a"
     },
     {
       "file": "en/extract-lines/index.html",
-      "bytes": 21980,
-      "sha256": "7a5da462b2435c9a6e3e8a05997c6ebb7a7c2d6a10a8d91d20c9b36d41f8215d"
+      "bytes": 21035,
+      "sha256": "1fd5bb5b6a0f5e7f5c7ac9675b436a894d8178bc9b85d9ecd491cab12ceb8f8d"
     },
     {
       "file": "en/favicon-maker/index.html",
-      "bytes": 27832,
-      "sha256": "b8a958edca9c32e7c297a744f984574651b2195f5a0e1bbd56efd2dc1218f49b"
+      "bytes": 26887,
+      "sha256": "49200d203052af70a27257fbbf50ed555b95ba588079b8aab810d14b5ed400ab"
     },
     {
       "file": "en/file-checksum/index.html",
-      "bytes": 24112,
-      "sha256": "41a31b2b3c1c5732f4cd7c6577683d0d4aa1f2694cb4fe18c9f24d783098c421"
+      "bytes": 23167,
+      "sha256": "5df958d4a7374caaa3ff0a75ce3c6e56a47e370e2d91fdea2df6875d17bf7716"
     },
     {
       "file": "en/find-replace/index.html",
-      "bytes": 21944,
-      "sha256": "fc526bbbdba7cbe535513c31e0338edbb75d2e1faf04c883363958236ebefa25"
+      "bytes": 20999,
+      "sha256": "075593b4488e84e8666b4b6c99dda16e4d0a46c73e6d41594bb436847036b09a"
     },
     {
       "file": "en/flashcards/index.html",
-      "bytes": 30267,
-      "sha256": "b68d23ebb8426c13fb555f4e54235d0676c388520ad03886f9df2af3f0239fdd"
+      "bytes": 29322,
+      "sha256": "1bd8ba089d002f16da92df585cc619005011920913b8d0f3565fc20667340118"
     },
     {
       "file": "en/fraction/index.html",
-      "bytes": 23193,
-      "sha256": "a00fc729c0326816c01741ff891cc3d6e7edfbc569cdc77ebdf32e427ed66a47"
+      "bytes": 22248,
+      "sha256": "01cb9f066f22ff772d798b5336bbfc5ec94f9119b5c58626e199ca5154d77edc"
     },
     {
       "file": "en/frequency-converter/index.html",
-      "bytes": 22236,
-      "sha256": "4fc729b5556fad59aff4ce166c1da07b97db5d9a19228035b193c7fb4b009905"
+      "bytes": 21291,
+      "sha256": "c04fcac2efd06027b882546732a12b78e4b69754b136c0ac1ce40bc2aee331bd"
     },
     {
       "file": "en/fuel-economy-converter/index.html",
-      "bytes": 21759,
-      "sha256": "7dfaeceeaf751e045c3c50c4bfd3d5a41fd9871bb3026d5de6fd2f3514e34d1d"
+      "bytes": 20814,
+      "sha256": "44dd6157608c8a9c32ebb61afc4044fa92963c82869ddac3ce7fcf2f2494720e"
     },
     {
       "file": "en/fullwidth-halfwidth/index.html",
-      "bytes": 22204,
-      "sha256": "2ed81850477e57d9dba275ba4ef5b806053c5ae728f4800a30445a2f232c5059"
+      "bytes": 21259,
+      "sha256": "d1105bfb683b6130250cf938b2309cf9177e01f935b086830766af0107ea2df0"
     },
     {
       "file": "en/function-graph/index.html",
-      "bytes": 30313,
-      "sha256": "10e643ad5db8feb69ffcbbec92f799d976cc9770d5232282919c4adfc09241d2"
+      "bytes": 29368,
+      "sha256": "ff51379079211fcbc669d4fa05a4f07436fc98caadfd0fb95f0f1f99994b84d0"
     },
     {
       "file": "en/gcd-lcm/index.html",
-      "bytes": 21354,
-      "sha256": "457591a7c32fe95585db23361f74a96ae7c145ad1928f0ab0d102e90a255c3b8"
+      "bytes": 20409,
+      "sha256": "d8a79346fdeb071173d8ca5ba6e5c3a33f8accf35f99e624d47cb907c0b21e59"
     },
     {
       "file": "en/geometric-sequence/index.html",
-      "bytes": 22369,
-      "sha256": "e04d5affc371347b01468b6080ad58919da3c830c5f1173f8746eac3580c5d49"
+      "bytes": 21424,
+      "sha256": "168afc1bd39896865b8c951f13475be586c0135f8090431bbe5eabaca2ee5e82"
     },
     {
       "file": "en/gif-maker/index.html",
-      "bytes": 28620,
-      "sha256": "594e0e202cb3621831e8d31af0aa66589a77a9ca7f6670bc98910c817800e36d"
+      "bytes": 27675,
+      "sha256": "83276b4404473891f26a9bfda0c3d8a3996d7f7e6405bf1cce252f4f897787ad"
     },
     {
       "file": "en/gpa/index.html",
-      "bytes": 24384,
-      "sha256": "1851ef8b3c03ea62bc703f6fcdc1367f89f1dc5d69d3489ab1ee0dc80355002c"
+      "bytes": 23439,
+      "sha256": "8aa1ee769bfb8202da336c81e1f22c1b9a379e31fc8a4527c949479fe8205e08"
     },
     {
       "file": "en/guide/index.html",
       "bytes": 9522,
-      "sha256": "48de6d1cb5ea8968dcf838adc9047b4402a606fd89f204cd6f1809361ee53a39"
+      "sha256": "1ae2b96f13fd462fc00a3857ceebe2a2750d41d4f7c482ecfc7d7d6a87076c51"
     },
     {
       "file": "en/handwriting-practice/index.html",
       "bytes": 21697,
-      "sha256": "005b98ad312f8e537f0a144b08b5520fcf643242076721188dfbb04db7e6c881"
+      "sha256": "b318bedf948462022d092c502b7cc9acfe4cffd2099707c45ba4d7a8ca9110d6"
     },
     {
       "file": "en/hex-text/index.html",
-      "bytes": 21448,
-      "sha256": "3aac547232a6d3bb0117d936211b3e90e500d232552ea50f51c8db5f284b60b5"
+      "bytes": 20503,
+      "sha256": "a315280ad6064f1cf9967f41bbc1e38c1779368f042c9e6bd3eb8a533c6b6d12"
     },
     {
       "file": "en/html-entities/index.html",
-      "bytes": 21698,
-      "sha256": "2327e3d74853ade062824e99aa84244601f95b368a521c809961420b521cca03"
+      "bytes": 20753,
+      "sha256": "5d19bc60fcaef32f7584cadd64c94557215c3b72ecb4e20e68f324d30711c849"
     },
     {
       "file": "en/image-combine/index.html",
-      "bytes": 26591,
-      "sha256": "6cb5cdaaffc1b6655bc2642dea7f3bcddc07acab4349c07784d72911d48cc01e"
+      "bytes": 25646,
+      "sha256": "d8c5db253c118950f21139a7d65af6221595c6ab8688ea97ab244e9de04d1b5d"
     },
     {
       "file": "en/image-compress/index.html",
-      "bytes": 23933,
-      "sha256": "a933848f1782bbb9dd72f128ec22546ae6e6892ab6f11dc6bb0099f59928c752"
+      "bytes": 22988,
+      "sha256": "03a957ea5766d906e295fc0ee3cb9e144dd3d8e026f424d2f4b909cb3e7c8d2d"
     },
     {
       "file": "en/image-convert/index.html",
-      "bytes": 25039,
-      "sha256": "1472b2e29c0a134e0a068f4ba62d1eda3c2e6c75f00944917634f4b4f189cf14"
+      "bytes": 24094,
+      "sha256": "cbd150e8f563c52efa1b6a91438abcb8e2a1469f3148781c7efecca7be7872e2"
     },
     {
       "file": "en/image-crop/index.html",
-      "bytes": 27495,
-      "sha256": "942ed023230a982894cf6d0eb43deb69f8bd2674db3e616f591505fb4e5d400d"
+      "bytes": 26550,
+      "sha256": "ea55e036b3a5c5c47b408ed920efe5aca574245e1559e34fa0cf2f38a18cc928"
     },
     {
       "file": "en/image-metadata/index.html",
-      "bytes": 26301,
-      "sha256": "cbfe42e51db4b4c4756cfe02741ee5651186502e3e14b3688520bdf73693a693"
+      "bytes": 25356,
+      "sha256": "f4afc44acede07a34a4c70d8be2daeb0ae14fef3d10d65be1e485eb828fa33f1"
     },
     {
       "file": "en/image-ocr/index.html",
-      "bytes": 28377,
-      "sha256": "8fadba67557e2d5cd47769a6b53a908910505462c55bff63c1951526c7c47c9d"
+      "bytes": 27432,
+      "sha256": "77f1e52348bb800c6a0d371637709444aafb54c7bc07b387e2e8cbc95e358eef"
     },
     {
       "file": "en/image-palette/index.html",
-      "bytes": 27204,
-      "sha256": "ca241230380a126c9f140693d9aff382706f2e4cda0f5b2fd2ce9056cdadeb23"
+      "bytes": 26259,
+      "sha256": "2cbd16caa5518574a5aa4225df49e879598c2b71178a83472e5b141258f73f41"
     },
     {
       "file": "en/image-redact/index.html",
-      "bytes": 27154,
-      "sha256": "68eb1761cbaf9bd5f9c2c047412b8c6fb84c9e5b96d3e119f2561203b5a2e3bc"
+      "bytes": 26209,
+      "sha256": "348bcec6893a7889f71f69efd2e54764b8b6402407349a62d09546c7c6fd1ee5"
     },
     {
       "file": "en/image-resize/index.html",
-      "bytes": 26993,
-      "sha256": "b4e529124ab9cf2d595f647ec315f27e86bfc3a5efa7bea1978869c3d74c43a5"
+      "bytes": 26048,
+      "sha256": "f2f911eb256d54ebd96b32ddf21cb5af09ab3ae5a2250b5a767ff50ecbe082cf"
     },
     {
       "file": "en/image-upscale/index.html",
-      "bytes": 29134,
-      "sha256": "046c9a330c41a3c0b666bb121d1d314a0dbc9e688e8085eeabe78d170d028c0c"
+      "bytes": 28189,
+      "sha256": "f54924dea6675e3e24beaf2e2931e0e295b1ef4a7b25981ebe5140f114a33ac4"
     },
     {
       "file": "en/image-watermark/index.html",
-      "bytes": 27515,
-      "sha256": "42fc11a834841827d8d018ca7f2d3ff417549f6cb04c638cd1cca88882d7aad4"
+      "bytes": 26570,
+      "sha256": "5f9053d0fb6642f85728fd944d26aecea5df9a79fe14f43f126dac3b3f65d132"
     },
     {
       "file": "en/images-to-pdf/index.html",
-      "bytes": 24237,
-      "sha256": "81e6e7ffe1a1685f9d55ae5c71830b94bcb5f42e06522c27f264f320bddc8f03"
+      "bytes": 23292,
+      "sha256": "3a6efeeabcd54e5ff26312a91b574f5c06dae10639e67e6a776845acfb8cb51d"
     },
     {
       "file": "en/index.html",
       "bytes": 167535,
-      "sha256": "7c93d9c0723f84f9db20dacfb31735f73c5130e009380deda70aaa61deb529ae"
+      "sha256": "43c1a61d885044fc0c0b3a1157f8325f159cdd92931e87a0f7a86b3152e7324b"
     },
     {
       "file": "en/installment-compare/index.html",
-      "bytes": 27553,
-      "sha256": "67fcd010f0bf1b565e047d02bd46746f5aefe53c9c060d5c8cad68a896e4eb9d"
+      "bytes": 26608,
+      "sha256": "5eee102a08b80059f295b47aa8508164fe7c6caa0b4d4afad3a36fb9e44b0bfa"
     },
     {
       "file": "en/iso-week/index.html",
-      "bytes": 21092,
-      "sha256": "94514d6829444e3bf01f1c47f403958cc004965b553ca311cad8281c98ab7e36"
+      "bytes": 20147,
+      "sha256": "4857d3502f86135e583beaf0fabfd0e1073fb1525170322390d6f69e0190eac8"
     },
     {
       "file": "en/json-diff/index.html",
-      "bytes": 26681,
-      "sha256": "edee1a3b01eb6c6671cc9f644649d1c75404cebdb55dee3f4f38943fc2b07575"
+      "bytes": 25736,
+      "sha256": "5a4d51c33c0025c17854e29ad8d85a63c4e5a992b75f773ecf25584d70033c4e"
     },
     {
       "file": "en/json-formatter/index.html",
-      "bytes": 22612,
-      "sha256": "a38e6a48ff5fe45ca1358a520f2762a94f74a27eea4b31dd1d7eee03893babea"
+      "bytes": 21667,
+      "sha256": "2d2109599d8bed00e2326410511d0b49cf16d63b76ab08074586e165c2d820f7"
     },
     {
       "file": "en/json-to-csv/index.html",
-      "bytes": 21698,
-      "sha256": "d1ad6ba61fd3938ee0328991672b2c8f80e1449c07e820e299647b568fb633e0"
+      "bytes": 20753,
+      "sha256": "56acebdb99ead483acb93f563d88c5a1221bab965cb347044d3677de2a51c6d3"
     },
     {
       "file": "en/jwt-inspector/index.html",
-      "bytes": 25862,
-      "sha256": "7ed75c5f3115fbbf2cd20bb157e00a4e3a066f43787b84a86520a26625232f51"
+      "bytes": 24917,
+      "sha256": "2f57fa169ac54043b41465462fdf57dd805c77698a9534cdec45c82238ccdf5a"
     },
     {
       "file": "en/korean-initials/index.html",
-      "bytes": 21507,
-      "sha256": "710244a801fc49a6f69ee2829fb36db629a94a48d52db6a19dd98f0db5580849"
+      "bytes": 20562,
+      "sha256": "11f291751cf45aba8d68647c7ba852014bc7070d2fae6755ddbb9ae10b177ffa"
     },
     {
       "file": "en/label-calibration/index.html",
-      "bytes": 27851,
-      "sha256": "0c3635a08d857c11a1efc550fa7754b34669cdb02733938560459a1e158c5cf9"
+      "bytes": 26906,
+      "sha256": "d3328f9a6336c1c506f9d989345224e37dd9f3df2e5037e848bf208f8187bdf9"
     },
     {
       "file": "en/lecture-speed/index.html",
-      "bytes": 24845,
-      "sha256": "ef7ff8ddb7d728810171fbc92f07cfb2322cc9c4d8f934be5ea0d5f1ea5374b4"
+      "bytes": 23900,
+      "sha256": "a00c7899d861e7582e5b89dc042dd6716546cbc3e712dd6c9c33d0c966483587"
     },
     {
       "file": "en/length-converter/index.html",
-      "bytes": 22317,
-      "sha256": "5fb9524014262b858d165ebd7798fd3e6912ffc254617cd01d506e39f8f290a9"
+      "bytes": 21372,
+      "sha256": "fe23d18df97137db7d0c372d789ac469b0f369f0c459c50e7625d5901397e923"
     },
     {
       "file": "en/letter-case/index.html",
-      "bytes": 21949,
-      "sha256": "7cccafec2f4739065bce77ffd01e8faa89ef2e607c99eb110c77255047e740dd"
+      "bytes": 21004,
+      "sha256": "dc4a7078252407d55a985c63322d97b1d9bcfadf43deed97ed18e17e84af259d"
     },
     {
       "file": "en/line-frequency/index.html",
-      "bytes": 21253,
-      "sha256": "b741dff4b0623d06adc93a2bad82ce81d50a82e674dfd9f47bca87c60f75675f"
+      "bytes": 20308,
+      "sha256": "07fb3f7741e9d1e0f3fbe35c7105b083b41ee3405542fc1528e3042209dd3ad3"
     },
     {
       "file": "en/linear-system/index.html",
-      "bytes": 27396,
-      "sha256": "72b64877cf5356b8ed0291eafc50c6d6c7c7a2bb20556dc5d7be97b302492ede"
+      "bytes": 26451,
+      "sha256": "f163bbf6b0fd552b73bd476621ac49a70ccf538692be57f184ca7a96f52979f3"
     },
     {
       "file": "en/loan-repayment/index.html",
-      "bytes": 26236,
-      "sha256": "c9744d3b33026b0ecbd1afc4f65d8357ccae9ce628a26d8b7d0d34830f01094e"
+      "bytes": 25291,
+      "sha256": "23545ec818e2b4f2d2484b1162820e3bbdc106e17c099e64ea3797a84ab76efd"
     },
     {
       "file": "en/markdown-preview/index.html",
-      "bytes": 25789,
-      "sha256": "a74c9f5006551988c7fd7e2d8bb2e188cd411e4019c0b78a1dc192a4a66f7b18"
+      "bytes": 24844,
+      "sha256": "e39cf3695151aad384eb5bec12274f6bff32549c9b88aea91eae6b3e8be18be6"
     },
     {
       "file": "en/markdown-table/index.html",
-      "bytes": 28789,
-      "sha256": "9293fd7edf76fa334efc2295d7991260e066a03baa8fde933d1adf55e29f805d"
+      "bytes": 27844,
+      "sha256": "d67b459d1ae59fdcb504e1d3fb15a0a863c489826ee9098183dc48f45794dba0"
     },
     {
       "file": "en/mass-converter/index.html",
-      "bytes": 21924,
-      "sha256": "7ad111f712b993c6fa425c97c2f7595e1474f2da66f5113bcf636501f1ae271d"
+      "bytes": 20979,
+      "sha256": "ca5f30c8fa42259b9c4631cfd4a78ac1bcf198613613df4a484fc4c7be5486dd"
     },
     {
       "file": "en/matrix-calculator/index.html",
-      "bytes": 29006,
-      "sha256": "ceba45ffe41a810c914693f112607361f4c263a4d3e1a42f84cd7209b170822b"
+      "bytes": 28061,
+      "sha256": "98c18dcb826983fee40b291ec456773cfeb8df932a72d4286a39880bd68ef5c3"
     },
     {
       "file": "en/mcp-config-check/index.html",
-      "bytes": 24341,
-      "sha256": "fe2cd63c22dd27fa5e65194eca9fdbf2c4412cc5e1b1fb7f21f6ed98b9ead343"
+      "bytes": 23396,
+      "sha256": "5d5f3e041e090a7b720d0b713cbbb2a848320d777e351ce320796992a66693f9"
     },
     {
       "file": "en/median/index.html",
-      "bytes": 20779,
-      "sha256": "0a43bcca959971f1c43158410f84ac616053ac7a898466834695d6b3adffd864"
+      "bytes": 19834,
+      "sha256": "240fdbe457e6f9f55d7db51ef2c9bd19d2fd8ac6e623fc911be448072b3e3031"
     },
     {
       "file": "en/meeting-time/index.html",
-      "bytes": 30287,
-      "sha256": "667ba280ce69bf72d9769fb44e0968580fc938258195a07b09ae92da74b76dab"
+      "bytes": 29342,
+      "sha256": "2c427f4f23fa14b6ab27e3ee16ba8efad3a4f3e8af055ce6b74ce7067909e839"
     },
     {
       "file": "en/meme-maker/index.html",
-      "bytes": 27296,
-      "sha256": "102914159fd2ac4bc75c629325bc805886e3750fd1be964d7a6c17dfc1ddeae9"
+      "bytes": 26351,
+      "sha256": "8e4c2c2e3c5f0db76e7e4ae945e6d87f1e684d5de08ebd9a9b3251bd760c8979"
     },
     {
       "file": "en/notebooklm-pdf/index.html",
       "bytes": 23009,
-      "sha256": "56f8ae1def9d44a6ff3e9d3a107739291a453685187172e42b0f8c7b9d44b2c3"
+      "sha256": "db3ba4c1571139fa768fc172ed1248fafc7f7b880a5241fc8f63dcbcde7098d2"
     },
     {
       "file": "en/number-base/index.html",
-      "bytes": 21354,
-      "sha256": "0c56f5d4c9ce8a4501130f8caaf2d923a5a3dcdf7ad4b9088147a02b1bb1aaba"
+      "bytes": 20409,
+      "sha256": "74a004c6789632467a3bea5c1f1712e2b0f20c89fedc420552f3b058ff35505a"
     },
     {
       "file": "en/number-lines/index.html",
-      "bytes": 21934,
-      "sha256": "af66038cfc4e054435e2af82ab0f01de0be2aa475efc6a9c901b6171acf51fa4"
+      "bytes": 20989,
+      "sha256": "5a3232a087f0aab5db57815cabfadd779dc8086f8364b59842a7db2bed5f4057"
     },
     {
       "file": "en/pace/index.html",
-      "bytes": 21776,
-      "sha256": "994f0a6787be18686e3e26d7a6c4850bc46517704d9750b845c92924e774f4d7"
+      "bytes": 20831,
+      "sha256": "0356082cb665e7985599b3e3954c4ddd3d64db09e25c40df866b7cd0c8a6f035"
     },
     {
       "file": "en/password-generator/index.html",
-      "bytes": 21436,
-      "sha256": "2e4fda5078b2a061d545d711b308e826c38018812a6d1a41c12415a9b4b99f01"
+      "bytes": 20491,
+      "sha256": "20d1f402e61630541a3771503123cbafee5b37a98562f02137c340b8d4018e58"
     },
     {
       "file": "en/pdf-annotate/index.html",
-      "bytes": 30944,
-      "sha256": "46b1c78e201c5eb3dc282450ad738a9b6269574ceb8db016a3cff5ca8616fd31"
+      "bytes": 29999,
+      "sha256": "a1c119bbe9d6670df16447af0ea1f4140d7ec77524d4ae50a9dcbd582d3ca027"
     },
     {
       "file": "en/pdf-compress/index.html",
-      "bytes": 26649,
-      "sha256": "be4755506240b23ec15d6f994ea247609366b5be17dc6ea33a6a5f9bd86095bd"
+      "bytes": 25704,
+      "sha256": "7e145ac9fb4332259b360265da9dfe48d3929621926e7d1d5d30b32b783cecbf"
     },
     {
       "file": "en/pdf-fill-form/index.html",
-      "bytes": 26968,
-      "sha256": "f4c59df6a8ca1fe7d23d44d72640d2d8096e61e2fcb25e8c1eed2681c85c19f2"
+      "bytes": 26023,
+      "sha256": "8f3ede8b1c5e4d0ab6b2923cae75694eb1028108eab44f0de8e5ead86a869a09"
     },
     {
       "file": "en/pdf-merge/index.html",
-      "bytes": 23189,
-      "sha256": "4d7559005671e97092dfc83dc3748aadf7cd1f2c7538fcb419e006781fa6bb0c"
+      "bytes": 22244,
+      "sha256": "1abbed758b8ee45c845b18383349fc8b235bc3744acd48d54d781fb73f76e595"
     },
     {
       "file": "en/pdf-organize/index.html",
-      "bytes": 25165,
-      "sha256": "ee0d20b95b492391bc90d70f8259f1855f14801d168ff3f8c6f237ba67c21fbc"
+      "bytes": 24220,
+      "sha256": "9e566703b1c048bdbe3a64238a468c2d05e6fabf25dc17e13b4d18d4d4454bd5"
     },
     {
       "file": "en/pdf-page-numbers/index.html",
-      "bytes": 25027,
-      "sha256": "67d9412cede875b755b91934a4f32716a89fceafa1f69d051d9661e1fe29ea76"
+      "bytes": 24082,
+      "sha256": "a37fd029b95749c2b9d9ae1cbfde97f0f7462e6bbc248a4a7b18ade93750055b"
     },
     {
       "file": "en/pdf-sign/index.html",
-      "bytes": 32234,
-      "sha256": "f117bfd6c6a8cb1ea6058566e1fa71035d283ed94867db896ecf76c7f1793cbd"
+      "bytes": 31289,
+      "sha256": "ffa9a4c8a721d6866d24536d8296507f6f51815ad3fc09d5376a17b8942cc258"
     },
     {
       "file": "en/pdf-split/index.html",
-      "bytes": 26551,
-      "sha256": "c81209163f0921286cd970759661dc9540eb6239f8d791246adb9a696da16d7e"
+      "bytes": 25606,
+      "sha256": "26c6f41549291626a0b0385e6ea548f5b8dc22c7e6608eab06bb4c69227eed92"
     },
     {
       "file": "en/pdf-text-extract/index.html",
-      "bytes": 23701,
-      "sha256": "19a0cebf47e71bb6ccc7a95ce9bf3a84f7104f47d28135e0532cb4cd7faa1e61"
+      "bytes": 22756,
+      "sha256": "9e666925cda7bc2bef7a8daadeea0de25444e2c84570b658e9c4eac08778b903"
     },
     {
       "file": "en/pdf-to-images/index.html",
-      "bytes": 24115,
-      "sha256": "c4588bef795a3e08dc7cb9debbf8c16415f3c5a2825785bbd4929388e7873aa1"
+      "bytes": 23170,
+      "sha256": "e63639c1464a9a809959c2579cb41d3aff06b8459281c931dae8e5fc48e76553"
     },
     {
       "file": "en/pdf-watermark/index.html",
-      "bytes": 31058,
-      "sha256": "7f1bbf03183db1ac3b7f63b02849b071f2d0dd527a5e30355866ecef562a0b3e"
+      "bytes": 30113,
+      "sha256": "984c22137ce854dfb6cb0e6812ace05c818f347da3fdc1ec11ef5eaf1fd5b01e"
     },
     {
       "file": "en/percent-change/index.html",
-      "bytes": 21883,
-      "sha256": "e19b819fb09ca0378c0562f5d5a076e36bfcb8edd3a8d5f6e3cefabaa06b0bbc"
+      "bytes": 20938,
+      "sha256": "c7bdf629b0d973e769b07f41b9b1914475a6fda48de6d357162a9d4e372edc26"
     },
     {
       "file": "en/percent-difference/index.html",
-      "bytes": 21848,
-      "sha256": "44995b9dd101e8d7396acef270afd6a2c1f45a8b4eb6316a5fd731ec5b8ee319"
+      "bytes": 20903,
+      "sha256": "336489714b50bf8f6c9b0eeadeb1857a6af0c982d7b69f911c928110e39a0eb4"
     },
     {
       "file": "en/percentage/index.html",
-      "bytes": 21739,
-      "sha256": "95237162272a815f9238366fd5ffde055117ddedfe7e461773a2e000e27dfafa"
+      "bytes": 20794,
+      "sha256": "affae136f5a0f618498a58a37bc214734354a18a482758abe8f3588f40bd7d7b"
     },
     {
       "file": "en/permutations-combinations/index.html",
-      "bytes": 22361,
-      "sha256": "2c8567da9e02daf00b959490b1b809a225bbe9c180fbfe8afdb0e88821fa146a"
+      "bytes": 21416,
+      "sha256": "60992c33d3eb478a1f59bbabc004de49c9542666d6e73d360511457968476333"
     },
     {
       "file": "en/pizza-value/index.html",
-      "bytes": 30958,
-      "sha256": "da30fc3e1e7db7cfb5c9aa2efc5105bc4ad45efbd5ff4a6cc46b776b802f899f"
+      "bytes": 30013,
+      "sha256": "6f2f57ba37e97a404ba3ccd3c415dcff7255eaf043b31fc17261b2d40aff78f1"
     },
     {
       "file": "en/pomodoro/index.html",
       "bytes": 21774,
-      "sha256": "f1f1ebf1e3bfb44d82d07468cabc680b7a3aea3c60a825f3e1c9f3d33a859c0c"
+      "sha256": "db8344340d96fbeee1cb06151fac9361af5726f973aac9226d4db0ba50aa23f2"
     },
     {
       "file": "en/power-converter/index.html",
-      "bytes": 22020,
-      "sha256": "768674d4c045c15da58946daec848b4028c05794c4980297ef680cac44cabd44"
+      "bytes": 21075,
+      "sha256": "9346f33d96c2f184e004b55802f1c2f1b9c33a5510cfbbe066c1f2b70ae2d2ac"
     },
     {
       "file": "en/prefix-suffix/index.html",
-      "bytes": 22078,
-      "sha256": "1d64a36943ad31406fa787b66a88f241b1a00fffae078d3d6de42d84db639e7e"
+      "bytes": 21133,
+      "sha256": "e6c6bc2ba918170bbba4e12a4710b0cd91e5f5e6af69891fd0d6327e2fab1110"
     },
     {
       "file": "en/pressure-converter/index.html",
-      "bytes": 22149,
-      "sha256": "e278af835a951354e0e70b13c9d997778086abd9a672ecc683dd7ba59939ecab"
+      "bytes": 21204,
+      "sha256": "592080d100973b3a7dceabb7be8002bb006362cbadaec2757ecba69e278c009a"
     },
     {
       "file": "en/prime-factorization/index.html",
-      "bytes": 21227,
-      "sha256": "f4adf5176d760b42a4fac1ddae4e34f7265c2d07ada09601762c5b50ed01f7e1"
+      "bytes": 20282,
+      "sha256": "71691356eec5ac607f739ffc56497af1a5fcd439fa2afee8e986721b4dc6714b"
     },
     {
       "file": "en/printable-calendar/index.html",
-      "bytes": 26023,
-      "sha256": "62a5db81812939a74b61ee0e1fed6c2b1caec015882feac50bda0b1755697afa"
+      "bytes": 25078,
+      "sha256": "384764ab76f38e109ff181c9c06ef876ce10db0915ea649f2193aac7c97154d9"
     },
     {
       "file": "en/privacy/index.html",
       "bytes": 11377,
-      "sha256": "bc8529a20acb04831ee7ceade30b7e8f34f7cb28f93342b1aaeb2823d446e252"
+      "sha256": "20a30754124dbeeac5e61fae94c0cc234d2a2afef1a6e66c749c631df693b887"
     },
     {
       "file": "en/prompt-variables/index.html",
-      "bytes": 23854,
-      "sha256": "f12b856f85c4dcad607e3cccbbf913f6a70705d881562193ce05a21e79b57773"
+      "bytes": 22909,
+      "sha256": "320ca4b98744a91571dc1648b433c2d1e31ad7bfae114301d6bce7723abf62e4"
     },
     {
       "file": "en/proportion/index.html",
-      "bytes": 21330,
-      "sha256": "c7c083ff80e1f22e21d73be698a04ef43d25f55c987d181b8af3405cd7eb8835"
+      "bytes": 20385,
+      "sha256": "e922a149005a566137b6f0c19f7f8349ed48779c3d83a1aa33a615a0defb9e5c"
     },
     {
       "file": "en/px-rem/index.html",
-      "bytes": 21417,
-      "sha256": "d36b991927b7f6f950c6c7f1358149acbed2e65dd122b8ee48de189239a51a49"
+      "bytes": 20472,
+      "sha256": "369768d3c4160cf18c6891f488b6597d1467b0847e3144288c42ddb8503d25fc"
     },
     {
       "file": "en/pythagorean/index.html",
-      "bytes": 21747,
-      "sha256": "43246720d5e627d02b1eea67e3c9f2a99fa58c316c7713b2321af3b82e71689d"
+      "bytes": 20802,
+      "sha256": "428c8fb10ac42bbb42a18d44f871fa6581b8b3ce67577d2621ebefdfa6d8c0d7"
     },
     {
       "file": "en/qr-generator/index.html",
-      "bytes": 25243,
-      "sha256": "61707f8903bf7c4221988d22b837c14ea724fdfd109d815c7381b007bef58e02"
+      "bytes": 24298,
+      "sha256": "c48aab6ace4c4b2a373fe0d47a54772d8115365856eb6e58ea079accedf8bebd"
     },
     {
       "file": "en/qr-reader/index.html",
-      "bytes": 26150,
-      "sha256": "9522d60588eabb792c9c5721a85e23ad8d3351f80d626f4d06fb5ce3a66025aa"
+      "bytes": 25205,
+      "sha256": "7dc5f31e1cf6a2c05d4c358e676f0fe23174f47d129e9e046a3b3e96db2eaf21"
     },
     {
       "file": "en/quadratic/index.html",
-      "bytes": 21441,
-      "sha256": "cfacc85cf5c22c8edd9ddec235e1c4c1a8c085f31b20492a15a0c253336e1ec6"
+      "bytes": 20496,
+      "sha256": "69a4d9479238d2d00ad69655a9a2866916cd99000112097586dc2c416407e586"
     },
     {
       "file": "en/query-parser/index.html",
-      "bytes": 21288,
-      "sha256": "efd72cc5df05f3b8150ad8c9b0f45bcd4946ef8cecb2bb2cb18031ab3c591b4c"
+      "bytes": 20343,
+      "sha256": "0076f23141d0df01e4b095b0b06414501888a4e582979a344d204e74368d36b9"
     },
     {
       "file": "en/race-cutoff/index.html",
-      "bytes": 32887,
-      "sha256": "2d4f93addf45b848834cceea33d4ef01144151760dbbc7cf91483f66fd61f592"
+      "bytes": 31942,
+      "sha256": "c7430bfc6fd4d5ae4d6b6b186e28e0aa5a3d942abd221f21bdd167a2b9ce0d7d"
     },
     {
       "file": "en/random-number/index.html",
-      "bytes": 22370,
-      "sha256": "f83fe90d95699013b68693fc3ed1be42669e636b8b0f2a8dc6fbdc71c0de1509"
+      "bytes": 21425,
+      "sha256": "492ed3301159efa9a5ddf372d098938c43301deb5e52c782a853d9609eed99e4"
     },
     {
       "file": "en/ratio/index.html",
-      "bytes": 21923,
-      "sha256": "f46ef25cee52d7a8b7855b9a50e8128235bf315bdc102ec56ec0060df98a7a69"
+      "bytes": 20978,
+      "sha256": "372d3adaee475cb5e38d6b4ed776a6c862c349b38cc133a7bbaf4b4714656b9d"
     },
     {
       "file": "en/reading-time/index.html",
-      "bytes": 21916,
-      "sha256": "ff3880aaffff41324d134e64b5c3e7a3e39cbe0d71121bc88f92ed775be7021a"
+      "bytes": 20971,
+      "sha256": "a319ca1f7b3e59449b78fbff6a00fb672255b61d1665e16e328719021f94426b"
     },
     {
       "file": "en/recipe-scale/index.html",
-      "bytes": 29533,
-      "sha256": "689708e8c80384e4ec6986933cb8c750e8e60411d0f70e9ff5e655b9fb79b094"
+      "bytes": 28588,
+      "sha256": "e0fd83ae94b20692edc4f45897bd4e186d125db075c1e243ed87f6ca5d72cb69"
     },
     {
       "file": "en/rectangle/index.html",
-      "bytes": 21697,
-      "sha256": "be1ba63dff86c464753014166932c81109f5cd2fbe8f8470e0fbe80d1103e18e"
+      "bytes": 20752,
+      "sha256": "62cc1e5d0db8c6783e101c4049b33da90e0d5516d426532b4d8c32479c338c9f"
     },
     {
       "file": "en/regex-tester/index.html",
-      "bytes": 26661,
-      "sha256": "5d6921417759c993f2784980aeed4478a53608306b02ce3a25b74b0d4795c5fa"
+      "bytes": 25716,
+      "sha256": "596faab86ab97a47d7d6ffdc5c2cf32b49959aac6d113b0aa91630768b358719"
     },
     {
       "file": "en/regression/index.html",
-      "bytes": 27419,
-      "sha256": "f92f7e61e76f16dd1181eddedb67e88252dffae1d7efbb8a7ba1cfa74b467573"
+      "bytes": 26474,
+      "sha256": "8d5c8940e4d87704bed6f09ecdff11fe625089456fa4fc6310f70b4bd7e967b4"
     },
     {
       "file": "en/remove-blank-lines/index.html",
-      "bytes": 21153,
-      "sha256": "a51115f1909e092db47ef6993577a2f0c5c234ae70600d25867afbe019b0d9a8"
+      "bytes": 20208,
+      "sha256": "938d37c04b1ec950b9b9e8b14e93be3e63893659027bf0045e9cb756a17bd619"
     },
     {
       "file": "en/remove-invisible/index.html",
-      "bytes": 21155,
-      "sha256": "6b3850329afce0037dfbd6b14fad140a65ee0b1ae8cdb3caf96b4142e44040c0"
+      "bytes": 20210,
+      "sha256": "b988a638533f552c16e66ddcd4f0a64a8a9a3782d082d0d9c89b42032def60cd"
     },
     {
       "file": "en/retirement-pay/index.html",
-      "bytes": 29490,
-      "sha256": "3cf8c53592ba1e5d661365150c327a75108b853ddb48a8de026ca39ad1bd6cdc"
+      "bytes": 28545,
+      "sha256": "41f24eeac37365ff01b94a1e41d489d915af5c4eea9f22c114e85ea4e451e613"
     },
     {
       "file": "en/reverse-lines/index.html",
-      "bytes": 20691,
-      "sha256": "a0dd4d240bcfedfdece592596576be17f8cbf2f955b394fdd44afa56435928ac"
+      "bytes": 19746,
+      "sha256": "dfcd46a709be55bcf3b23e925e936ee4d6bc0c5b264c0a898e62e4282e8855d3"
     },
     {
       "file": "en/review-schedule/index.html",
-      "bytes": 30891,
-      "sha256": "90b494ec75d1786b031fe1667323e08018198ab4af020e685b93f28809a979c3"
+      "bytes": 29946,
+      "sha256": "6f625497798e9655dc096cc5e24f02037463925d4d98433a07257357aa3fd3d7"
     },
     {
       "file": "en/rounding/index.html",
-      "bytes": 22042,
-      "sha256": "877c432577344429bde49f3d8183519e5085e106b4564407acbc7020ee743e82"
+      "bytes": 21097,
+      "sha256": "289b8eed3690c21ad7c11aa275cba12589f56326063cc4ef3528d7b08cf5270b"
     },
     {
       "file": "en/salary-net/index.html",
-      "bytes": 29447,
-      "sha256": "03c0ecdc029752cf44f9cde488f28def6f95adf9db60355ca9e372188a6a3435"
+      "bytes": 28502,
+      "sha256": "9fe3c56331548d20bcbc45f21c76efb46d311258a484adbf611ebbc5bd1110f4"
     },
     {
       "file": "en/sales-margin/index.html",
-      "bytes": 26160,
-      "sha256": "d46a6034deffe3916671f9e514b35c957a276c436b73218d6b0cb6e8512cb6e0"
+      "bytes": 25215,
+      "sha256": "eca3341a420d4f30e6cbba231f07fe83aff246c1ab9a9724a7133b3364014ef0"
     },
     {
       "file": "en/savings-goal/index.html",
-      "bytes": 26602,
-      "sha256": "f98e1c3249a73c1a5769307ea259f4bc7cdc984da4401f05c5568705261be058"
+      "bytes": 25657,
+      "sha256": "f13e0fadf8c4fbd3e4b7dd21452226486e7dcb025ed074f15932df2187864794"
     },
     {
       "file": "en/savings-interest/index.html",
-      "bytes": 27924,
-      "sha256": "d4831060dd617fdaa19675bea2a10375961fbb6bb52d432ee0aad26897df9415"
+      "bytes": 26979,
+      "sha256": "f9c8b45da8b47459df2b071dfdac935b09fdf34128ac4210a9256ef21b50338c"
     },
     {
       "file": "en/scientific-calculator/index.html",
-      "bytes": 28623,
-      "sha256": "eac90e0161eaee8c8476fde1925b7f31c80620d22a5c958f813de41fa4b5c3cf"
+      "bytes": 27678,
+      "sha256": "85b1eaafb331474280dbd1bab850db06e45fefba6e85baa7d9957a05f812f853"
     },
     {
       "file": "en/screen-density/index.html",
-      "bytes": 22342,
-      "sha256": "7d425fa919ad0f6a7c4e60dc4cbfb3b0b602dfbaa2ae3544d35f4f86e0249101"
+      "bytes": 21397,
+      "sha256": "c7f070f2c13423e7cafa0287be44999c8605d87d26886735dde2d37ac9b00506"
     },
     {
       "file": "en/seating-chart/index.html",
-      "bytes": 28808,
-      "sha256": "e3d53cd43aff373e526f50d82cbc2091be77bc6a96ae372b6b1874f421f880dc"
+      "bytes": 27863,
+      "sha256": "523255efb6b150040bb86478e2d6b61d32a5be816c3c371601f52fcf0688d5a0"
     },
     {
       "file": "en/shoe-size/index.html",
-      "bytes": 23731,
-      "sha256": "ad3db8f249f25ba8c43da32916c488721467d7cbc6165f3f5708644d22d5454d"
+      "bytes": 22786,
+      "sha256": "e6ceb7552fb83d4e322da9b96973fa9cddc2eb8c78ade1bfc466996bceef79ca"
     },
     {
       "file": "en/shuffle-list/index.html",
-      "bytes": 21224,
-      "sha256": "d5ce585b851570713b1a631db322392241c12f9f3ae62ac33b17dfbe8400f2b0"
+      "bytes": 20279,
+      "sha256": "ac3cdf5a39659bd38eaf28d2f0cc910489d341def42693161dfdc59b81de83c2"
     },
     {
       "file": "en/signature-image/index.html",
-      "bytes": 27959,
-      "sha256": "b102b392f07a345322bdd824c6093908249d78db8b4a9d2755ee0d422834c3c3"
+      "bytes": 27014,
+      "sha256": "b5336494ce26482afc152156fa162ffb97a8e9cb3561684cbcb47bf32555af2b"
     },
     {
       "file": "en/slug-generator/index.html",
-      "bytes": 21098,
-      "sha256": "56631a75a7d5a58753b401670ddc486c77258e00de6bafcb980b6d22563f514b"
+      "bytes": 20153,
+      "sha256": "cf9a8434bfb0d9cbaae26824e3964f4d3e5f31aca2eac97938149eb65585dbaa"
     },
     {
       "file": "en/sort-lines/index.html",
-      "bytes": 21472,
-      "sha256": "a6caa96bf8c33e2fd3afc0c82f6b52de5e6e43af758b04b5b7a530ce0b7e14c3"
+      "bytes": 20527,
+      "sha256": "e1185c89440b5f226b4ac9d4b7cf5d3da8579b54d39037cab38631b46cd33cb3"
     },
     {
       "file": "en/speed-converter/index.html",
-      "bytes": 22037,
-      "sha256": "534c7e9d694269d5bd24ff0722d346f2aa85154150f85f2c7616ecc9a693a92b"
+      "bytes": 21092,
+      "sha256": "86f2368e0eafbc86c545dd9a532de94e09068c8724e019cacec463160fcd7724"
     },
     {
       "file": "en/sphere/index.html",
-      "bytes": 20797,
-      "sha256": "63412582d1977fef8f8e91cac94c5035f2b966e504a7f9dc389bc254e4d8539e"
+      "bytes": 19852,
+      "sha256": "7f49abcd7ea5c8aec1140e33bcf145d6ad27ed5547664b2aa9448f01d704427f"
     },
     {
       "file": "en/split-join/index.html",
-      "bytes": 22128,
-      "sha256": "951bce46f81afeccf2f9a074dceeb79a61bfb68f1a9fb96fb2346935792de0fc"
+      "bytes": 21183,
+      "sha256": "e86756edf156cc73b5275d8c9199549bf104fd98e343d338dce04b34ad564027"
     },
     {
       "file": "en/sql-formatter/index.html",
-      "bytes": 26819,
-      "sha256": "778b3ac3dcb4706c74a0008edc9711cb03ad8ffd9099fd710e73d128a94b41d2"
+      "bytes": 25874,
+      "sha256": "51982773e8eca59ef4f7a0a41138c05e3fd62bb024dcb2b9c739367b3c3e218c"
     },
     {
       "file": "en/standard-deviation/index.html",
-      "bytes": 21584,
-      "sha256": "db542f89295fd5fb18e2d1fb0557e4a9bc1d7f3d9b4b4780d4add9eb31c52409"
+      "bytes": 20639,
+      "sha256": "9811c65943d9d88f72388d80a2fb229a737f1f8ff1efabf086b0709f8e7596f4"
     },
     {
       "file": "en/stopwatch/index.html",
       "bytes": 19951,
-      "sha256": "c7ed29d24610fb1e15305bad321f403aebdc7cbf92d2113ade8a039e6511770b"
+      "sha256": "78e2e3bf7335238abeffbcf828ad80b2e2cacbf8f9e1931c4a04bcf4c3e4074f"
     },
     {
       "file": "en/study-quantity/index.html",
-      "bytes": 33345,
-      "sha256": "96b3c87ae5391ec3a957f449b31ce667f677b1dc5a38eeccfe78867db5637b56"
+      "bytes": 32400,
+      "sha256": "95bec07caa76c92b3b7d4171df1eee9dced0f228741df8ebdd21c9ef253e2c74"
     },
     {
       "file": "en/subnet-calculator/index.html",
-      "bytes": 23753,
-      "sha256": "aee93b131e33db083ecb8994d471534eb4729b8abe183988c69622bcd15a1fc3"
+      "bytes": 22808,
+      "sha256": "217cc723efc243c010a354dd7d10b9556b4455f01e08282ac0f204035619c050"
     },
     {
       "file": "en/subscription-cost/index.html",
-      "bytes": 29875,
-      "sha256": "35de4107c83b3dbda9e3cc590ce719fdef458788c2a4bfa7d65aaa5667c564bf"
+      "bytes": 28930,
+      "sha256": "f7fdb59e93c5125bdace5d55ccc17e0d622ca5d212757b0843a5f4d917044414"
     },
     {
       "file": "en/subtitle-convert/index.html",
       "bytes": 24011,
-      "sha256": "fe0299b2141a314591520e37a8415251c545bbde99b08ec8e63157d2740e1d43"
+      "sha256": "d7a85ffd55afb6158487e5e844bc53b139093f6931cdeb3d1fff10f3873fd345"
     },
     {
       "file": "en/subtitle-sync/index.html",
-      "bytes": 31507,
-      "sha256": "73be88ed3f0f3c40b5c85e9dd856ff1610bd62ef1908b698f0acae4cc7fc47b3"
+      "bytes": 30562,
+      "sha256": "19a714c25e690f9bbbf337045bdcfe7c012658faa7e38ce074dbf5414a0b0db8"
     },
     {
       "file": "en/target-grade/index.html",
-      "bytes": 28994,
-      "sha256": "a82efb9c7afc3bef47212ec9081d4c82929bb541b5ef29158ae7f14f2439a72b"
+      "bytes": 28049,
+      "sha256": "295995bda67fbe1dc820571faf04722514791ba432ff5f18296619723175ff56"
     },
     {
       "file": "en/team-generator/index.html",
-      "bytes": 22102,
-      "sha256": "1361d4a90ab6e94e99820c726994d946c56c7d97b7424db1007fe9abc108b63b"
+      "bytes": 21157,
+      "sha256": "7f775b3d9bb7a25039fe7a985a98d5c4c5d0bb997ad0d5f32661bd58739b868e"
     },
     {
       "file": "en/temperature-converter/index.html",
-      "bytes": 21788,
-      "sha256": "20f079d4258e9efd94dceccebfad27c5efbb67e14ba30190fd7a0d53c96b4578"
+      "bytes": 20843,
+      "sha256": "3c9b64b561574235d33e2e26fcfa047ad364eb428c1d3089d53bbd987d07b78d"
     },
     {
       "file": "en/terms/index.html",
       "bytes": 7960,
-      "sha256": "e33e68e27083d86a66ffbd0dd71dc9358b72d7817def737516947f9946d9a107"
+      "sha256": "d1ef7e525cd2a1123719b60fee2cb4cb34323ea8c61ff2902897cd170a4b454f"
     },
     {
       "file": "en/text-compare/index.html",
-      "bytes": 22096,
-      "sha256": "0fa8356e69a023c2a5b0a7cbd629b8581e3ea4aacdcbf00dc3333e6ffec5b090"
+      "bytes": 21151,
+      "sha256": "583e337c2cf066462a6ca7e6661af047873fb4deea4c5b7d571fb7d84359d9be"
     },
     {
       "file": "en/time-difference/index.html",
-      "bytes": 22286,
-      "sha256": "9af5f9b377f50be65623e1be368def3fc6c41229cc132a98754f262a096c3703"
+      "bytes": 21341,
+      "sha256": "f4eb0cddaf7fa01b96dc61cbb6982b2dac8f36a28dc21c3e50c5c25219c030c2"
     },
     {
       "file": "en/time-sum/index.html",
-      "bytes": 21315,
-      "sha256": "fdce00a01115d704793abb6c0cb4ca42f6bff53f13f72288525fff39c1b9b5c7"
+      "bytes": 20370,
+      "sha256": "c7072eb742b1d772ce12e43bfada34b53bf1aca786ec5521dcf730fee5de26a0"
     },
     {
       "file": "en/trapezoid/index.html",
-      "bytes": 21804,
-      "sha256": "e9a61c963575235e42dd3e474022e1b782d141219200224917008067a44159e2"
+      "bytes": 20859,
+      "sha256": "4b6e194075a9f99dcc1f695caadbee534a7eb29f91a65ebf027f4c46bbead28f"
     },
     {
       "file": "en/triangle/index.html",
-      "bytes": 21845,
-      "sha256": "c72d3888d765bd2c91e0888e00532a83d5bff1dcbbae822d63fe066bd4265e06"
+      "bytes": 20900,
+      "sha256": "40bfb59d7a5bf0077fb8f606a330aba6521a8e7a4c672cc1ad6170843072cfab"
     },
     {
       "file": "en/trim-lines/index.html",
-      "bytes": 21251,
-      "sha256": "391ec0eab5feacb66fc19208fec22512d32c3186e21deb9790408f23ae9863dd"
+      "bytes": 20306,
+      "sha256": "dbf70e1f16c7833553dbfaae18712ed67ee60247d6785bfc79f2bfea85110e78"
     },
     {
       "file": "en/trip-fuel-cost/index.html",
-      "bytes": 31252,
-      "sha256": "88bafb598e40043c2a0b3821f6fb5336bd3eeda2b9b25c4081d7ed7aa7617876"
+      "bytes": 30307,
+      "sha256": "c5a2f38a950453d45c1040079405f82bc66ae8ffbec055f1aa7f3cda6d3bba6f"
     },
     {
       "file": "en/truncate-text/index.html",
-      "bytes": 22137,
-      "sha256": "1240c3f11ede6524a2958a1ee094285a3defdae12be2760bdaade80d91b959f2"
+      "bytes": 21192,
+      "sha256": "497b9aae1156e355a644972431a21611aa024412323059f9de14adb8434ba73e"
     },
     {
       "file": "en/typing-test/index.html",
-      "bytes": 29046,
-      "sha256": "254147a92007122e2db017efece0d0f95f05602e04d4f54f4ff8f438a678509d"
+      "bytes": 28101,
+      "sha256": "3073ecee000773ab434f71f58256c4216cb408b4a6d19a6f399027159585f13f"
     },
     {
       "file": "en/unicode-escape/index.html",
-      "bytes": 21741,
-      "sha256": "ab1db0da71b0d89d37c5a891a708e83196e603194a8b21393e24bbd2ead46601"
+      "bytes": 20796,
+      "sha256": "50ff7eec22a81733c706233766e7996c2a8826cda801ab7528783999771f98bb"
     },
     {
       "file": "en/unicode-normalize/index.html",
-      "bytes": 21268,
-      "sha256": "74fb622c9bdb1567bd594897a93748bad70cdf948090b4f545cf80dc8197b555"
+      "bytes": 20323,
+      "sha256": "31887f21ad0d3ace9eb82636a2e43177aa398113455d9978371dc741ed1ad781"
     },
     {
       "file": "en/unit-price/index.html",
-      "bytes": 30272,
-      "sha256": "19db4c698c2e27b878ed7e14e04f025cc757d1ef406bd196f7a9437321d48537"
+      "bytes": 29327,
+      "sha256": "5b697311779238f78a4af1602564fd5d4439a8a22e3bcd79495141821e27672d"
     },
     {
       "file": "en/unix-timestamp/index.html",
-      "bytes": 21840,
-      "sha256": "8386b1b645e302274cd67175e8fa2b7997015fa446cf170f2d97b524f5b737e3"
+      "bytes": 20895,
+      "sha256": "16d570125eab1557f3dd05cfbc5153e4529873e147213ab768e21ad8139ca292"
     },
     {
       "file": "en/url-codec/index.html",
-      "bytes": 21802,
-      "sha256": "818a8142685c336abff8a8ef2cf0dba666f2bfb9a1cdb10c4b533c957a183ef8"
+      "bytes": 20857,
+      "sha256": "b1bffbda06325e1c35edaba07330cc468d63e365d6c2f4a27d722c5da51ea330"
     },
     {
       "file": "en/url-parser/index.html",
-      "bytes": 21297,
-      "sha256": "0b5d9dbbb6d92b25731025b0df395db725c4f97db2a06104a259f189f9c65c7d"
+      "bytes": 20352,
+      "sha256": "ba495ff764f7b253d389afb9b2d350b25d2b00f28a16a98ddd7acd32eb801a45"
     },
     {
       "file": "en/utm-builder/index.html",
-      "bytes": 26786,
-      "sha256": "b17c1b639b8d76e779e96643ad9930f2c03f343ac28dce46e00e38e604137a35"
+      "bytes": 25841,
+      "sha256": "001aaa8b6b2e3d2375d909137c4baa30b69c5919ebb86e13633b28031ccd271b"
     },
     {
       "file": "en/uuid/index.html",
-      "bytes": 20759,
-      "sha256": "9481bb9fab4e6428bac55a61fb3abfc50f7a06744e9fe2d0e7f610b89525128e"
+      "bytes": 19814,
+      "sha256": "efc3b257fd570b2d7f302283cea03df6eb3ac2b0662b2ba41f80266dae8f1821"
     },
     {
       "file": "en/vat/index.html",
-      "bytes": 24331,
-      "sha256": "3643fa23927dbef9930d80bda2ca0bf94432008e2af02cfdeb1e89d8041d7b59"
+      "bytes": 23386,
+      "sha256": "82c914bcbeebb362a393cbcff978d6d63b15f33023b89475385b469dc28ae747"
     },
     {
       "file": "en/video-audio-extract/index.html",
-      "bytes": 27590,
-      "sha256": "048cff93c97595e089dd0302cb5fe4fb18f26302a8120bdb39d25a3b1eebacee"
+      "bytes": 26645,
+      "sha256": "65e3d16847034ad2a4dda76b448399753f94f1023e8a6ba208a061d750eb90e4"
     },
     {
       "file": "en/video-compress/index.html",
-      "bytes": 28714,
-      "sha256": "239096e4b9ea1bffd73673c441757e1ac4e631104b1cf3b1be7522f40e39dfb3"
+      "bytes": 27769,
+      "sha256": "7befe9db273e34fcadc7a7faa9f68fb87a5eb47a36511a0720a07156c71eb1ad"
     },
     {
       "file": "en/video-mute/index.html",
-      "bytes": 27489,
-      "sha256": "482dc21cad95fbd2b3d2143f59337df236b9569446aa448100a79545afec855d"
+      "bytes": 26544,
+      "sha256": "cb5216af894afce13d5b8c248c857015d18e148d43292119181807b9a379709c"
     },
     {
       "file": "en/video-reframe/index.html",
-      "bytes": 29256,
-      "sha256": "502736e7df9f1b392e3bec8fe5fbeb5330434b56173562a20139e0d58e4560e9"
+      "bytes": 28311,
+      "sha256": "815db102a038c64c88d02a5c3a61c0635d04c3e654d36f6f0d578793d22ee039"
     },
     {
       "file": "en/video-trim/index.html",
-      "bytes": 27935,
-      "sha256": "a0994d4002e52b29f3d838a9ac2e485df737d940233eae68d06480e7226db4fd"
+      "bytes": 26990,
+      "sha256": "846bf2166f4a4d82b3d5be7786e27c91c7dbc06e71d8f07a60a5f8afd7396178"
     },
     {
       "file": "en/volume-converter/index.html",
-      "bytes": 22182,
-      "sha256": "a8e26ab9b7bc51085c8b03f8170e87b29a4735adffd9e08be4a7f160cb2ab249"
+      "bytes": 21237,
+      "sha256": "523f1c557c762c75e8b9eed97489340536def17bd1a7d7415458f304da7fb585"
     },
     {
       "file": "en/weekday-counter/index.html",
-      "bytes": 21800,
-      "sha256": "52119e1b27376cafb4212d77ae405a3c41df3a1c5f2a22071a93e56e85494052"
+      "bytes": 20855,
+      "sha256": "f99fb68621a9220ad03e91e507a94a5aba6aff8b9ac5a1f59a0220281ba658e2"
     },
     {
       "file": "en/weekly-allowance/index.html",
-      "bytes": 27603,
-      "sha256": "6f5c0ed780a34f218cee5074d9aa981b27dcf7e122bcc7cef85803cfcfc8bfa6"
+      "bytes": 26658,
+      "sha256": "53b2b626ae925166aefd33adb00abccf493511ef4bf6996e4ea39f29924f1007"
     },
     {
       "file": "en/weekly-timetable/index.html",
-      "bytes": 45850,
-      "sha256": "816804474674fc2debf264302694037800a85667d5c2672e1222d8821769e867"
+      "bytes": 44905,
+      "sha256": "d09ba6ff59fd68683186615ce2fa37eb76e4e2967cde0a99afa8287581379c16"
     },
     {
       "file": "en/weighted-average/index.html",
-      "bytes": 21115,
-      "sha256": "283ebc48ca4a23269a749fc2f6af5753789dd24040d83c189213174bf8235d4f"
+      "bytes": 20170,
+      "sha256": "4b6b73bf51db6602a5fcf389a5eebb2055a0669af62c6ff50032c2bfac5cf3cd"
     },
     {
       "file": "en/word-frequency/index.html",
-      "bytes": 21210,
-      "sha256": "728000cbffea0c2d5091f0f74b423b0bd9b8b6fc69a81d45d25dbc39c9612d73"
+      "bytes": 20265,
+      "sha256": "250c51cb9e6addd23d60b0ad9f7e3f5900aa494b98e1a671c444a98893be757a"
     },
     {
       "file": "en/workdays/index.html",
-      "bytes": 22532,
-      "sha256": "3be8d9c4e1b5cb79cea50cdc502c94d2df326a2bbe58b0566c29bc5a4459c14f"
+      "bytes": 21587,
+      "sha256": "b045f606a73b21d5f703dc463845b842998d6efccca0041d120357021dd254a1"
     },
     {
       "file": "en/wrap-text/index.html",
-      "bytes": 21584,
-      "sha256": "ecfeea22d0b55c331c1809ac97791c7c8e4823698da183fbc0bada464bed0f24"
+      "bytes": 20639,
+      "sha256": "d999f92fdfd18195bb08782e6cbafa7656335e71a06fcde79dc9ab6f21992c79"
     },
     {
       "file": "en/yaml-json/index.html",
-      "bytes": 26165,
-      "sha256": "604f72761c65df6a25505cfe204b9b4792fcbd06b64da511963bb15fae365153"
+      "bytes": 25220,
+      "sha256": "9f67cf6cb3f72ee405672dcebe1dfa8a2dab17aa076651164cfe57d97dc4898a"
     },
     {
       "file": "en/zip-create/index.html",
-      "bytes": 23745,
-      "sha256": "3c94fc24901e1f63a627718d5ef514b3ba257818929d20678f4f650b87dcc0f9"
+      "bytes": 22800,
+      "sha256": "297d4940c24506aefe0c23115d10a56844168ce4e330ec6a97525b95ae70109e"
     },
     {
       "file": "energy-converter/index.html",
@@ -13610,1137 +13625,1137 @@
     {
       "file": "ja/about/index.html",
       "bytes": 9294,
-      "sha256": "5cd45f6652bce68fb00a7793f827ee077ec85f79445075193856e40bc7d0125f"
+      "sha256": "594dea6a6a13ae2810aee954720673b5a12f9e65f93e09ac57aaa3f8f96449da"
     },
     {
       "file": "ja/actual-fuel-economy/index.html",
-      "bytes": 30443,
-      "sha256": "cdde50acc5ef42e929367a382eb2dcc3c8222e17d9767c013f385aee312c1d4b"
+      "bytes": 29505,
+      "sha256": "76be1009a4e9a76a60cb6758426e34f965e88478a7485de61ce168845d12b94b"
     },
     {
       "file": "ja/age/index.html",
-      "bytes": 29411,
-      "sha256": "6f62bfc12dd31fbf8dd99aef79c5c2a05b3462b97cf24f287df814062f6c24d8"
+      "bytes": 28473,
+      "sha256": "f365c9ea7bfde4a1bf0f300fc08360795cd917b9206385fa0c8afd1c5b86a8e5"
     },
     {
       "file": "ja/angle-converter/index.html",
-      "bytes": 22671,
-      "sha256": "cc73dd6cf7bb5303abe320ce969d3c8be3e79a671aaa15c436e9aa6d59d68830"
+      "bytes": 21733,
+      "sha256": "89af2433764d5ac6f8e0ebd0068785ded50ff9d1c4de7f2ad78ac677b1b598a8"
     },
     {
       "file": "ja/anki-cloze-check/index.html",
-      "bytes": 24572,
-      "sha256": "5de3a03dab72447b3bb161af27c83d16b2734464c7d60c4495feb3e3a74b7855"
+      "bytes": 23634,
+      "sha256": "fcd5ce2520de7350487cfe508112d77ea7b539a5fd1181717bad669527f59783"
     },
     {
       "file": "ja/appliance-energy/index.html",
-      "bytes": 31225,
-      "sha256": "6d0c5d582512fa1817a91826cd866f30bc671b65850ef77f4ef30e7400bd6e8b"
+      "bytes": 30287,
+      "sha256": "c95592574ccde10ef62d521491f3e048b19bd4ff4724f081935dc3602c923e52"
     },
     {
       "file": "ja/archive-extract/index.html",
-      "bytes": 26430,
-      "sha256": "e47d2fd8dd7abce203fee4beb5ddc640f5b50a316c115c9d99af37b1560a94dd"
+      "bytes": 25492,
+      "sha256": "955b579b4936484b8bdfe634680bd4a7dd5987ec6b713f0c9c501ab9ce0bd82c"
     },
     {
       "file": "ja/area-converter/index.html",
-      "bytes": 22679,
-      "sha256": "98e4485558364b95d4cb84ca0171f9b7cb027d51a50396448c677639fe044b04"
+      "bytes": 21741,
+      "sha256": "df3de89c5bb9cdf71398d918a7e68af5545d448983bf7ff9e624d8f7cf75304d"
     },
     {
       "file": "ja/arithmetic-sequence/index.html",
-      "bytes": 22599,
-      "sha256": "df53915d795fc840885cd771674f17f22d558a59c520332c52921228a1c15fa1"
+      "bytes": 21661,
+      "sha256": "eb0de12fc22bcc9165e0f5f6333a132473a9730360d401a1f4f20443a163e8b5"
     },
     {
       "file": "ja/aspect-ratio/index.html",
-      "bytes": 23144,
-      "sha256": "77fa6d6bb75691cad199049d7fe91ada7fcda0d10d089495c4f41428ff33c2e4"
+      "bytes": 22206,
+      "sha256": "7c34cdde02205be02a704bb0173cbeccdadb15fc6469892f46bc13f8349cb550"
     },
     {
       "file": "ja/ass-font-audit/index.html",
-      "bytes": 32718,
-      "sha256": "f74a4f4ed9722655e9d7100879685a00c88263333685dabd49087132f524f691"
+      "bytes": 31780,
+      "sha256": "99bd9a2d20021e3e3be68264a58c476341e3e021a0d4647b2b458a1b10a7d26e"
     },
     {
       "file": "ja/audio-convert/index.html",
-      "bytes": 31079,
-      "sha256": "a1650bb5db52a457e661eaeb2fbc149e2ed5b5efdd3ad72d89a6c3efbc39fe18"
+      "bytes": 30141,
+      "sha256": "7f9f80f9ed48d258665e4387a2de5bc0c749899b2fb33543dd852869af29f80b"
     },
     {
       "file": "ja/audio-trim/index.html",
-      "bytes": 30093,
-      "sha256": "10de5292471fd08c204ac937aacdd1eb87764491661646cf5cc86d0d8d51c9b8"
+      "bytes": 29155,
+      "sha256": "c46e8c5cdc179a4bf497679ba46bfe1ee004527e4a45faefdb1212b37edfc379"
     },
     {
       "file": "ja/average/index.html",
-      "bytes": 21704,
-      "sha256": "e0cebd58f21a20675c2cc547a8487b443db81ace75721d329e8bbdb3d1161d3f"
+      "bytes": 20766,
+      "sha256": "8d0f6acf0746d0de8d03ade56f04598e33cfa60ee7ea22d17015a3d787007df2"
     },
     {
       "file": "ja/background-remove/index.html",
-      "bytes": 29789,
-      "sha256": "ebca585464f02d8a34a00c72c927e563953457ef25f465c283d98709835fc089"
+      "bytes": 28851,
+      "sha256": "00c30a73e749c729d19185babe388f8ddd3459533da220b9fd027c57b8130795"
     },
     {
       "file": "ja/baking-pan/index.html",
-      "bytes": 27130,
-      "sha256": "d7b568baae0337014fa6fc88484335c403c3bef946c559536ff9218b5acc0d5f"
+      "bytes": 26192,
+      "sha256": "6c4450bcfe85a6b4a0a1f46045c5da0024fe52a6b31b2942ffb56f694bbe8832"
     },
     {
       "file": "ja/barcode-generator/index.html",
-      "bytes": 28849,
-      "sha256": "0f511816493a3a7c8b8e272f5846e936c9480cff8bb42eac88f61cde8d690f7b"
+      "bytes": 27911,
+      "sha256": "dad2d105b5f6ffdf0b96b0d4580b72ae49ab4d030858c201899ed7089f97074d"
     },
     {
       "file": "ja/base64/index.html",
-      "bytes": 23031,
-      "sha256": "bd479883ecc5c4755caaeb46daa2c01a970d37972bd01625cd0fbd51dd241c58"
+      "bytes": 22093,
+      "sha256": "cbd7a7bc11beb7ec15ee104d9184bf9b6a6929f8d2f6937fb147036406a5b4b9"
     },
     {
       "file": "ja/batch-rename/index.html",
-      "bytes": 27002,
-      "sha256": "a3c53b40100abdfdbbfe0450f1b0486e6a6bd67163b12139e3927a2544c70334"
+      "bytes": 26064,
+      "sha256": "0a0bed49231461bd2fb3606593ce64cea9b4c921d18a8e0fe9c19c1c8cc7e388"
     },
     {
       "file": "ja/binomial-probability/index.html",
-      "bytes": 29051,
-      "sha256": "6754c259a0ade2a4369c56a0dd7c07fb7c442b2bff66c6f9b94952a3195c8b57"
+      "bytes": 28113,
+      "sha256": "10287412154f2371a285ba577775892a5fe2a744f4f106ccec931cd6fd04f5a7"
     },
     {
       "file": "ja/break-even/index.html",
-      "bytes": 25632,
-      "sha256": "e578d106a4b9fcd5a5aca3229cb8811374055cf500df2112673371725b1d70bf"
+      "bytes": 24694,
+      "sha256": "80ac35982f05835ae7024eb61cd3fe1bd218f39aab00e421f6c59364dcaa9643"
     },
     {
       "file": "ja/calendar-event/index.html",
-      "bytes": 32316,
-      "sha256": "a4a16b21a36b7d947a5c0e2a6b661bd987366e5c196c048397bf096713ce55bb"
+      "bytes": 31378,
+      "sha256": "eb2320deff8c0c608e5702b5834223415dc31607111b6d0b87cb5e449d1e9ffd"
     },
     {
       "file": "ja/category/developer/index.html",
       "bytes": 37209,
-      "sha256": "9dc95aed23ac3c5f00e2f817d7e73a09e50f0beb68239a1d552ac8d96c486b23"
+      "sha256": "6e40caa0555352a101795a517c664f5de3c04f1c7c1f90e2f7b0a8b42253c51e"
     },
     {
       "file": "ja/category/file/index.html",
       "bytes": 13350,
-      "sha256": "bcebe9cd32021dc199393b79247502cc1606f57c0315bcb4410b860400a57fea"
+      "sha256": "d281fc466d7b2cb7357b6e7b6bb11a7ebe3fc9ef8b774399b36fcb11319d27bc"
     },
     {
       "file": "ja/category/image/index.html",
       "bytes": 24622,
-      "sha256": "faca68fe06a66b6eb9429951ba016fcea428316d43790ea969ca5902b495d302"
+      "sha256": "29614432ba8496916d2428b65e582dbba2c435d5e08a98e6bfca3c87e0268c54"
     },
     {
       "file": "ja/category/life/index.html",
       "bytes": 31322,
-      "sha256": "f0cc21ea106bd266eb4bef5a0354a90a9181a958b8b6e95bdb0525a3acfd3e62"
+      "sha256": "d957600f52c51cdf142fd258b988a8597df853606d5ac130bdd4c99a1f6935a3"
     },
     {
       "file": "ja/category/math/index.html",
       "bytes": 31948,
-      "sha256": "388b5b13cfb3ba313d19c2662d64bcac25e6747d20cb219fa5c5efea8e46e7e9"
+      "sha256": "2ccfc21c91110e2b12b2730f29cfbe3d0192bdff834849f9518b008501995588"
     },
     {
       "file": "ja/category/media/index.html",
       "bytes": 19934,
-      "sha256": "e96e96fc652d8ba503d91040e924606ddd259ca59bcfd8d115bfac501229e5bf"
+      "sha256": "7ffc21a76e7d76964869734b68550a3d4d729dfdd93573faab7d66a9ce5ee46e"
     },
     {
       "file": "ja/category/pdf/index.html",
       "bytes": 22034,
-      "sha256": "3d126619ad5b630edde50c2a1e13080bd931bf37532642b37c319fb0c20f16c0"
+      "sha256": "9a84ad66e2446732a886fa28647e332b6f80ec18b97149993f73fe223f7dda85"
     },
     {
       "file": "ja/category/random/index.html",
       "bytes": 14460,
-      "sha256": "d765aeadd73bf72d1cb6e4da2cf64ff2085a3cff6dfcb6400fce4a117dc9bcb2"
+      "sha256": "5c3f9ea7c09810c64bf13a57a6f53da82d0cd46d600addfc726081ce36891d67"
     },
     {
       "file": "ja/category/study/index.html",
       "bytes": 16896,
-      "sha256": "18fd2534f7b1f9efd4bc7efdb917be55d5f12a89d00cefb58af88f4b8df662f3"
+      "sha256": "179ff666c2d3c68b577409221cc88c67b8e4e3a31459b8a902da85ae6bfdbe1b"
     },
     {
       "file": "ja/category/text/index.html",
       "bytes": 20154,
-      "sha256": "43c851ecccd0edffcfd924ee3c3eb1430f80899054823754a50f7ac9532ab458"
+      "sha256": "43bd9cda27e7901109ff70bda82f57446e145323d77d0028e5d546b551fac4c1"
     },
     {
       "file": "ja/category/time/index.html",
       "bytes": 20553,
-      "sha256": "daaede79c43e9bd6ae09f4211bf959e88359db7da0b619cc03127be50b84ddc9"
+      "sha256": "64ed96f37cb7212045173903e1d5b4973fc130c2758867eb051e4ddf05b43fb9"
     },
     {
       "file": "ja/category/unit/index.html",
       "bytes": 20156,
-      "sha256": "1af72e73c5ea5a345f09d46b48e20d24bac090d04502407b61e574230b7fc6e0"
+      "sha256": "8f436d9301088f1f70403933377aa0063b60fece22cd24cb5020aea75044caec"
     },
     {
       "file": "ja/character-count/index.html",
-      "bytes": 23014,
-      "sha256": "32b8a95535d6194d172169433d64e7abef5e0613085dbe390c68d23146b97e87"
+      "bytes": 22076,
+      "sha256": "fbd2ece6468ebd75d1ea0e534a4ccdbf1ecd9829862d244a84a69d680c33b4a1"
     },
     {
       "file": "ja/circle/index.html",
-      "bytes": 21472,
-      "sha256": "8a24dc749ad9dcaef1eef8ee40a5c7afbacc56eb0c05d64af09d97b7ce728b81"
+      "bytes": 20534,
+      "sha256": "05e5dfe05252e0feef085f8787a0b40425eaed4df09ad3193f03b0ea4231dba8"
     },
     {
       "file": "ja/coin-flip/index.html",
-      "bytes": 21937,
-      "sha256": "3efb057b6acf92c3a3beaa33897f4d0f672ff0cce810ef1ee365b4f57d5fe295"
+      "bytes": 20999,
+      "sha256": "7f65e139cc8f7e4aef5907da4f531d4b6630d50c233a780a8aec6394eda348e9"
     },
     {
       "file": "ja/color-converter/index.html",
-      "bytes": 21502,
-      "sha256": "428353c6cd74e815376ea12e9c61e9d314764e3482ae27c306290bc9abc16245"
+      "bytes": 20564,
+      "sha256": "1cd96f29ceef99659db52a622ffbc3873bcb49d70bd63275f53e45ed4cc97bb3"
     },
     {
       "file": "ja/completion-plan/index.html",
-      "bytes": 29523,
-      "sha256": "c555ad99f18f1095e610ce3bbf6257ec45f896663142f99077b5b38e2339b2ca"
+      "bytes": 28585,
+      "sha256": "f1788d52b0a827edd47720183030860b4336143827028db67f4ef2d3704bd8f2"
     },
     {
       "file": "ja/compound-interest/index.html",
-      "bytes": 26171,
-      "sha256": "7647448b30e29f1666bcb5b4b3c38fcec89f48f454c5427b2d2b07fe89911628"
+      "bytes": 25233,
+      "sha256": "bd7577149b9ba244e8cacd2dbdf5f520891ca8bb8ce28f7b22ecb12144dfd5f4"
     },
     {
       "file": "ja/cone/index.html",
-      "bytes": 21932,
-      "sha256": "5cca31300efd5e964cfe7975c5534b0040f7da8ea590b85568d1a1385cc8b308"
+      "bytes": 20994,
+      "sha256": "2c1028820c0e0d6b78e86b751648d951428ef0772eba546638881bbbe8869585"
     },
     {
       "file": "ja/contact/index.html",
       "bytes": 7818,
-      "sha256": "8174783fa703968aa87619e0868f91d97e923c2cd204f394902cb35a955d8c6b"
+      "sha256": "5e721a22ae9879efb2fdf5412e7a032d51700a5eae63a49df7115c1394c1d5f7"
     },
     {
       "file": "ja/contrast-checker/index.html",
-      "bytes": 23469,
-      "sha256": "88facc2846d75c64f83feb096f4f0712f201c27790822f89cd9c994fcabccc1f"
+      "bytes": 22531,
+      "sha256": "1dc8f0c1934a1724537dba924ab1a77996441dcc4b066ca7618febc9bd9df060"
     },
     {
       "file": "ja/countdown-timer/index.html",
       "bytes": 23439,
-      "sha256": "ab0449e5740286da671a0001fa739b6a5051552f3e9ead84a41ac745fd9db74e"
+      "sha256": "a0e91b09b042f44a2f768d39a466684ab630c54f754518d007ff61a86d5939a9"
     },
     {
       "file": "ja/coupon-discount/index.html",
-      "bytes": 43532,
-      "sha256": "100f2f890b30cf0049d7b80c54ae53fdd65dc916275ac4d572ca399911c33604"
+      "bytes": 42594,
+      "sha256": "1f0f89aebf7d74ae32c2b8dba282c80e4588116f6fbd91e94427e2a59e609861"
     },
     {
       "file": "ja/cron-helper/index.html",
-      "bytes": 32022,
-      "sha256": "e5af379e3fbe027f23cd70f1d5f6d74fbe9ecbf7cc8ab27350fd774c82141bdf"
+      "bytes": 31084,
+      "sha256": "762d883115548ef98d030a7ed248c93199c1d009601311de55917f9cf5bf6047"
     },
     {
       "file": "ja/css-clamp/index.html",
-      "bytes": 23858,
-      "sha256": "abf9964f0617fa2743bf8e7d5d20153376afc6b8cf7fee67c3bce2d4ff552361"
+      "bytes": 22920,
+      "sha256": "deb675cd1f866e95598899dc88dae506b4bea0edf7856b0323b0b92910f11228"
     },
     {
       "file": "ja/css-gradient/index.html",
-      "bytes": 22715,
-      "sha256": "21c000162592e981a0e45e92464aba97a38f9634cade0a34ca6744b88b9f2fe2"
+      "bytes": 21777,
+      "sha256": "7cb85abdfe5725015bdb6fda4a533a3f05af2e3a694d7510f41b602b6f10a28a"
     },
     {
       "file": "ja/css-shadow/index.html",
-      "bytes": 23714,
-      "sha256": "6dbe7dbc3f6f0170c43f77111ef37752d0f85275b0d926eae08f56a2c8486108"
+      "bytes": 22776,
+      "sha256": "1461c26cda2b86173d1458d7d4203be2c93bf450743ae52be57cb3cc09d155e6"
     },
     {
       "file": "ja/csv-to-json/index.html",
-      "bytes": 22975,
-      "sha256": "7fccc02c4d7f0125044d6b6440d1d4edfa418c1d6de0c9d6823c5f7f170a5cc5"
+      "bytes": 22037,
+      "sha256": "f4037db757447e10241db06d0497425fda9a64f5504c1446708ebc8b7a263a93"
     },
     {
       "file": "ja/csv-viewer/index.html",
-      "bytes": 29753,
-      "sha256": "1c8f0c00a1123f0c8d09a4cf3b6e0bbb10f5ae1715d59037bcadc0c101e5f008"
+      "bytes": 28815,
+      "sha256": "db1bfe0dd63b745126cb5a8cfa20f56afd0e63a6b3a20e85cb8966beb79a936a"
     },
     {
       "file": "ja/currency-budget/index.html",
-      "bytes": 27884,
-      "sha256": "8cad8d1f446d83672ec66e00bc5e75d9d25abf487cde3e3b02f722821c913513"
+      "bytes": 26946,
+      "sha256": "e5441f36ff3219cb70f4d7d048ecc4052a26ac43becb07df5eeed2d2d2fcf3b8"
     },
     {
       "file": "ja/cylinder/index.html",
-      "bytes": 22036,
-      "sha256": "6cfd039c3136cb7638a5a3dc2b5d05e022ee4e063a58ad1500b439524a33db10"
+      "bytes": 21098,
+      "sha256": "b514eeb5bdd89c7da0286a76fd32175c8cb11429c35171dcc3c15d0b09436c8a"
     },
     {
       "file": "ja/data-converter/index.html",
-      "bytes": 23056,
-      "sha256": "22bcddc648ef5057c83272ba0e435cb2b04fc8c7bd7d87eaaf4520ddeca72366"
+      "bytes": 22118,
+      "sha256": "0d8b6acb0732f2c50d23fb7e6dfc10551e8a6364d29a2c98d264e4849b6be702"
     },
     {
       "file": "ja/date-add/index.html",
-      "bytes": 22388,
-      "sha256": "829aec13c4a56ad823cde79a049adcedeeda81ed88f67d055a272e66d1ddba1e"
+      "bytes": 21450,
+      "sha256": "ed8b9c3888e7e3e95f9664e8faf1419053a32517ed4c649090e566519341fa22"
     },
     {
       "file": "ja/date-difference/index.html",
-      "bytes": 23216,
-      "sha256": "541c63e7e9739d2c82d1def00304397307ade03888d8a2e3909801ee964e7526"
+      "bytes": 22278,
+      "sha256": "9554366b27fe6efa94adaa01b7d467c3be7789df7611b7b48943e9d303c3c14f"
     },
     {
       "file": "ja/day-of-year/index.html",
-      "bytes": 21709,
-      "sha256": "7e2b481df4b63ea64382ddfec616926fabc7d318a550aa952a6c86ace8cc6a96"
+      "bytes": 20771,
+      "sha256": "24bedcfadac2b4bad47d28378f1cd1d8635df06e57cfd362721db65cfa76cad3"
     },
     {
       "file": "ja/deduplicate-lines/index.html",
-      "bytes": 22382,
-      "sha256": "f7ac0285f665cff5b76a07360a46b7ce412945cb6b598a64939cdc3d5b020b13"
+      "bytes": 21444,
+      "sha256": "cb725c8d475fae722b7abe2043a4f54e2f44a9f368c62fc1382e6a90d0cdbaf7"
     },
     {
       "file": "ja/dice/index.html",
-      "bytes": 22379,
-      "sha256": "4daaa049cffb598cb3d31d5742112346afa9516ebbeb18bdb3efdfe6384ede05"
+      "bytes": 21441,
+      "sha256": "d1e6bd1513151b3d5eefb726aae651db13403169f76e353e96646ceb99136b49"
     },
     {
       "file": "ja/document-scan/index.html",
-      "bytes": 35356,
-      "sha256": "8920b40b12a5a1d77018cb0801da35b76afbbaa11a5379e9599c9e990ff7fd26"
+      "bytes": 34418,
+      "sha256": "9d3660369cfb9ed4a4dfbbb5d8d18375435fa88688e6bb3a0bc5132c7f81bb3f"
     },
     {
       "file": "ja/duplex-photocard/index.html",
-      "bytes": 29932,
-      "sha256": "4ab3435f18e5b764e018ab800a55abda9e64269ab46c964ce6d085a444928199"
+      "bytes": 28994,
+      "sha256": "38f8085bcc551f1598ddbdbd8809f544e0fe12fc448b73c1d79471cd5d06859e"
     },
     {
       "file": "ja/duration-unit-converter/index.html",
-      "bytes": 22897,
-      "sha256": "ba5f66fe69efcfbbd509d6b63b689f669e73f32d3e43f334697401c4fd64eb2f"
+      "bytes": 21959,
+      "sha256": "833ba1bf1ff8de37f72b16d166e6719c0b3c1f34ed9f1b7c9a2340b544068e81"
     },
     {
       "file": "ja/energy-converter/index.html",
-      "bytes": 22750,
-      "sha256": "9ad4ea5e1b32b2ada9d3c9f9898ba4e2ed62dc147c58ad7b96d72bc8c7f0e4eb"
+      "bytes": 21812,
+      "sha256": "60b2720126592e24bfab899e9d89d7e37adf3b8f6900fb1c9a7e47e5f8433ee0"
     },
     {
       "file": "ja/expense-split/index.html",
-      "bytes": 37986,
-      "sha256": "58044acc7f1eef5553b116be15724e6051bf0526a4a3b21e3f90049740102bfb"
+      "bytes": 37048,
+      "sha256": "284f171886dbdb85463791a6d20ec0cf8e1cf63f2a6cd1e19b3f781375f0d94f"
     },
     {
       "file": "ja/extract-lines/index.html",
-      "bytes": 22975,
-      "sha256": "8bdfc3879f7ca7ad13e9c825d5a14f41c596974489334b2e12c5f100a12c9153"
+      "bytes": 22037,
+      "sha256": "bc71dbe99e50724ced244aad380f41f63d2849661b5e308c82cb30c0a5cf8e91"
     },
     {
       "file": "ja/favicon-maker/index.html",
-      "bytes": 29271,
-      "sha256": "afe85c8eef316d33de87604f3685d454392e91a4b1f0f4dd6e1156134aec6200"
+      "bytes": 28333,
+      "sha256": "eabd3a414e09f9ff286f940d86a0ec3e67bf38a05d6861f91bf37b3d5179c511"
     },
     {
       "file": "ja/file-checksum/index.html",
-      "bytes": 25255,
-      "sha256": "1cdcf8ab798006074f57dd0d0490e96fea6e731fbf78ce3c3fd9d47abc8aa108"
+      "bytes": 24317,
+      "sha256": "e24d62db9c4c1ff54d11f7170d1ca1513cca6ccf9411a639a96bd309dca22bf9"
     },
     {
       "file": "ja/find-replace/index.html",
-      "bytes": 23044,
-      "sha256": "41f151b913725a72a3c74174141c3241c04036582a914b7bd089e7ec63f15338"
+      "bytes": 22106,
+      "sha256": "8e6331ff76e0abdb61a2272e31e987c24d38b4b0a621e81942e237a5728a3a4d"
     },
     {
       "file": "ja/flashcards/index.html",
-      "bytes": 31832,
-      "sha256": "fa22df02cb5b089402be556b102556aa569c449de233c7fbd1839521bfad0484"
+      "bytes": 30894,
+      "sha256": "d24dd206ce832bebefe1236eddc71dd3b86266b5e8ac9f19de4d0aa7b8d6956e"
     },
     {
       "file": "ja/fraction/index.html",
-      "bytes": 23635,
-      "sha256": "59848055d2007c779519175d6d52a4bed66bd0a7e9c1a77eef363b2c1957deb3"
+      "bytes": 22697,
+      "sha256": "1e8037f955527c847135ba54732bd0fc2608235474fa7bfe29c411ca9f7a8304"
     },
     {
       "file": "ja/frequency-converter/index.html",
-      "bytes": 22654,
-      "sha256": "99c04e3c25b56f87231091187091ab91342476e1c781f3275f9145ff5951dcac"
+      "bytes": 21716,
+      "sha256": "9871e4ccc355c2119beccc5de8fd8c5220759bb24e153c4c2b67364402876200"
     },
     {
       "file": "ja/fuel-economy-converter/index.html",
-      "bytes": 22532,
-      "sha256": "1698b56b2bbc8402583295e94e049206e817c7ec3220f7f8de27871f37cd1357"
+      "bytes": 21594,
+      "sha256": "66771068f16ac20700c19e1c441655018a18a0277d00d51bb6babb1c20304155"
     },
     {
       "file": "ja/fullwidth-halfwidth/index.html",
-      "bytes": 22706,
-      "sha256": "244fe5e97abe1463a8045ccc9e106c6818d6861ee2084d037fe8f6feef200dd3"
+      "bytes": 21768,
+      "sha256": "cfed725118f01b7b43a574ee27c366b902d93acfdca453281bee55210b3294a3"
     },
     {
       "file": "ja/function-graph/index.html",
-      "bytes": 31436,
-      "sha256": "76aa8a010504acd40a01248d1f55fb0e266669d60decac5eb61f5dd386ae61fb"
+      "bytes": 30498,
+      "sha256": "9b95ce4afeb01fdc93f365ec5d38e5241044647c15cf3da9d5b68238067ea84c"
     },
     {
       "file": "ja/gcd-lcm/index.html",
-      "bytes": 21940,
-      "sha256": "35dd2687715bb5ea01fed943ccf4256a1f18bca67b54cb1a7248c1eecf7c0578"
+      "bytes": 21002,
+      "sha256": "51974e2798a93e93fad2031f78d8686363c46719f1a6e5ca1ecc09c690c11595"
     },
     {
       "file": "ja/geometric-sequence/index.html",
-      "bytes": 22914,
-      "sha256": "b15d0a7ff21062089bf534f1d563f96b78f4134918b88df9e7980be28d09d4b6"
+      "bytes": 21976,
+      "sha256": "09534115005457df75f415386d9172abaafc6af73fae771d822d47147b4a9baa"
     },
     {
       "file": "ja/gif-maker/index.html",
-      "bytes": 30355,
-      "sha256": "8f38c3b2abc7eda194888562bcd8692484a85cc9ec368534fb53958689856de5"
+      "bytes": 29417,
+      "sha256": "8f134dae218d5c020db0bae2e124bd2e181d908b7b9f95f28038cb1955de2567"
     },
     {
       "file": "ja/gpa/index.html",
-      "bytes": 25027,
-      "sha256": "c76c4828a9a3bb02b89dc4395dae78a13461d954aa7fb718dbf05fd6c1ccb3e4"
+      "bytes": 24089,
+      "sha256": "3914e80c2a95fe6600c2b92fd15fff837e593d16a4ec2e3c350ed8727df7fdb1"
     },
     {
       "file": "ja/guide/index.html",
       "bytes": 10786,
-      "sha256": "77f4d333211466f5b229f876199b2484067702ee9c6b6e0ca8e280516c2dd1ee"
+      "sha256": "0b63f747fefd95b290fed29824719e4a6a853399f856cbf2bd56a2e933db09d7"
     },
     {
       "file": "ja/handwriting-practice/index.html",
       "bytes": 23705,
-      "sha256": "0471e5fc4f042d27eca6012fec27d7a2123862ec15dd398baa66a9cf5f2506ac"
+      "sha256": "68d32524355d4607b4805ba39ba817afa09c78fb0385a5b321b0bb2d28a21d31"
     },
     {
       "file": "ja/hex-text/index.html",
-      "bytes": 22301,
-      "sha256": "3e2c06b7e6a056809cdc44a9f4ac075e5244d1b586bc7c4c26763145d95de73d"
+      "bytes": 21363,
+      "sha256": "e4e7203455ae624beba173b35775ea3d574c1155890daca3b540b610377dab0d"
     },
     {
       "file": "ja/html-entities/index.html",
-      "bytes": 22972,
-      "sha256": "84f2e820adc5da30faf9b42b383bbdc0ef38891c6d899f5b2ead6a61c5cf5ccb"
+      "bytes": 22034,
+      "sha256": "375f52b01fe69373650661f3739025c7b63c97bad96128f18a11bbb73be6b91e"
     },
     {
       "file": "ja/image-combine/index.html",
-      "bytes": 27546,
-      "sha256": "1ab37717957d79f737d82d5ed4dbca318f314b5ed3f749f35c97ead7b8cdb735"
+      "bytes": 26608,
+      "sha256": "90213a0628e7c058caa4ea86cd4b3798caa32ecd7022ec6dabfd75c8e806f05f"
     },
     {
       "file": "ja/image-compress/index.html",
-      "bytes": 24968,
-      "sha256": "af331170887067a1a0caca83a61e1446da83801f6e7c9c038295da5a3bd4e715"
+      "bytes": 24030,
+      "sha256": "11c71f2ab83fcbd778e4d5c96e72e39306b42a629a6f2251da0d62efbc5f93e6"
     },
     {
       "file": "ja/image-convert/index.html",
-      "bytes": 26230,
-      "sha256": "9b78a6c4274827063768b3f5fd27f0e95792646e668470b3894ce0818caba307"
+      "bytes": 25292,
+      "sha256": "57acabe1e6ef90234446269d16304308fe8836f22cf538dd3425acbd0eee1da4"
     },
     {
       "file": "ja/image-crop/index.html",
-      "bytes": 29053,
-      "sha256": "765a6bd58ac482c1668f8c29d497d39eed94d67c49a40a0e5bba55dad1ca46d7"
+      "bytes": 28115,
+      "sha256": "ecbeedb43acdd45be8d63abcb4d46e5f4c68475a913b1681e8ecf522851d448b"
     },
     {
       "file": "ja/image-metadata/index.html",
-      "bytes": 27854,
-      "sha256": "da6a5c31cba625407cc13864ac4cdf33da472ff9d4990e790e5e69cba07911ab"
+      "bytes": 26916,
+      "sha256": "8427ba3dd2f989d3da2772465e8428638df76fcc4bdd9bcac4f1a074de838c9a"
     },
     {
       "file": "ja/image-ocr/index.html",
-      "bytes": 30102,
-      "sha256": "86fbafd468313469a1ca73bbb273790160c76a01382c2ade5d23633a950fc0af"
+      "bytes": 29164,
+      "sha256": "4b0dfdffb904144b7f5624a518cb239750e47b04277be77d69afaa1ac3bd7986"
     },
     {
       "file": "ja/image-palette/index.html",
-      "bytes": 28471,
-      "sha256": "92df990a0c98344436c369eb2e266162d2fff12e79f8d1850fa6080215343cd7"
+      "bytes": 27533,
+      "sha256": "17a88487bc390b7ee2de81fecd082fc5790b858418c1589e14cdf4c680160d63"
     },
     {
       "file": "ja/image-redact/index.html",
-      "bytes": 28537,
-      "sha256": "75178d515e1bb60123e58d2d382aaa2c476beaef748a9f48bc53721632d02cdf"
+      "bytes": 27599,
+      "sha256": "ec0abedc4130ffa35e02ba527d982bd42eaf87f9ffaf3408dae40f1e38f66991"
     },
     {
       "file": "ja/image-resize/index.html",
-      "bytes": 28226,
-      "sha256": "a5c8519e21533a1c6c59cbb7e661458d8e315d2897eb48d843ae111b24287428"
+      "bytes": 27288,
+      "sha256": "c34c44dec6b23ecda2caccd7f54891c0ef12c00fc98d4f6e6d018674e8c210b9"
     },
     {
       "file": "ja/image-upscale/index.html",
-      "bytes": 31055,
-      "sha256": "d21f00fac4fc3eb14f145b3a7a63b080470d65c43747fdc83226b4b1d6a2e646"
+      "bytes": 30117,
+      "sha256": "c900fa3e6639b0d63cb890548a8b74378793011c650a20d9a7c0aec9ddddf24f"
     },
     {
       "file": "ja/image-watermark/index.html",
-      "bytes": 28634,
-      "sha256": "cb6395e1f2ecda629008c4998893998907fe0ea38b3a917db8d5f00b3697d796"
+      "bytes": 27696,
+      "sha256": "5a6b38ee91f60a178674b0d67b9bdf398cae0ac08c608fdd87a487ef0f085a91"
     },
     {
       "file": "ja/images-to-pdf/index.html",
-      "bytes": 25104,
-      "sha256": "a917674673a237247473d9b70b4335ef34ccf61768a713f94965d8fc772bdf8e"
+      "bytes": 24166,
+      "sha256": "dd23a4a1a690067454b79c34018741d7d8b78ac9cf909adf77f9f2490bf6fd54"
     },
     {
       "file": "ja/index.html",
       "bytes": 180256,
-      "sha256": "faf31e56ece8dd21e112fbd28f7ec1037aa7be34ca0511391a9961e6fbc67433"
+      "sha256": "7394eabc1092724094129f457ee81f00feeda01630d4f2ea913363b85f0129e3"
     },
     {
       "file": "ja/installment-compare/index.html",
-      "bytes": 28407,
-      "sha256": "ec9c37f1f2b5d727b5b755d09f30475efcb41c694e6648acc1fe473b686cd2d7"
+      "bytes": 27469,
+      "sha256": "bd3ed03dc2512b87553f9b88cfccfe1a55e1b080049514a0b4c179015908aa65"
     },
     {
       "file": "ja/iso-week/index.html",
-      "bytes": 21775,
-      "sha256": "ee71b9042017933ef7ba56ac56e5a6e4a13f11124c89a0fdfc4fd8004e6d14ec"
+      "bytes": 20837,
+      "sha256": "84ae2941bf71466bd175517b4412d28d52c497050a3b43e77571ca332de6f6dd"
     },
     {
       "file": "ja/json-diff/index.html",
-      "bytes": 27430,
-      "sha256": "25ecd73ff078117247b2e42b16fbf87be98c4ced08ba6a02caa1b19671db5e66"
+      "bytes": 26492,
+      "sha256": "b105def92c862e950ac23f74ec4a7445727c519c2ef3a0109e780a3fcf615e33"
     },
     {
       "file": "ja/json-formatter/index.html",
-      "bytes": 23841,
-      "sha256": "67908ad344a3b9117359bd745b1f69d22c208c6f3ebf013a6834d9830f93c35e"
+      "bytes": 22903,
+      "sha256": "ca8f3f229bd7bd168acf7705ef65caa59d6a5e91311affdb5f01955d49d5eea3"
     },
     {
       "file": "ja/json-to-csv/index.html",
-      "bytes": 23052,
-      "sha256": "55aea9e466cdfc94480edc1b4b3ac1562b9614128724d37504ed091b5aad9046"
+      "bytes": 22114,
+      "sha256": "a4cd1fd1aeb27bf97b90cdca0a2cc319c7813dae7ca9623c7aef7c52259a11bc"
     },
     {
       "file": "ja/jwt-inspector/index.html",
-      "bytes": 27138,
-      "sha256": "a371ed73d37957fc0d21bc0846aed943df093d9d545736930b47cbc031cf96f1"
+      "bytes": 26200,
+      "sha256": "b4260cd9860d31fb56fb7cce7b0dab30a9dc52695c0b054affaf96244f0695ff"
     },
     {
       "file": "ja/korean-initials/index.html",
-      "bytes": 22367,
-      "sha256": "4786ff41f2fc7a6a3d8e67471e3ee7bb1b0e7a17866b8b85591c09a219c174a1"
+      "bytes": 21429,
+      "sha256": "3a5c9b296cc86223c558c3a76ced4646a28949280c3569303cae482fb8838c20"
     },
     {
       "file": "ja/label-calibration/index.html",
-      "bytes": 29234,
-      "sha256": "19a4f396b31f63b9a435e80e3017e802d598e292c298ec382a6536d4eb0249a9"
+      "bytes": 28296,
+      "sha256": "423776ba417f27be3a1d5512fde7fb21f27e554128cdb6990ee553828b6d6e17"
     },
     {
       "file": "ja/lecture-speed/index.html",
-      "bytes": 26421,
-      "sha256": "d1747171fbd3d2ed16e21f265bf6dcd666e5968461609ce9b1654d5c0448d36a"
+      "bytes": 25483,
+      "sha256": "87d0cb56f594fc41ad21ea3a4969da3db3dcdb68db121d050e5aa8c02aa56b63"
     },
     {
       "file": "ja/length-converter/index.html",
-      "bytes": 22940,
-      "sha256": "b2cc8ccb03e5d6dfbeaaacdd273a0346cdbeac2b2ade5159f1a31ce0d874a98a"
+      "bytes": 22002,
+      "sha256": "bdaa9b5cb93f7b9528f0f9665bf20baaa4d0900c45f7f0b512131bab9f6b2691"
     },
     {
       "file": "ja/letter-case/index.html",
-      "bytes": 22778,
-      "sha256": "b369a0aff12cfde0b5343ead73b0931bf734714fd11af74f4e88a18883f103c6"
+      "bytes": 21840,
+      "sha256": "2dc1065c6b35924bee0ac6e63319e59879ecb9938d2202c37eea717f3b06b8f9"
     },
     {
       "file": "ja/line-frequency/index.html",
-      "bytes": 22086,
-      "sha256": "07de5a79c145226a99e75048a8f5e6d5b838a0aec04d093ad98d003e19993257"
+      "bytes": 21148,
+      "sha256": "c2510ca26969cdcf132fe0d87655abdb0ae12e4f68aef541a4cbff983260b25b"
     },
     {
       "file": "ja/linear-system/index.html",
-      "bytes": 28059,
-      "sha256": "ebeac8c62af343ce3fe5830215e1775ae8a997f914ad84d6d88bc17563fdab01"
+      "bytes": 27121,
+      "sha256": "9630b5ef20885c94f52e7cdbe30ec347ea83e276ed6a29ec5a7e26e1ccbebbdc"
     },
     {
       "file": "ja/loan-repayment/index.html",
-      "bytes": 26572,
-      "sha256": "c3bcc3b6593d7ce8c168fa55e83de77547e60895a0e236b3379b4112382af556"
+      "bytes": 25634,
+      "sha256": "ec12f6a87bd3dc5baa69301d7596ad1573a5eee9fe30922d73578a36aa0c2155"
     },
     {
       "file": "ja/markdown-preview/index.html",
-      "bytes": 27120,
-      "sha256": "93ce7f12dbe87304db50558ec82b253c8f7ea417b501a54d4c8c4a3a940725f8"
+      "bytes": 26182,
+      "sha256": "3a4e19d2f09deab49968e6387fb223d027af4c0d7b3182b8560193793592269e"
     },
     {
       "file": "ja/markdown-table/index.html",
-      "bytes": 30448,
-      "sha256": "4ac4b3ea2f6f8f0bc08f09f68e18a479b6e7b4dd3c5a35b1065ca04eaf9bbf47"
+      "bytes": 29510,
+      "sha256": "bcdcb40be0fb4bca84fa46d1e03b963261640b181282d3d44cca542f1e71c5d0"
     },
     {
       "file": "ja/mass-converter/index.html",
-      "bytes": 22576,
-      "sha256": "0458aad9c8ecb444cedc1ad8743436ebb0efcab9698786a3b6e231e81640d6b4"
+      "bytes": 21638,
+      "sha256": "41aa807e3e829e911d5a88872d19660f0266f33b19dca23eb8346a8edcfe3e15"
     },
     {
       "file": "ja/matrix-calculator/index.html",
-      "bytes": 29543,
-      "sha256": "1966351334d5318c296016cba3fd0e92cc8370f229119be4ec8f1e17a9e14120"
+      "bytes": 28605,
+      "sha256": "529cb2b064227e87588f1ef2250ff49a29c1b360e49ff4904f482ee0515b3319"
     },
     {
       "file": "ja/mcp-config-check/index.html",
-      "bytes": 25197,
-      "sha256": "f056ad8ca8d003f66b20704885c81af336982228465d8b8adb6ddc99bdfe197d"
+      "bytes": 24259,
+      "sha256": "35a547b70944f9d004b6cc17424b39143310cf6de8181590db09b9befb8db8e3"
     },
     {
       "file": "ja/median/index.html",
-      "bytes": 21977,
-      "sha256": "89087ffb1d8372452a7881e94dec55dc6fa8da8cbfc768098bd735de5b1cc98b"
+      "bytes": 21039,
+      "sha256": "e35c83da2285d063b9f0fbf962e19d34bd2deb898ebfee6e5282b963d5a34709"
     },
     {
       "file": "ja/meeting-time/index.html",
-      "bytes": 31643,
-      "sha256": "bf584efacb422a132443ce67dde2ee1a86b6be5c22ab399320847be819aace20"
+      "bytes": 30705,
+      "sha256": "ec7359d96a0a345567af0afd8be2b6862fa33a72f24ea883c2881b9b0c6fc3e7"
     },
     {
       "file": "ja/meme-maker/index.html",
-      "bytes": 29696,
-      "sha256": "ba1505138daea5e77ea10e663265be012a522a3d1a8390fa6339819c78d17b38"
+      "bytes": 28758,
+      "sha256": "85e39b6648c447f5885836fea30cc24a60c74ca5d7fa6dd370a4aae83202e33c"
     },
     {
       "file": "ja/notebooklm-pdf/index.html",
       "bytes": 25636,
-      "sha256": "e2c97e6f7e8d07aa40bf53be576465be0945787e6cf96a20d0d622648d89507a"
+      "sha256": "62d77fe42d600e9329c8ce8997fe186635e750ef1618750f0c02bd7e2a3cbdf0"
     },
     {
       "file": "ja/number-base/index.html",
-      "bytes": 22026,
-      "sha256": "6c6008b55a4deb8e6ef8ea647fa14c77e2f74030cb4f377776607d69f98a8ce2"
+      "bytes": 21088,
+      "sha256": "154dd718637c3f2c66f6e9373be0cc9d193f1893141e739a40d75270e85453a1"
     },
     {
       "file": "ja/number-lines/index.html",
-      "bytes": 22633,
-      "sha256": "a6a7dfc704d6d024d265db8735aa6472b9778e2d2dd2a6c5eb4b8222837a51cb"
+      "bytes": 21695,
+      "sha256": "7a9cb471bb578aa370ee114d98d61cb217fab67fc4924aa79f8b1ab4f59920c4"
     },
     {
       "file": "ja/pace/index.html",
-      "bytes": 22809,
-      "sha256": "591cfd5f3a4c1edc902c8424517c2a33025d13f2db27c946b720925326464314"
+      "bytes": 21871,
+      "sha256": "0be40388c39a6134b0f22728c788cd8f4975991dd51ddd73d6b16cfed22f8cb5"
     },
     {
       "file": "ja/password-generator/index.html",
-      "bytes": 22750,
-      "sha256": "83a378ead132e37cc966c04da17c985ad91ac2992949b0d14df9e97136ccfc3b"
+      "bytes": 21812,
+      "sha256": "c21105805b639838c4aeefa37e7bc2b33288acc967634e87bd5da5317b50014e"
     },
     {
       "file": "ja/pdf-annotate/index.html",
-      "bytes": 33386,
-      "sha256": "48c3c1f7af1f4715692b91a1e3f8d1fc402ee3b86eb3f1b71fa2444c02c56ab6"
+      "bytes": 32448,
+      "sha256": "5b948529ef22d28e90869831a1c9bf1ffb9b183e366afb49584915f5d82a580a"
     },
     {
       "file": "ja/pdf-compress/index.html",
-      "bytes": 28941,
-      "sha256": "05140bfaa292324fba13c496b31782a4f08d7194534599d126eaf0fc57d9e2f9"
+      "bytes": 28003,
+      "sha256": "fedbffe7e866ed09a23e9d875a8a356d517f5f84b8d76c2f8d143552e3797517"
     },
     {
       "file": "ja/pdf-fill-form/index.html",
-      "bytes": 29462,
-      "sha256": "b5e6382f8e02659848bb2c073e742875581bd397edd48858e5414f1ffb423711"
+      "bytes": 28524,
+      "sha256": "0fcd029a88b07108259c54dfeeea0ea53dbda43bf63ee69372663eb3ff011f17"
     },
     {
       "file": "ja/pdf-merge/index.html",
-      "bytes": 24472,
-      "sha256": "ed988420e9af86406351419965615763df4a301234f0aa4c6962f5aeefe4a55e"
+      "bytes": 23534,
+      "sha256": "9cba12a6ada0d68f71750e6ece9f9ba8ae351bc5707edd32988876c5b518fc06"
     },
     {
       "file": "ja/pdf-organize/index.html",
-      "bytes": 26544,
-      "sha256": "07960a06fbf32262e9c767c161ff3bdc82bcc9d1942f90238a35e709880dda14"
+      "bytes": 25606,
+      "sha256": "4c62bbd3aa8500d9e7e5eeb03a76c3e4c1834b9cd926ad9bdc3d244fe9012d29"
     },
     {
       "file": "ja/pdf-page-numbers/index.html",
-      "bytes": 26487,
-      "sha256": "190978c4c197f2abedeee36f2dc317442db00fb37f6b0d3b468b657a17320b44"
+      "bytes": 25549,
+      "sha256": "7b433d7ce9d5d62f37c6b1c0c9172ccb08b0d65964a2a0732b17acc72744c46d"
     },
     {
       "file": "ja/pdf-sign/index.html",
-      "bytes": 34294,
-      "sha256": "47cf73a3eade2487ef117078e4249789e82eff144b90cac949942cce1cecfc65"
+      "bytes": 33356,
+      "sha256": "19e0eeaf0337a9a2e73db301b9eb7dbd495fd73d52fdd77ea4238e161821d622"
     },
     {
       "file": "ja/pdf-split/index.html",
-      "bytes": 27905,
-      "sha256": "700a339404265a6dae34621907ddd8338e542f3feed384bc8ff5400fc00dfc73"
+      "bytes": 26967,
+      "sha256": "d7c20e252140b2ca22a6b206376b58df043ad22ec806dcda8940d244fae11ef6"
     },
     {
       "file": "ja/pdf-text-extract/index.html",
-      "bytes": 25095,
-      "sha256": "da7dafb27be1586787f073c06f065ef50393137178b2f7496d8cc08ae814f54b"
+      "bytes": 24157,
+      "sha256": "1824ee4efa962b3cec96537f6d0a13d2d2446a1407ded1e5f460426a1ecdf9b7"
     },
     {
       "file": "ja/pdf-to-images/index.html",
-      "bytes": 25339,
-      "sha256": "c58e200f9e2eb898a3db499fb7497146890b31caa2e0744f52c9b420646c98a9"
+      "bytes": 24401,
+      "sha256": "2261fa96a18ad76ceb2e5772a6083391dc5b17bbd275959aee4998c3b80be874"
     },
     {
       "file": "ja/pdf-watermark/index.html",
-      "bytes": 33381,
-      "sha256": "a339d2bdda86c3a9b2e26c72732bb18f23f810f0f8c04568b0df2712d51d2cd2"
+      "bytes": 32443,
+      "sha256": "85d2ae9d3e4e511625d07b63283072093aff20cf26f4f519506a2da9c4790e7b"
     },
     {
       "file": "ja/percent-change/index.html",
-      "bytes": 22354,
-      "sha256": "7dcead9312d3257f6a461c29459a8845d072e1071845d40d443807706bc1730b"
+      "bytes": 21416,
+      "sha256": "da1c9ab7fdfac0524520e5c7f15bd4547ae62de4067b905215d4153982aaaaf0"
     },
     {
       "file": "ja/percent-difference/index.html",
-      "bytes": 22690,
-      "sha256": "74105320f1d8801cd8dccc0a97c343abb754d7a5a96f50f04f15a13356b830b2"
+      "bytes": 21752,
+      "sha256": "99d4093c3552138c20ee87c28406feb6e4a5773dd3bdf2054b769b8df739f0b4"
     },
     {
       "file": "ja/percentage/index.html",
-      "bytes": 22664,
-      "sha256": "ab7ed352ca6a2c020e27a86c922b752d0a19fe3c8d6e4b4ed3cdc2229f18e8d1"
+      "bytes": 21726,
+      "sha256": "b14b1b03800b19d2a91962ddda38e928fd028e09ba1dac03c4fd8ec8be29a6ff"
     },
     {
       "file": "ja/permutations-combinations/index.html",
-      "bytes": 22799,
-      "sha256": "14fc0b06a7485bb927244ffb58c15bba0b54fefc7c9b292075a0238a14176307"
+      "bytes": 21861,
+      "sha256": "92c61b3194ac5d4c68a4e9a9404b08f06b151158afe35ecf6b3395e0f10b1b79"
     },
     {
       "file": "ja/pizza-value/index.html",
-      "bytes": 31816,
-      "sha256": "020f77f4831b808308503a5d8510b01244a577f0bbe0b7f509dd5494a23b6de8"
+      "bytes": 30878,
+      "sha256": "6208592dd93cfe95db5e47423759e58eb29c30b45d5c3cdb000f984fa2b6bd53"
     },
     {
       "file": "ja/pomodoro/index.html",
       "bytes": 22985,
-      "sha256": "d3330674df0f21be4c414fddfb797e619847a56a27a9e1dd2124574444de6fa9"
+      "sha256": "addd7a36c95af33c814e3080c8f31e80d3657e9dcb03cce49025021ec6b31a89"
     },
     {
       "file": "ja/power-converter/index.html",
-      "bytes": 22567,
-      "sha256": "2dddd3b088258cd38a90c2e49a2ec356b6569db35e6c31ea9c90c168d40264c3"
+      "bytes": 21629,
+      "sha256": "1d84feaf6a9a486066a2746c4064334379be556c7cb5109dd4b34331b43543f5"
     },
     {
       "file": "ja/prefix-suffix/index.html",
-      "bytes": 22905,
-      "sha256": "ddc798ef644f8e710f1851907aa09580ffd47f0f2115f27cf1e0bcdc08cd5465"
+      "bytes": 21967,
+      "sha256": "bddfbbc6954ac20be80c6094ed3578e5a75d1956aca4c02e3773c20de39dc5c1"
     },
     {
       "file": "ja/pressure-converter/index.html",
-      "bytes": 22762,
-      "sha256": "ed0f7bd05d8cd749b7333b051a95b816a489d1d5ad5af8e7686a7ccaf513ab5d"
+      "bytes": 21824,
+      "sha256": "e3d873a64877703a884b5b95588f7598fad31ec8bccf628d63b3aeda3e012e2d"
     },
     {
       "file": "ja/prime-factorization/index.html",
-      "bytes": 22015,
-      "sha256": "4f1c11ffce3345fc492f7e41b138cd5ac3118c60958100189b6d0f6b1c76e0f0"
+      "bytes": 21077,
+      "sha256": "7a398c3c84e5a8489f923df61a5579e69fbc7bab647a8a0e402311cbb61eb88a"
     },
     {
       "file": "ja/printable-calendar/index.html",
-      "bytes": 27592,
-      "sha256": "5ed9c0d6758c8e02047d95491e96f8037d4e8be5830508787fd4b23b0c0505f6"
+      "bytes": 26654,
+      "sha256": "d6213f654a07f25c4cfb3449b6b90d0bfddef69ee330af67a579f4cd490d241f"
     },
     {
       "file": "ja/privacy/index.html",
       "bytes": 12644,
-      "sha256": "381a7fffd620f793b2bbba8c598c8573f17abcae75b2c00e078e02430ad6d97b"
+      "sha256": "c6bb0f46f86747d90debb21cda26407975d8c8f3069840ce6d2d28619ddfe38a"
     },
     {
       "file": "ja/prompt-variables/index.html",
-      "bytes": 24797,
-      "sha256": "5d16576a6b2a6105f65af7a587c476fc4e541aca52a5e7d698516d748077b30d"
+      "bytes": 23859,
+      "sha256": "fbbdccce7961466cf6cf9825e0f5d2e449fb579cd0807508142a7f60797182bc"
     },
     {
       "file": "ja/proportion/index.html",
-      "bytes": 21855,
-      "sha256": "f158b5838266ff0a6bc3727c343eaec071bfb1a94264a994a1198fc952008a5a"
+      "bytes": 20917,
+      "sha256": "6f09c689d2defd6b0564ec1bca1b5612954cf4b0ea2cef5ed7972433f8ae44a3"
     },
     {
       "file": "ja/px-rem/index.html",
-      "bytes": 22564,
-      "sha256": "6278ea7db541bd9e2ed7306c93e0efc9d107f52595dd4379597720a19229f2e8"
+      "bytes": 21626,
+      "sha256": "e6d05f849fc9cd1d8c34e4c5458ea3e0b396a47ff69784746205ff8140d50305"
     },
     {
       "file": "ja/pythagorean/index.html",
-      "bytes": 22399,
-      "sha256": "4c5847bfb8cb1ccc107fd23aeba9ee25df03cc4ba0ae17422891f4074bf14a34"
+      "bytes": 21461,
+      "sha256": "44b4406c0336521f02506f8dfcbe2c800adc284cdf14e7c0802bcb0a57a0758d"
     },
     {
       "file": "ja/qr-generator/index.html",
-      "bytes": 26229,
-      "sha256": "4abc30e3c19e73fd2fda00c92cc60d71392abf17aa0bf201be606ef999ee2e8a"
+      "bytes": 25291,
+      "sha256": "abdf4ad504c961f83084e0f312ecf96410d7c094a9ac77a5317fd7fb667afb0f"
     },
     {
       "file": "ja/qr-reader/index.html",
-      "bytes": 27646,
-      "sha256": "8ccb09c0d2ab14b3ccf40e47d9d9617a57706b50854568fec5d9c7b56ca601a1"
+      "bytes": 26708,
+      "sha256": "9ef2faabd05ee60a1684e41f61b8a45395cb8fee02acb8b789c31655bb099288"
     },
     {
       "file": "ja/quadratic/index.html",
-      "bytes": 22324,
-      "sha256": "24e454c0060d1a0691e263281f3ae1d9820d8700bacf8dfca3e56dbf377d4d39"
+      "bytes": 21386,
+      "sha256": "fc3fcd1354587cb54f76b7f74d59dc02ea970f7e4bf526e3b200f23895e8753c"
     },
     {
       "file": "ja/query-parser/index.html",
-      "bytes": 22824,
-      "sha256": "ed4b97c8753bf6e9dd5c2bb489aa4775ed69213e9cefc12d19f77d69c3a43c6b"
+      "bytes": 21886,
+      "sha256": "e7ab60d17221f05646a76d605eac00f1091d2d83ea6da86d6cf4d0b542c00972"
     },
     {
       "file": "ja/race-cutoff/index.html",
-      "bytes": 34606,
-      "sha256": "b90a5eca9bf92af6eacb5d713a817902c3c62773a6937217f3b716998774170d"
+      "bytes": 33668,
+      "sha256": "09ba45c756562c38598e3062b5a6c41d8728fb8e33655cbf8f3cbfda52972af6"
     },
     {
       "file": "ja/random-number/index.html",
-      "bytes": 23158,
-      "sha256": "f9cb30b70e7c040ebef650f0df7254e85eb491db2663c7a9442a5737bfc1b06a"
+      "bytes": 22220,
+      "sha256": "794dea93f3ec98f9c63263492a342c5a498195586ae7fde84a3d7d759b988bba"
     },
     {
       "file": "ja/ratio/index.html",
-      "bytes": 22291,
-      "sha256": "9db9e9ffeac02647459a6c934e716c051e0b202cb2a91308422ed3b7b6436949"
+      "bytes": 21353,
+      "sha256": "4d2726a6cd76e9c0c644f1bf84250a7122af179749180b802c37d8de4ed0384e"
     },
     {
       "file": "ja/reading-time/index.html",
-      "bytes": 22802,
-      "sha256": "1abc608eafeff43a4239917c20c82d439c717dc5b31a82818c5abc9526eee1c5"
+      "bytes": 21864,
+      "sha256": "127d12d1b450f7b98e035289b14160b0fa151c9f6739259a6460f06bb11e456a"
     },
     {
       "file": "ja/recipe-scale/index.html",
-      "bytes": 30293,
-      "sha256": "dacafd6e5f2bcb904e7c7d77f807e0704f9443a9192df0426a3b02557ce7310a"
+      "bytes": 29355,
+      "sha256": "20a4603a62f1aadb4b4a1a06d070936723cda1ca9df3c1761d40a826d5e62bc5"
     },
     {
       "file": "ja/rectangle/index.html",
-      "bytes": 22249,
-      "sha256": "e7f809da377aaeef6b354046ba6f61dcc96961be8f769f4255188008950f3c2e"
+      "bytes": 21311,
+      "sha256": "c5126be59b47a7d5fcfca2478721f768fb425c0e1fbe6938c010b9c3cb77374e"
     },
     {
       "file": "ja/regex-tester/index.html",
-      "bytes": 27816,
-      "sha256": "e50a89ee21356bd900121887d107f45533894632da7d327a77a5d45d4423f76e"
+      "bytes": 26878,
+      "sha256": "226ede09481ca1cbffc18ead626a2dbd6701eb4564016b5f7a47e72aea17abe8"
     },
     {
       "file": "ja/regression/index.html",
-      "bytes": 27833,
-      "sha256": "833a068aa4d1e345ef99450d6d320fa808504b4faafb77d1347d8bf0acae54fc"
+      "bytes": 26895,
+      "sha256": "dc3b51214fd5a13974217f68ac09a72ed989d300595e8499403c42f693ea41a4"
     },
     {
       "file": "ja/remove-blank-lines/index.html",
-      "bytes": 21899,
-      "sha256": "1b06b9cb9d9b2554d7e1163fbc9a653b28442ba1c7de3736ed5714051377db97"
+      "bytes": 20961,
+      "sha256": "25d4cbdaba8e7fdafb45055c98e255115d6ca8d3a0f0fc8f6dc7915c19cf70ac"
     },
     {
       "file": "ja/remove-invisible/index.html",
-      "bytes": 22291,
-      "sha256": "4354fda7924c2f334008b7df5e6af28228cf09710eaaecb1499e83636c158edc"
+      "bytes": 21353,
+      "sha256": "24f67c05511e32883a9ff8b4523ad8f2ffe9719f5e40b0625d9700edf9f5126d"
     },
     {
       "file": "ja/retirement-pay/index.html",
-      "bytes": 30046,
-      "sha256": "ecfbfb507ffa292b3217de7916da2db584d54e02c887e9165147373328569e54"
+      "bytes": 29108,
+      "sha256": "b87bf5695365034e2c56338cba66365416ad45e1e2ae05ff9163b96f474e292b"
     },
     {
       "file": "ja/reverse-lines/index.html",
-      "bytes": 21732,
-      "sha256": "2db8fce98b4f2792648481349f60eb838f5864d43d324482fb0ee744e31a8801"
+      "bytes": 20794,
+      "sha256": "f2861ca6b2af95cda65c424b9ae63b139b4191d37f951024495d144ec9a459eb"
     },
     {
       "file": "ja/review-schedule/index.html",
-      "bytes": 32814,
-      "sha256": "29e02f8e55c224340a04d4bb5c308f3e9988a100c80a4de56bcc2d5fb6db9d14"
+      "bytes": 31876,
+      "sha256": "c3234ffb29f985131bc02cbcc2d8a6de353fd98a5fa8c661579557b929dcf313"
     },
     {
       "file": "ja/rounding/index.html",
-      "bytes": 22944,
-      "sha256": "22deb614da9aa1ca2d927b9a108a60227669d932d898455c21f9b209195a35f2"
+      "bytes": 22006,
+      "sha256": "163eabe8e1d6bb87cc435e08c8fbbf8ced336a4b02764f64d176c71c8c2a790a"
     },
     {
       "file": "ja/salary-net/index.html",
-      "bytes": 30044,
-      "sha256": "b14b099c1f1de67feb149bd201b6a8688260666de52fd498ebae8eb874534907"
+      "bytes": 29106,
+      "sha256": "855fd304bb942eee0d510755c2d600c71ac9a2f6448d6cde4802084f03ef7ac0"
     },
     {
       "file": "ja/sales-margin/index.html",
-      "bytes": 27697,
-      "sha256": "144df6605c0fe2179b43717d64bb6dccf1ebeb82c17955dd82f0980abc799e31"
+      "bytes": 26759,
+      "sha256": "69581293bf0a176c505138a952fdf6549a44b2ba8b3e283bde91db743ebd4212"
     },
     {
       "file": "ja/savings-goal/index.html",
-      "bytes": 27493,
-      "sha256": "915c16dfaa0cfb95e5bfbdd493f20b71c4d10f5d03ab5afb8c54ac42b2683aac"
+      "bytes": 26555,
+      "sha256": "224d6e7098e626d59abba8b87d8b3eee322b925f149411225378a25ec0dae1b5"
     },
     {
       "file": "ja/savings-interest/index.html",
-      "bytes": 28618,
-      "sha256": "8c536b2ede0dc40a87de4c62602e4d52cfc8a974b191987dfd8570137b3fb117"
+      "bytes": 27680,
+      "sha256": "8ce5e1ffa7bebceb7376f90188627ffca66904c9ba98f55c13350b0cb25f9416"
     },
     {
       "file": "ja/scientific-calculator/index.html",
-      "bytes": 29457,
-      "sha256": "81930807b1f93c67ae1af09acbe8be05edc961127c13134035bd7220dc771f14"
+      "bytes": 28519,
+      "sha256": "106ec3aed37b9883e8b3e3d177ad6d41959124c040662c5900f5356a740c4256"
     },
     {
       "file": "ja/screen-density/index.html",
-      "bytes": 22995,
-      "sha256": "9ac474af0e39bd4e2beca12d3ca81b5cad588b72d81b0ddfea649db498a4de58"
+      "bytes": 22057,
+      "sha256": "3477137ba222b5aa0751fb1552b69f81f0faeeb77ad800aeac303bff6144154d"
     },
     {
       "file": "ja/seating-chart/index.html",
-      "bytes": 29807,
-      "sha256": "f0cbed93635e0f7c06e1f5d6be648c6a2495508a501c90d5cfd17b94d86334e8"
+      "bytes": 28869,
+      "sha256": "3f6c322a3c0e53af70a948c233711f6471613a76075ab5131af13f3c2dd09ef9"
     },
     {
       "file": "ja/shoe-size/index.html",
-      "bytes": 24931,
-      "sha256": "ee33255113c0b77e0aff0f1f81918d2e112d5e5edb601a6234b9c6ae4bcdc696"
+      "bytes": 23993,
+      "sha256": "326ba0a3ab2526e06b6529ada5c176e1238a46d224f3380345c4c03fe510368c"
     },
     {
       "file": "ja/shuffle-list/index.html",
-      "bytes": 22127,
-      "sha256": "a79b54d61fb26927ba1621995ed9a7147d8c2b2918035fba43cc43f9af50f874"
+      "bytes": 21189,
+      "sha256": "21d521892e6dd80ef01e70ec364488673996d30b795ace16d407a1bcb48088c9"
     },
     {
       "file": "ja/signature-image/index.html",
-      "bytes": 29386,
-      "sha256": "cdafc753655bc82265619c5dbf0160502d4d9f63291ab845f83c1f87c6b2e9f5"
+      "bytes": 28448,
+      "sha256": "1a677df4ef3898094aa35151b685ea84baa24900f9ed0074d9e7c1f9fabb9628"
     },
     {
       "file": "ja/slug-generator/index.html",
-      "bytes": 22330,
-      "sha256": "70e911b251d0234bcbd023fba641d3c70227988b97b14e763e179ad7a07f54d5"
+      "bytes": 21392,
+      "sha256": "3b1963f1e003688a2a70c5220ac528d25af0360f05ac84d2e63dc44fd4b46cc4"
     },
     {
       "file": "ja/sort-lines/index.html",
-      "bytes": 22408,
-      "sha256": "c8843ced487f8f7c04b0c6f7c7d4f8ccf9a562ed4b35bc9e137fde5083cefe96"
+      "bytes": 21470,
+      "sha256": "81fec996e38e5c6b5748570c1302c2550b210779770da8a593f40ca5836bb171"
     },
     {
       "file": "ja/speed-converter/index.html",
-      "bytes": 22631,
-      "sha256": "1441462d60ee8dc03cc551572f10e0bc9c65c289e6e0ef487f3804df98b68f40"
+      "bytes": 21693,
+      "sha256": "cb95ad8f4a779034ccb8ceeca9a602b9bbda62830179b6a1d93af9fbf8aa927c"
     },
     {
       "file": "ja/sphere/index.html",
-      "bytes": 21537,
-      "sha256": "9264d6012fb73adc9f534d80ea38e13b6414a396e87c451f5bca382716f14ee6"
+      "bytes": 20599,
+      "sha256": "65ac01ebcd1d5ffcacc3fc5ec272e0a722b7ab5e2539012735be749739487bc1"
     },
     {
       "file": "ja/split-join/index.html",
-      "bytes": 23070,
-      "sha256": "75cb7bd46af4513fd4d15e9fd22d1719e605f1865b87ba6a89dab8eef7113ac9"
+      "bytes": 22132,
+      "sha256": "5e66e1420d86c94ece061e032c161bafe8c3ecb00105f39154b63ca4b5c6fc42"
     },
     {
       "file": "ja/sql-formatter/index.html",
-      "bytes": 28109,
-      "sha256": "1d2947591e772ae03ac5d74eb338d3042965360e86e1d0bb8311699f9d5b2855"
+      "bytes": 27171,
+      "sha256": "43e288ef44a394044775b57df135b95f91e256cd13659d1e0a424056b0d611d6"
     },
     {
       "file": "ja/standard-deviation/index.html",
-      "bytes": 22208,
-      "sha256": "41504d320043e88b0fc9d527b517be607c4a3f60e455160b62f77d44f0c47275"
+      "bytes": 21270,
+      "sha256": "b5816bc8e423c67da1a57bada1a242b6f436b60ae5d53fbc3fd10e6473891af2"
     },
     {
       "file": "ja/stopwatch/index.html",
       "bytes": 21307,
-      "sha256": "2316225d408748401fa5ea0be9f5a662e9f141e1ea5b2bcfe4739524984f6795"
+      "sha256": "89d81eab09b631337276cd6c866725fe74e4646e9e453b10b352379768367a75"
     },
     {
       "file": "ja/study-quantity/index.html",
-      "bytes": 34768,
-      "sha256": "73d68233f4e326c8a76712b754d54958aa47f13aa774e25aa6e1a16de64c6895"
+      "bytes": 33830,
+      "sha256": "fcf78a3e51dbd97f9b85df229ab8d83e68b6c866b27e657590b67b9f55f84304"
     },
     {
       "file": "ja/subnet-calculator/index.html",
-      "bytes": 25530,
-      "sha256": "3ab0acd81f6aee6d9d281779fb02e1c2eda6bfd97b59115d2bdc3b621030bbbf"
+      "bytes": 24592,
+      "sha256": "249496a4eb9026c9a3f048a946d9ca2873b60f666f4c2736a559c67963f6e9c3"
     },
     {
       "file": "ja/subscription-cost/index.html",
-      "bytes": 31081,
-      "sha256": "8aad735d752d490b23cab0a7efd996ca05dfbdf02c2f150b72653d97a4a419be"
+      "bytes": 30143,
+      "sha256": "4a5944d7293b664540fa8053fed783bd8084981ad0d32c72cd186edefd65c8ee"
     },
     {
       "file": "ja/subtitle-convert/index.html",
       "bytes": 26142,
-      "sha256": "33bbbebd93a214dc33fcc7f4c8698d24c6a5a351184df777fe8d767f2db0cf8d"
+      "sha256": "4c85576656b263a1b1e4207b340324ca810e673dbdbc4e598cf65e4e15252d60"
     },
     {
       "file": "ja/subtitle-sync/index.html",
-      "bytes": 32985,
-      "sha256": "60e3cbdb8a4a81dcfca4b085a120ac5e6da3b352b644360036d3565f4bd181ad"
+      "bytes": 32047,
+      "sha256": "2f319910be915ff14fcba575205e7f1d337f89f26773188b6481e9fbaea67cfd"
     },
     {
       "file": "ja/target-grade/index.html",
-      "bytes": 30020,
-      "sha256": "dc4b7dc8bfd4d9f285604d13d31077d1afd13fbfcdaa30eac09d9035fbdb34d9"
+      "bytes": 29082,
+      "sha256": "02e72b0447625b4c4147e9db084d7853a1453a9afcb04a72eb1478d68f0e84b9"
     },
     {
       "file": "ja/team-generator/index.html",
-      "bytes": 22748,
-      "sha256": "700120ba2eeb6a0754929088a8c226f6350ef19cbbbc7fd71440fd180c13fca9"
+      "bytes": 21810,
+      "sha256": "4fa329c71d08aad9d23b98962dedac8f8987fce84747b61f50e00709ea7ed678"
     },
     {
       "file": "ja/temperature-converter/index.html",
-      "bytes": 22174,
-      "sha256": "2bb10d661063f404d0dd8b0428d43d6bd6824051ff00e9b55f746b11282083f4"
+      "bytes": 21236,
+      "sha256": "4e5534b384a5debe8fdf3d9b493a21f61c81b566b56122bec121aa37904fbbec"
     },
     {
       "file": "ja/terms/index.html",
       "bytes": 8354,
-      "sha256": "432051f6f55e74336789871c6b6a89d550fa99bb614f05e25da65473016b3b95"
+      "sha256": "ea8a2f950ef65e083226ecb41636f714efbb5cffbe1a4ba3cf39d9e10cfaa3cb"
     },
     {
       "file": "ja/text-compare/index.html",
-      "bytes": 23560,
-      "sha256": "60d837b7e3f6c7254aac2f6501fed301b11fa2a1ff9130ee64b9b10223776ba2"
+      "bytes": 22622,
+      "sha256": "f0ba7fbc175d3136c48bbb1828ea1cf76d2e0f4f36d21cb532d1d0e417c83cfb"
     },
     {
       "file": "ja/time-difference/index.html",
-      "bytes": 22924,
-      "sha256": "da45d1516b7845d7de2a619942dbe33cb0f1f644a760d6b65ba9c8595a0bbcd9"
+      "bytes": 21986,
+      "sha256": "ef58b0bed5f5e61630946516acb88bcb89149cdc61fc7e8d720bcd09667bc500"
     },
     {
       "file": "ja/time-sum/index.html",
-      "bytes": 22199,
-      "sha256": "0c7c2a61c8355aad815a9493e79126517ab4e5e75c385b0173cc052d8eb90ce8"
+      "bytes": 21261,
+      "sha256": "f4a488f41c45bb413b439e0d22bd5f6a3ec7db921d36acc04ed4f371f97fcb74"
     },
     {
       "file": "ja/trapezoid/index.html",
-      "bytes": 22612,
-      "sha256": "f1acf42026b6921e2fecc8ffec9e429b26b9ee36e913d9f805cc2ce4b759d0ba"
+      "bytes": 21674,
+      "sha256": "6ad64aeb8c2318e85df6463bd82abfcafc3791480ce6ca519610e1db96362f8e"
     },
     {
       "file": "ja/triangle/index.html",
-      "bytes": 22738,
-      "sha256": "3fc15a52518f3dff2d3c7b91293b3e718a251aa5bcb29f39ea63fbee3097b538"
+      "bytes": 21800,
+      "sha256": "12ea77145791c63bb9885e6001f5a22dd7a6cb5c1d972f2f77b4ba5458005028"
     },
     {
       "file": "ja/trim-lines/index.html",
-      "bytes": 22102,
-      "sha256": "7aa809cbc6709a73ee6d37712e9ba0a04a7224ee05a87562495352f2c84d1efa"
+      "bytes": 21164,
+      "sha256": "4e907bfb04bcd9378c21876b56cd11063f92fb78528f67cc1affbe1d71c055aa"
     },
     {
       "file": "ja/trip-fuel-cost/index.html",
-      "bytes": 32231,
-      "sha256": "147418721c5acf41852a4985e4bfba3acabadf267b458763a6b0b3a418dc5f33"
+      "bytes": 31293,
+      "sha256": "c9cf99aa21c45fbbbc35793b510baf69d2ca0b56568ff8977a1a1b81b704db51"
     },
     {
       "file": "ja/truncate-text/index.html",
-      "bytes": 23127,
-      "sha256": "fc292a78ce30eca3c39cec80d78d8eb3e1e8af2e6c6afa2f497cb8284ac4f41a"
+      "bytes": 22189,
+      "sha256": "8cf20bfe907459b29d40549da45c7ab4889b827475b737a88fc4a9911f66d0d4"
     },
     {
       "file": "ja/typing-test/index.html",
-      "bytes": 30762,
-      "sha256": "afde40bc6b5b6992f10b3f2ca0f45142810d1fd5cd5018a4792e487230b3d164"
+      "bytes": 29824,
+      "sha256": "0cf509ff539e634b873848d80fbeaea17834e4d3f7720bb52503b97765b334e8"
     },
     {
       "file": "ja/unicode-escape/index.html",
-      "bytes": 22956,
-      "sha256": "bf93abe445ea06a57b16578027f54b73e481abdaa1e7617fbb5c9cf61b2cac7e"
+      "bytes": 22018,
+      "sha256": "123bfadc236b50155e96c34d18334294f3b55acdab76be810cd2186f8481200b"
     },
     {
       "file": "ja/unicode-normalize/index.html",
-      "bytes": 22433,
-      "sha256": "275564520e4cf74d67079e3c991ea54cafebf33c91b0326746730772aab5fced"
+      "bytes": 21495,
+      "sha256": "1182123da3262efdc699fac4e8fc96429a9c6830ed333cae133164b9ef768ceb"
     },
     {
       "file": "ja/unit-price/index.html",
-      "bytes": 30932,
-      "sha256": "370dc7232b28cac53ce6115517987ae4d18cb2713be81f25b0580bff95609608"
+      "bytes": 29994,
+      "sha256": "a598fffce9579a7be78410ea8ce380b111f8f6cb01d5cbe2f75a4d78c2840669"
     },
     {
       "file": "ja/unix-timestamp/index.html",
-      "bytes": 22915,
-      "sha256": "3338ddb9ca0e46f14da3ca442f07237ef3590dde416b1695a9377ee820e62168"
+      "bytes": 21977,
+      "sha256": "7a0d90d0030dfb8c00db37a86ac5b394709586aca54f3553e848498d8183165f"
     },
     {
       "file": "ja/url-codec/index.html",
-      "bytes": 23358,
-      "sha256": "a5260857826a0db0b6d9104c8ab9b6c4fff45cb3228e83794400083a0532f338"
+      "bytes": 22420,
+      "sha256": "d73b5431a27144ecd8b6121af7f86913b0f1e5c566c8c5c79a69039d473d3e36"
     },
     {
       "file": "ja/url-parser/index.html",
-      "bytes": 22215,
-      "sha256": "a392fdce833ae6060d713ed91a14773574ef8bd168e4e4589926d089d70c490a"
+      "bytes": 21277,
+      "sha256": "532d14b053bbd8f1aa60b8625a1d02efe68b8b461cc8f22adabca8afd4e2d8cd"
     },
     {
       "file": "ja/utm-builder/index.html",
-      "bytes": 28258,
-      "sha256": "0966a0121aed06e0061ddceba2d640a247a0e18c5933e2b74549397860cdbedf"
+      "bytes": 27320,
+      "sha256": "9ed57307a98d591593761fcc132179e16f9a3e8865af8ac8ee6b71db93f0da14"
     },
     {
       "file": "ja/uuid/index.html",
-      "bytes": 21895,
-      "sha256": "fa336eb65adcb4af32c142aa24c010bf9d965ce1fec45d1c36fed3e0a8be6180"
+      "bytes": 20957,
+      "sha256": "707746ccb84424e4ca1bf71b0dece0ec379ca1f22f8e4d1ff23d28e543479a92"
     },
     {
       "file": "ja/vat/index.html",
-      "bytes": 25700,
-      "sha256": "57e2c5cf78eb5e9f49334289a86596b4c79897b69a31d82820a67f5bf7b0a51f"
+      "bytes": 24762,
+      "sha256": "179a2371c5f4aff2d03dda0c7ece9404dab2e8ba732085a711821f136720334a"
     },
     {
       "file": "ja/video-audio-extract/index.html",
-      "bytes": 29090,
-      "sha256": "41f520b1cbd435e8b349a753d1695c2ccbe001dd0209873a1e68c7c33da54d0a"
+      "bytes": 28152,
+      "sha256": "56c419ca3627387434479d0982658e781ee62b9512b8c51dcb1b9a2fe5a4eb76"
     },
     {
       "file": "ja/video-compress/index.html",
-      "bytes": 30715,
-      "sha256": "e6ea3322c745e86a465b516349a4a653ac73572b3a0f8266ac8308347921bbd3"
+      "bytes": 29777,
+      "sha256": "b2848e87d92d8f99f82444d5e15691405bdac5ff4c58e1d53e982f68e618a842"
     },
     {
       "file": "ja/video-mute/index.html",
-      "bytes": 29219,
-      "sha256": "5c4207f830e8059ba637b64000d30965f53e596699a7b87f99240a731af05769"
+      "bytes": 28281,
+      "sha256": "a1ebd270aac3065a1201d774e98e6958ba00f2389cbef6cfc50c6addf60ff9c7"
     },
     {
       "file": "ja/video-reframe/index.html",
-      "bytes": 30615,
-      "sha256": "05199bb8720f20b6042687cba2d926df291aad9a1150a7451c4f19acc54db464"
+      "bytes": 29677,
+      "sha256": "71d7dec41aa94107fc0da60ab6ea4be817516e24c77bd1cffad12cc8d57da516"
     },
     {
       "file": "ja/video-trim/index.html",
-      "bytes": 29947,
-      "sha256": "58780d2f2df0b9138da83dbe66c0d75e111fcdc5861b5deacf67d7bd8eeee458"
+      "bytes": 29009,
+      "sha256": "6f5db53149389c89312629df9a1ab173e631261519a2446056a2e29f48b433e0"
     },
     {
       "file": "ja/volume-converter/index.html",
-      "bytes": 22938,
-      "sha256": "ddb08e747cf2bd3ff5d58b1561c6a26209d7cb4a8e6b32ab35afc2f8a6a68b0e"
+      "bytes": 22000,
+      "sha256": "2ef328c42463d584dfa7cdbe2841a320f7abb4b944e5e024d060293ccca23f72"
     },
     {
       "file": "ja/weekday-counter/index.html",
-      "bytes": 22627,
-      "sha256": "2835b31dd10e1b3b30fa09393ebb8284652eb5aad2b6cc1a3efff8ad09f70da8"
+      "bytes": 21689,
+      "sha256": "2e76a8f94a7c06441bacd83cdc46bab966519549ec9717628317cdc3e5062675"
     },
     {
       "file": "ja/weekly-allowance/index.html",
-      "bytes": 28244,
-      "sha256": "5d34afcc168c011493afb95298feb098a55045998035ed681ccec3cac174b417"
+      "bytes": 27306,
+      "sha256": "adf7807b61952780f805ba1cbb138c898cafec848055ed6f2cc0dfaea682e4b9"
     },
     {
       "file": "ja/weekly-timetable/index.html",
-      "bytes": 48223,
-      "sha256": "9661505b56f9c821f6fc686744ec1200014a52b3f4428815efdca3a88fbc42d7"
+      "bytes": 47285,
+      "sha256": "4b23b719c0904c58ce2c589bd6a7b592089e30218432f7e8a319423d837e7491"
     },
     {
       "file": "ja/weighted-average/index.html",
-      "bytes": 22014,
-      "sha256": "4df6d5a8ccfc3892465f6dc142b205c42c957decfae5371cc5f809d36d6b161f"
+      "bytes": 21076,
+      "sha256": "6e5f2b0d04931fb740d143e211503b01258d49bfd165752cf156a92a6223bcdc"
     },
     {
       "file": "ja/word-frequency/index.html",
-      "bytes": 22155,
-      "sha256": "934ee9175d67d821a201ff58b54a44eb5d3d8ef1f0cef56596064fd919462e25"
+      "bytes": 21217,
+      "sha256": "97abe84331cd198ed38efd2bde44f5a5ce953462472b250bd9008747af9df50d"
     },
     {
       "file": "ja/workdays/index.html",
-      "bytes": 23547,
-      "sha256": "14bc1b6b893d5f7c0b6b2726e05aaf35576205c183f1a02935b898f9727ca864"
+      "bytes": 22609,
+      "sha256": "bb8c1deb4c44239fdce21ce25022faf7c614534a78489cb90b91e5fb123a94d7"
     },
     {
       "file": "ja/wrap-text/index.html",
-      "bytes": 22699,
-      "sha256": "a966aca2c5cd69a2f6631abe6767eed69af0ac97ad6cac4dd788d9eb221b98c1"
+      "bytes": 21761,
+      "sha256": "5ace23cdb66d8908ca704060e2583d5688fcdb69cb5fa8ef358c3e3d7b1af2d4"
     },
     {
       "file": "ja/yaml-json/index.html",
-      "bytes": 26894,
-      "sha256": "20e52288ce6eea54888cadfecc2062deb6c61a27db7e051e35737da667fa663f"
+      "bytes": 25956,
+      "sha256": "76b6a7a46522367005ae56367510598f490043eb28388c2174fd7a5f655a026d"
     },
     {
       "file": "ja/zip-create/index.html",
-      "bytes": 25124,
-      "sha256": "5e261d594916c473ddf7120fa46f5e055d349fcb5291990d9f1e66021f823841"
+      "bytes": 24186,
+      "sha256": "cbef1db33858aea4e05641eb76fb9b892c4b2e3cfc22e57d09f362363b6a2f86"
     },
     {
       "file": "json-diff/index.html",
@@ -14765,1137 +14780,1137 @@
     {
       "file": "ko/about/index.html",
       "bytes": 9655,
-      "sha256": "8cafe795aeb9c44d9c9d9f8f22be5067bfb84a779295c520e700c6ab320e54fc"
+      "sha256": "21fd73fbda284a322e7e13eae5fd9b442ef3d6df4499e4cd2d9bef14e820f8a0"
     },
     {
       "file": "ko/actual-fuel-economy/index.html",
-      "bytes": 34238,
-      "sha256": "743ed14ba96e16718bbd26553073b71d561df4ccdd093e0a93b6cc8a73ae7eb1"
+      "bytes": 31741,
+      "sha256": "ea4b5737e7449654c43fa4172b700724f5101e32706722ee75661c3807acee7d"
     },
     {
       "file": "ko/age/index.html",
-      "bytes": 33394,
-      "sha256": "290b03f1b801c3c96c47494a4b8244e38901ca8564a31911938000e462d526fb"
+      "bytes": 30897,
+      "sha256": "3e0a4b6b16e3d77b8d29282b1d3081474ca801e47e36ebbd2afbe73523500ba3"
     },
     {
       "file": "ko/angle-converter/index.html",
-      "bytes": 26671,
-      "sha256": "074513b50e938dd7de299436fe6727dca73411025027f787a424210d41bf58e7"
+      "bytes": 24174,
+      "sha256": "ec037236bc7597b05c7df94fc965cc135647d8ef06849c22813257305c744059"
     },
     {
       "file": "ko/anki-cloze-check/index.html",
-      "bytes": 28565,
-      "sha256": "f7b2ac8009aedd341d63a595eaf81c37d5abb39e257b42e4c1ce75402f7054c4"
+      "bytes": 26068,
+      "sha256": "9f3053c4c6bff0d3d1bb89264c1a0c18d7f6d35bf896df14f2cae2cb97d40d4d"
     },
     {
       "file": "ko/appliance-energy/index.html",
-      "bytes": 35112,
-      "sha256": "31b64069a8befcf2ebaf8eff884a187bc95ac35769fa851a83f9677d1e07bf61"
+      "bytes": 32615,
+      "sha256": "aa1c74fc4aae2d3571fa66dde43e6d3941c3aebf0af630e7541ae6a891a13b69"
     },
     {
       "file": "ko/archive-extract/index.html",
-      "bytes": 29468,
-      "sha256": "54f40dcbcac306677291a53dfa346676bcc49bdfe8dd9c01c1210722ac8d202e"
+      "bytes": 26971,
+      "sha256": "cb04511817e89dc6e8c3bda4ec1b029c93ce8687ed96087cbacb805044b79e09"
     },
     {
       "file": "ko/area-converter/index.html",
-      "bytes": 26673,
-      "sha256": "71ccf393c7fe1d9f93c975c14f9e3c2cfc0d28bc7415d56577963c7a9cce64e2"
+      "bytes": 24176,
+      "sha256": "cb761850279e02b743f49dfcb1f7c53ec8a18518649ae71da65325f78177cf3b"
     },
     {
       "file": "ko/arithmetic-sequence/index.html",
-      "bytes": 26676,
-      "sha256": "d27821aee527e83d6f418a7c216226c5d59b96fde0a52c839f2181011a6a59ff"
+      "bytes": 24179,
+      "sha256": "a5f1dbb54ab988cbd664991437e4ee2c893dba035b3a178131532b6d02c92eac"
     },
     {
       "file": "ko/aspect-ratio/index.html",
-      "bytes": 27000,
-      "sha256": "ee04448a6e8e2217e19b4eb31f83cdb1f450b633d12e1e6f9a414fcab8bc53a5"
+      "bytes": 24503,
+      "sha256": "88731d516d8fee30f01630d26fe73d15b69439adc8de191baf25f08c1872a3e8"
     },
     {
       "file": "ko/ass-font-audit/index.html",
-      "bytes": 36788,
-      "sha256": "19487dcefd2aaa2ac2e272951e5a348162676599f92396b5c66968f8d6bae003"
+      "bytes": 34291,
+      "sha256": "6309e059e2dee0b29d58ddcc3d206136aa65cc3cf0bd8acafa8bf3c7d4eb3c06"
     },
     {
       "file": "ko/audio-convert/index.html",
-      "bytes": 34491,
-      "sha256": "69d16a2c58ed6a499c2115df4c3028b12d211c86f11694e7a2b28f7e4477d887"
+      "bytes": 31994,
+      "sha256": "c949476265b9eb4e15632f44d1a6df0fffe06235b71a6c539f9ec4e2c0a19d02"
     },
     {
       "file": "ko/audio-trim/index.html",
-      "bytes": 33323,
-      "sha256": "4be4b0cd2dc03fe8189c9a0e6fb6bbeb01f35634d6b68fbb6e82c28a75e88221"
+      "bytes": 30826,
+      "sha256": "0984633a9d085831a8edb8511376fa987dfae0cd2a806019599cc6b45f381621"
     },
     {
       "file": "ko/average/index.html",
-      "bytes": 25711,
-      "sha256": "3f90f1353d5193968a2802653ed802c62eb5f215e35acd7f2a4ef40b69afa8df"
+      "bytes": 23214,
+      "sha256": "7dd3ce60aae0a4e839b468329c6e6053bd17e79356c61092125bcd9a71cbcbcf"
     },
     {
       "file": "ko/background-remove/index.html",
-      "bytes": 33309,
-      "sha256": "736317d733d1e6a990347c57bd82d4ce3313b9fb3cc5f6b3742ea7ca51d69424"
+      "bytes": 30812,
+      "sha256": "2b6fa763b979463c70f21f156fa515015981b214c23636da8a91ce760f4a7e3e"
     },
     {
       "file": "ko/baking-pan/index.html",
-      "bytes": 30706,
-      "sha256": "c893e2bf2cbef7dcb79538686af61c1b43bc3b448b867ff28c608974b6db5237"
+      "bytes": 28209,
+      "sha256": "b4c34cd07d27ee40bdb95efa7c9179d0d9037cc2f8a33e7340ee7f7e63636014"
     },
     {
       "file": "ko/barcode-generator/index.html",
-      "bytes": 32319,
-      "sha256": "46de9e4a3ef2cceb5a5ea47bbbc57515aa780da633eda15156ee84a321181803"
+      "bytes": 29822,
+      "sha256": "91350aab9041d67e23e03aee81e8dd8900cbd901ea9366c85c8dc8a6ea5f508d"
     },
     {
       "file": "ko/base64/index.html",
-      "bytes": 26625,
-      "sha256": "b0f44ad4ba1ae8219fd372ff77c46c5c9afa3f23fffd88fe899f59ba28694f71"
+      "bytes": 24128,
+      "sha256": "41e98cefb64044e111009f42a4b75061d3ec09950026489c2176d46f6c1f45cb"
     },
     {
       "file": "ko/batch-rename/index.html",
-      "bytes": 30517,
-      "sha256": "4aa86d436a8d50be671fc520a47b5e5f57b495af6c3ab37a75aceb2c2e6161d5"
+      "bytes": 28020,
+      "sha256": "c4202bb8aa876d381c52dcc12c56796d079d311121ad3f8972f9b17806b14775"
     },
     {
       "file": "ko/binomial-probability/index.html",
-      "bytes": 32957,
-      "sha256": "e53faa468bad0906c31a000a2c72d629f5e3d177da11b04018f8226875358b00"
+      "bytes": 30460,
+      "sha256": "e72b0d85a97ad16231aad0ae3976fb7fb4bdfcc15702e933b9ffa4c9f6ab8522"
     },
     {
       "file": "ko/break-even/index.html",
-      "bytes": 29454,
-      "sha256": "e3f5e6e7346dca7a5e69c1d83d2bc2357a8ef6d5028f35c541741f594f672658"
+      "bytes": 26957,
+      "sha256": "556318ff2df63c26eaf63808a21105706488dbe064b9b5ea920ed826140dcf28"
     },
     {
       "file": "ko/calendar-event/index.html",
-      "bytes": 35342,
-      "sha256": "aec17104cf023982f54d3f856e8e0a06288eb0db7f2d62c6b4aafb34342aba5a"
+      "bytes": 32845,
+      "sha256": "1c4fed99f6d285ad8d3ef0b3f439f48496a817f385d8db7daede0d5729e70a39"
     },
     {
       "file": "ko/category/developer/index.html",
       "bytes": 36193,
-      "sha256": "63d5500a75f2e09bf85b6d3d444675d29679a4822161e25400c609f4ac6db4df"
+      "sha256": "7abbe26ab8371fc3b42474a5d8826f9fa04b403b74f77a5aad4d1c3921ccbb8f"
     },
     {
       "file": "ko/category/file/index.html",
       "bytes": 13307,
-      "sha256": "073ef6f9904800120b0f20509266597dcc4ac7cffb73b260d011986638c6b4a7"
+      "sha256": "b169df2313b0e13c520c5b8f04e17d908cb494ae0047efcc593f9087df040dfb"
     },
     {
       "file": "ko/category/image/index.html",
       "bytes": 24533,
-      "sha256": "4d5a0ac5cf3f6272079fe2911c08dc9437095e8c02b3a44b69b9d955a42ee27a"
+      "sha256": "1282ebbb4165e0fc6e94a200ce0aac3c7934216fa2a3a8ef860684c40644d0b1"
     },
     {
       "file": "ko/category/life/index.html",
       "bytes": 30822,
-      "sha256": "5ea471194619e0b4ca9c019912d54af61938cdb4e11ee57d3da47a77c6833306"
+      "sha256": "7159587ea8c9d5009138eb0a9b9ae19ed19d866d6303c233a2fe12a9d4f6567c"
     },
     {
       "file": "ko/category/math/index.html",
       "bytes": 32160,
-      "sha256": "997b6cec276d2e3efb8bc6cde9a35b910e63b682eedd3b7ee5ea1b5011b0f762"
+      "sha256": "33832a56194808754036d2ef76a4d5454aa8224acebddb0d524f8fd3460c8d04"
     },
     {
       "file": "ko/category/media/index.html",
       "bytes": 19967,
-      "sha256": "1e1f0e03479a5db5667a1555411404f5136b90c4d68644f50cc3a75f28feb637"
+      "sha256": "3d47557bbecb3aef7c09d8786691472fce63dad3a0ef03b8f7f707de9d88957f"
     },
     {
       "file": "ko/category/pdf/index.html",
       "bytes": 21880,
-      "sha256": "a7e61ba7385a405cb439c8dff6c65bf7e180d3ca057afd52a3032451fcbe03d6"
+      "sha256": "265a20dc95014edf0149e0d16fc27b6c8e8d3cedb203d71c657d86eea9eb3f5e"
     },
     {
       "file": "ko/category/random/index.html",
       "bytes": 14724,
-      "sha256": "414b0a7900c7e183716f3995d3827debea2ca0efb238424eb6fba8478926aa2d"
+      "sha256": "058493fbe2bbd4fe8ffe474b0e571b21ba47400666476f421385297e143ff50e"
     },
     {
       "file": "ko/category/study/index.html",
       "bytes": 16638,
-      "sha256": "3ffd761ba08961e229c3d0178d1054f6564575c82911ee20c93a063b60f9866d"
+      "sha256": "ce30135b71e2d0f00a39fe6740985b130a0335524eefaa89776503eb42e6e158"
     },
     {
       "file": "ko/category/text/index.html",
       "bytes": 20067,
-      "sha256": "b698932486e5d0ec6469096525c53bbd186aec0b04e5afd3ee895a703a1709c9"
+      "sha256": "398ccb6902cdfe2ad7cfe83620859cc653f02c8552013dfec83df3688f7f4594"
     },
     {
       "file": "ko/category/time/index.html",
       "bytes": 20613,
-      "sha256": "971924079849e683d2f7be6e53af7f4b08f53cc770ba779fbd919e4dc4306ab0"
+      "sha256": "50f6704fa9fc6ce4f5f01b46a869748e17f59f554b43b506b1c79f1113f35251"
     },
     {
       "file": "ko/category/unit/index.html",
       "bytes": 20461,
-      "sha256": "bacdaad74d4f978db98d2389d7f4dc21777919844196992f0b7f5c54599503dc"
+      "sha256": "06ffec0766d128808323aaf05bf4e628216c6891aedbefa08481a43b227d8e02"
     },
     {
       "file": "ko/character-count/index.html",
-      "bytes": 26748,
-      "sha256": "28a3e9b1c3842f3ea5131a54a49321454dd52b041e9f9b77a2f37684c19cced6"
+      "bytes": 24251,
+      "sha256": "efe29fc0664b0d6c2d748bca9d341d844d390a13ac4f31f65d45c7716bbadd51"
     },
     {
       "file": "ko/circle/index.html",
-      "bytes": 25703,
-      "sha256": "25f5e845eb21bd070f10ff31ce43b427f25b38d74e34f6218329cfb64c1f3741"
+      "bytes": 23206,
+      "sha256": "7f371ee859cf259abc27dbfcab5fe439e618facf1927a905ee89c75aafbc51e0"
     },
     {
       "file": "ko/coin-flip/index.html",
-      "bytes": 25972,
-      "sha256": "72c24e481413ffa0c720c78b30f0bacd1e3246a7599a2d7901239123025b3980"
+      "bytes": 23475,
+      "sha256": "026401ebf2a296ef53a9a32c841135382a5accb3399e2c93fba7788a6851e19d"
     },
     {
       "file": "ko/color-converter/index.html",
-      "bytes": 25530,
-      "sha256": "92d73ff1a5497047c915fc006cf33a752d6a1736646b934f1c93af347a81a530"
+      "bytes": 23033,
+      "sha256": "2f8caaeb9795b484674ac71d77e74a6c584c2071a1588e8dfb7cf84c0348d3cc"
     },
     {
       "file": "ko/completion-plan/index.html",
-      "bytes": 32927,
-      "sha256": "1d9d91db251ad0045bc6188bca6dece2def8ae6705aa27843f5ae824c65a5121"
+      "bytes": 30430,
+      "sha256": "70f113c00a2eaecf5f79322d931a72190d810745ce0f43f8eae84fc740de591b"
     },
     {
       "file": "ko/compound-interest/index.html",
-      "bytes": 29943,
-      "sha256": "e8d54c2074521562a127467d739ed3ff5a0419c20cef3e77207dc75928c31f13"
+      "bytes": 27446,
+      "sha256": "8a30bddbe7f026077f314f61c0f8999cfee3e0a3d34c1ba0cf1052dfb71a2b0d"
     },
     {
       "file": "ko/cone/index.html",
-      "bytes": 26046,
-      "sha256": "b760910482cee78d0a63b68bb9fa2128cc20db78449013ee61330e601dd6dc0f"
+      "bytes": 23549,
+      "sha256": "fca00f2ec793974df8a6819c4c15451456b55827165b083a3a470b2c843645cd"
     },
     {
       "file": "ko/contact/index.html",
       "bytes": 8033,
-      "sha256": "f2d7c804b59fcce940f98a497e67934fe73ec936bc707f5c77986cf06b8cdd92"
+      "sha256": "17f5ac5002d5a2c57ec55aaf545d65f4ce1a2117affd627f2b7a60a6134115c5"
     },
     {
       "file": "ko/contrast-checker/index.html",
-      "bytes": 26901,
-      "sha256": "aa3b1f25fdeba4ce500988c0cb39956e5b18ea9943e91144f18e48f21fb166fb"
+      "bytes": 24404,
+      "sha256": "89d7ee7ac5a75c39e115edad6c027f503ad15415b5cf26f61b90ee27ed50d266"
     },
     {
       "file": "ko/countdown-timer/index.html",
       "bytes": 23278,
-      "sha256": "c1303bf62f84df5bd66c289c1169afeb742894c3c6a68a93128e7fed955be731"
+      "sha256": "c4e2547027c150659c78b2eacd2c3a732ae7dbec0e7d03135c1637eb00a39d46"
     },
     {
       "file": "ko/coupon-discount/index.html",
-      "bytes": 47120,
-      "sha256": "e2a2253098c8e5a26d8e49828fbcbd51f070b228e6feff6a069f5dba974a12c2"
+      "bytes": 44623,
+      "sha256": "b41b0f838402064db1cbb622f11ca19f667bd0a87e953bbb44e44315c6f7abaa"
     },
     {
       "file": "ko/cron-helper/index.html",
-      "bytes": 35572,
-      "sha256": "295a3825fbf16ae88358ae5a4f7d4f14707600f6dc2e26b20bf58116b408fffe"
+      "bytes": 33075,
+      "sha256": "4c0988f8ed50a1376a7b3323c676ae899062c8ca48f90ff05acc15927972fd1b"
     },
     {
       "file": "ko/css-clamp/index.html",
-      "bytes": 27570,
-      "sha256": "40e3365899baec7ce2cae52b49a6e182b52875e1dd04681d6d1ffdb514bb2a65"
+      "bytes": 25073,
+      "sha256": "e1067469c1bee46e48df6b82ee92ed388e58b98e5f476e93fb9c055f218ca570"
     },
     {
       "file": "ko/css-gradient/index.html",
-      "bytes": 26663,
-      "sha256": "23502ba1e5cebda69c720e2068520093497d2ab42304bbc2b7896bf059a93d1f"
+      "bytes": 24166,
+      "sha256": "b6e15e4faa036d6a563edffa91cbfa89dbdd7b1cf8fb833ebdc21caf814a0829"
     },
     {
       "file": "ko/css-shadow/index.html",
-      "bytes": 27745,
-      "sha256": "35aeedbd260e0ebdb10105af6e7517256e4fe84e7bb7bc696ab7a9cbba9988c9"
+      "bytes": 25248,
+      "sha256": "78ddb8270646225ce7d9dd68599f7155ba38e10d0f00206694d04a6fd879dcb8"
     },
     {
       "file": "ko/csv-to-json/index.html",
-      "bytes": 26391,
-      "sha256": "1b223898207263f0f940019bd12ad5c50df3a6df928241ddb2e8de2ef5d102b6"
+      "bytes": 23894,
+      "sha256": "8259fb33cd4adc7739b2980d87b2cbb929cdb5cd7d646c6c1ea893b5ad6a6cd0"
     },
     {
       "file": "ko/csv-viewer/index.html",
-      "bytes": 33072,
-      "sha256": "d90179fd947b16c28f0ff2d3c07d02b6c6a71e5f8404e6e8309134bb03d07b04"
+      "bytes": 30575,
+      "sha256": "b0ae7665982bc4373cfb7039ee86407dea621d6d44eab6aeb27b32ae504366ba"
     },
     {
       "file": "ko/currency-budget/index.html",
-      "bytes": 31145,
-      "sha256": "c2533d27c2db2cc475c15434d18fc4ec9a2501569da5add9c7eb43491811e691"
+      "bytes": 28648,
+      "sha256": "2a680f08b351d013605aaa60222158d1311f71c2dfdd49e73a871738015e5f2a"
     },
     {
       "file": "ko/cylinder/index.html",
-      "bytes": 26166,
-      "sha256": "1fd3387804f0cceb832fd38fe21f305cb534d9efac59d19b6fbc7a776ae4d35a"
+      "bytes": 23669,
+      "sha256": "beef382ca8bc138770cd93077200b1e1ef0e961df0bf741019470ab80fc587fc"
     },
     {
       "file": "ko/data-converter/index.html",
-      "bytes": 26940,
-      "sha256": "eb7551e92978febe4dd03c4b765a897b681fba134d94ab4d7b036c0e9ebed89c"
+      "bytes": 24443,
+      "sha256": "a749a64fe8f5c9b9c6ba6a5b0e0418db3c174b80cc08e5cf832ac74ce2542f92"
     },
     {
       "file": "ko/date-add/index.html",
-      "bytes": 26359,
-      "sha256": "3c5c01261561ce05389c7e2a40bf7a943cef2401448a7dba511741bd52172c95"
+      "bytes": 23862,
+      "sha256": "ea382e82ac195d5700869dab41cba18ec568814a6154d89540a23686e7a2ab2c"
     },
     {
       "file": "ko/date-difference/index.html",
-      "bytes": 26945,
-      "sha256": "12a95db7f79e8ad9a97efa5102ef0f284e68e2d8f4a7ac404f57645f56c4d232"
+      "bytes": 24448,
+      "sha256": "c3afede43592a285ded627b99d6b933a1b48677e1410a78f7eca6c5a2ff97b1b"
     },
     {
       "file": "ko/day-of-year/index.html",
-      "bytes": 25779,
-      "sha256": "eb5d0c001f58c49019c4b6fc63b749a076af8f17a37dbe2b5ee896f9245b2cf1"
+      "bytes": 23282,
+      "sha256": "8f8e0f091723a52a2a3b33892c650fbe3e28641282e0b996fb45450d93c3d9c8"
     },
     {
       "file": "ko/deduplicate-lines/index.html",
-      "bytes": 26140,
-      "sha256": "d880b12ab1bc82b935e3908373c47cfa99be7cfd58c9c66f19283438c85d28f2"
+      "bytes": 23643,
+      "sha256": "3b6b943913a2fcdb032773bbfe8cfd332f8331956d3d007c678cf6d81c943efb"
     },
     {
       "file": "ko/dice/index.html",
-      "bytes": 26293,
-      "sha256": "17cc0083f918d8223df4e253b8412ea54b42bb2ef394069913d0a58c319d5d12"
+      "bytes": 23796,
+      "sha256": "158c4219b9d616715aa4b9274ed01c90c796c662b7639a52b526743b630ebfd6"
     },
     {
       "file": "ko/document-scan/index.html",
-      "bytes": 39281,
-      "sha256": "33c25a3dccddee985ff4ac160fb052ccae6e6be84bdefc589ea97c1221a23535"
+      "bytes": 36784,
+      "sha256": "9984a13550797b1e805e867801b8469bc664b81c3e092c573a6d64c98a48bcd7"
     },
     {
       "file": "ko/duplex-photocard/index.html",
-      "bytes": 34308,
-      "sha256": "18200220b1c7c21287f7b4ff81f3e111c45164b3b1484f5513a32826dce924b0"
+      "bytes": 31811,
+      "sha256": "956a51753039fbb2dc52088c862ed4d08c96680601dda4927325352fb8e60596"
     },
     {
       "file": "ko/duration-unit-converter/index.html",
-      "bytes": 26993,
-      "sha256": "e1868c6973c9bcc368dc2403718dce5bd7393b472bea10920294f8b8bfafb99c"
+      "bytes": 24496,
+      "sha256": "86da76befb0e935dc617ca3d0692900e2b8e007d76626a639cfd235b2583891c"
     },
     {
       "file": "ko/energy-converter/index.html",
-      "bytes": 26728,
-      "sha256": "ee506c585837ac188ff78f1f64209e3f1283608bd894af10121be2895e787c0c"
+      "bytes": 24231,
+      "sha256": "530a8ac1f7938c9631d1fa50e68706fbf9b949deee0e6e46132df7cfa731b9d1"
     },
     {
       "file": "ko/expense-split/index.html",
-      "bytes": 41086,
-      "sha256": "bacb1152e173059507fd9338987cf673be93e05617c2c7ebc7d228baefcc358a"
+      "bytes": 38589,
+      "sha256": "01ec756cb33a07099d220fa48a564a0b05362192f4970f82a84b4a0f499565fb"
     },
     {
       "file": "ko/extract-lines/index.html",
-      "bytes": 26821,
-      "sha256": "94aeb3f908572e5e50cf70d5b96d44ce7606218ace979af9581ae986c369728e"
+      "bytes": 24324,
+      "sha256": "684aaaa0cbdd3ed747d4483c5a9e9071272f9e2ec43656b9b0a2f9f4c208d75f"
     },
     {
       "file": "ko/favicon-maker/index.html",
-      "bytes": 32850,
-      "sha256": "4eb4e6590503612aee6195e3e97ac0f7e3f494ed5a1b8b8dad51b6f588090a51"
+      "bytes": 30353,
+      "sha256": "10c58891567f82963978f87021b648816a0644d00272c03e22c499352368083d"
     },
     {
       "file": "ko/file-checksum/index.html",
-      "bytes": 28757,
-      "sha256": "34283f95f22a2bae4afeea8e205da45469cafd1b66425ae84395aa623a269a5e"
+      "bytes": 26260,
+      "sha256": "3fce400bc126d8403f66f1bebc03904176d90a0ef752f1f2ef6f7bd668a910fc"
     },
     {
       "file": "ko/find-replace/index.html",
-      "bytes": 26860,
-      "sha256": "902673b0c669d4492bfbff79a040a41ad2e040b32f092f0a1ad1b3b3237f12fd"
+      "bytes": 24363,
+      "sha256": "f827536e3a75fe1eff89a08b26abe6d567931c202f542539aeca96f8604274f4"
     },
     {
       "file": "ko/flashcards/index.html",
-      "bytes": 34925,
-      "sha256": "1eb4e4773f72ef122474b28db4d9702cc82db8fc386b3ab93da0285b6e975220"
+      "bytes": 32428,
+      "sha256": "caf5ce3e6e6c0894e736df64a078051bd6228c5fefe8e6172cb29ba9111c7588"
     },
     {
       "file": "ko/fraction/index.html",
-      "bytes": 27712,
-      "sha256": "711e56c29e7f5959f44bebfa737877be253862c2ee2d2a401094765c09ee54e4"
+      "bytes": 25215,
+      "sha256": "46847acbc4f98fd90092c38ec6290a83df2a8f7fe88d401032e90907869431f5"
     },
     {
       "file": "ko/frequency-converter/index.html",
-      "bytes": 26659,
-      "sha256": "1460d2e1c82932267579d4d3524422a64be72a98c3b05485c5523e00d0bef6e4"
+      "bytes": 24162,
+      "sha256": "19e7121df06b4f81abdf7c4953ab47f96afb835354a4c8a147dd364a95a7ab83"
     },
     {
       "file": "ko/fuel-economy-converter/index.html",
-      "bytes": 26508,
-      "sha256": "65149e301ff015e005a67849c8bcc2487495d894dbf1974a161ccb2cde327658"
+      "bytes": 24011,
+      "sha256": "61d854386f079a645d5f3a7c4509f7da49da39b3e586c882eb602e1751933f2e"
     },
     {
       "file": "ko/fullwidth-halfwidth/index.html",
-      "bytes": 26663,
-      "sha256": "51a25ce977c6a2e1859a546d8c09b009ad8c15d60ad9b54dd48429d5ddc562fd"
+      "bytes": 24166,
+      "sha256": "f0a2939eab14a014a5c8791bdcd8ef7d050e4f65eeb2e1ad7ba413a60dec9d3d"
     },
     {
       "file": "ko/function-graph/index.html",
-      "bytes": 35176,
-      "sha256": "1d4709ae19d82f41fee0004e55a2f116adefc16c1b8bcf6e1448a91b370f74a6"
+      "bytes": 32679,
+      "sha256": "ea97604fe9f0644fc31bf54f6d93cc0a16e947bec8da9a346abc3e9531ca0d34"
     },
     {
       "file": "ko/gcd-lcm/index.html",
-      "bytes": 26097,
-      "sha256": "6f15010af59c9dc4fd36cee3e8885008c0ac320c64fdfa5a5b4fd84361f3e870"
+      "bytes": 23600,
+      "sha256": "fa69d2fd3b99d2c9a5519069f4aa0decc9a77458c0d753356d5dbcb982cfcf81"
     },
     {
       "file": "ko/geometric-sequence/index.html",
-      "bytes": 26846,
-      "sha256": "98237f4a071ad82903f89ae0ae3f85685cc2b2c1350ce7764508fed0116aa2d5"
+      "bytes": 24349,
+      "sha256": "b9906c896784e706cf7dd40c8c8eada3896e9063684022119236c8fda08abbb1"
     },
     {
       "file": "ko/gif-maker/index.html",
-      "bytes": 33728,
-      "sha256": "74a40a8a2fb53bc97fe60abc2913a91f0867d08d13d168576051e585b3945d00"
+      "bytes": 31231,
+      "sha256": "222ce7aca291897bd5b03be8d15850195630c5e9e1934d1f6cb5a184f8dbc7dd"
     },
     {
       "file": "ko/gpa/index.html",
-      "bytes": 28937,
-      "sha256": "ccfa45ae159c270a4a473487ddf7a7cd63bae052ace99aafd9eb30a799f64a47"
+      "bytes": 26440,
+      "sha256": "661f9eaad5ec4634aaf8cb1f158d97df1fb27f96de2bc16842c02c3158594c73"
     },
     {
       "file": "ko/guide/index.html",
       "bytes": 10685,
-      "sha256": "53f90b2070701a3aac878cf89e9820e49a9aa28c59c7ec5995f2f24b96c7d485"
+      "sha256": "545e37af2c11cc3a2187df83d3526924ce9c92ab456f79044ea659ba8cf93664"
     },
     {
       "file": "ko/handwriting-practice/index.html",
       "bytes": 23297,
-      "sha256": "eb99d08a88680da25a899323417815bdaeb19931db6b933bd111d7e61e523ebf"
+      "sha256": "4b6009b86534bd69fdfc0562f9207a191f640db84d6e4939daef145dbe2e237b"
     },
     {
       "file": "ko/hex-text/index.html",
-      "bytes": 26145,
-      "sha256": "88bc4a49bd275d4af4bb790d67df717f8b9c725213313aaad4d2981d5f56f2a6"
+      "bytes": 23648,
+      "sha256": "2f81490fcf91b40e027c17cc64445bf6b2092941fbfa8d7495d9bd0bca2d625f"
     },
     {
       "file": "ko/html-entities/index.html",
-      "bytes": 26473,
-      "sha256": "24a467223fa917d5520e22d2810e7b6e4600100b65adbf5e34503f1818b0bf30"
+      "bytes": 23976,
+      "sha256": "4c89b67164d08cc2f8437123ab26309d5f49c522bfae12418247fda2f709c57c"
     },
     {
       "file": "ko/image-combine/index.html",
-      "bytes": 31452,
-      "sha256": "05ff65042735d661b7b0a4f0bb93ca091f4cd58b1ca29e70f7e189b355ef7ca8"
+      "bytes": 28955,
+      "sha256": "099c122d6df8fa73a12a1ac6fa0c83f436fe6de0e171f381eb6d87aff0fb1bda"
     },
     {
       "file": "ko/image-compress/index.html",
-      "bytes": 28639,
-      "sha256": "1cdda85d69d286c92a740f741c4092b07e872e81b92561eab3477dfc739024c4"
+      "bytes": 26142,
+      "sha256": "dae8fef341cb62c398f8880ba7837f104be614c4d2523b7107be6596271a133a"
     },
     {
       "file": "ko/image-convert/index.html",
-      "bytes": 30011,
-      "sha256": "e89dc13dfa0f6379260acef353dca4af9864383fd3d183807a27d382e367a51e"
+      "bytes": 27514,
+      "sha256": "372cdbffef1aafcf743248aea25c97eb4fd0d5e4f1ad6d6d9b86cfe238b4b7f9"
     },
     {
       "file": "ko/image-crop/index.html",
-      "bytes": 32809,
-      "sha256": "1fa6e2efccd6bb0c41a6a8f1a6ece960e6cdefb7ed5c0b714c7b9e52e4ff6adf"
+      "bytes": 30312,
+      "sha256": "ee992cd731d2b94dd59785b7fbff04094fdd61c8018548b36ecf498f9b94544b"
     },
     {
       "file": "ko/image-metadata/index.html",
-      "bytes": 31304,
-      "sha256": "dbba987235ee4c0519e2e5d5e8b48560f713417e98b41d9c17db2f9c11d0faf8"
+      "bytes": 28807,
+      "sha256": "0781206a4d315cf24717622c8f60ab7bb75bfcc1ebeba27beb903708d9ff073e"
     },
     {
       "file": "ko/image-ocr/index.html",
-      "bytes": 33505,
-      "sha256": "1d1d6d943f6e8c85432944ad502346ecaacf420cb6bdf82d0330a315fec1c972"
+      "bytes": 31008,
+      "sha256": "1a2037bcb2b6a8c0a00e87b65386d24431cedcff6b1c8f0a94e14af8ef6c4d38"
     },
     {
       "file": "ko/image-palette/index.html",
-      "bytes": 32276,
-      "sha256": "0b5933302a46c5dfc19da018b34ced9eebb836317d8de47a944aff798df8281c"
+      "bytes": 29779,
+      "sha256": "d5eb0d856f3a0a62205cdcfe9ff90ec9ce5d6090054d542bb9191fb399d6941d"
     },
     {
       "file": "ko/image-redact/index.html",
-      "bytes": 32422,
-      "sha256": "6afb8eb3a469143fb22e631464826697ab474c5393cf77df0c0ed842f17a55b9"
+      "bytes": 29925,
+      "sha256": "774745f02e0bb09a7fc78530aca27af976c53ec15ea5d6c2cb74235b78d532b3"
     },
     {
       "file": "ko/image-resize/index.html",
-      "bytes": 32023,
-      "sha256": "a072a6594958e0ba513cc81190deab7ef5b1fa4a45092a14f3f9ea00944fc59f"
+      "bytes": 29526,
+      "sha256": "dd43c80a2586115c30c7cba87d4a3a05c9d9ab553c29f4af8e9de1e933eac9ca"
     },
     {
       "file": "ko/image-upscale/index.html",
-      "bytes": 34720,
-      "sha256": "e4c09a9c7cf4b169b844abd1213c83d225453550b74b0ae01edbf5fe86d1bea1"
+      "bytes": 32223,
+      "sha256": "0c5b6851276c915d67a5c8e72815f47121953fbc0229d9d71ad3a5ae2323bdb3"
     },
     {
       "file": "ko/image-watermark/index.html",
-      "bytes": 32507,
-      "sha256": "f8c23f28cd07f2a90c6db2b8c19b74b56d0f8ad925e5606759ef3c040ea343fd"
+      "bytes": 30010,
+      "sha256": "7d186bb3faea98950a4b9d53db966897675d3ee6c8b96f75a88fbbe41f2153a2"
     },
     {
       "file": "ko/images-to-pdf/index.html",
-      "bytes": 28972,
-      "sha256": "57971ea7d03cec59f95f866c85a01d7fc430bd71522570d8082ad397469b2027"
+      "bytes": 26475,
+      "sha256": "fa0bf650ec13dbb621898c8319fb9b76fea106a71db106f8fa1b1ec97028d2e1"
     },
     {
       "file": "ko/index.html",
       "bytes": 173802,
-      "sha256": "7b6c2fea1f734d9d1fc7248e9ee3cdb4a089d2ddc352aa6921a522a1fe04182a"
+      "sha256": "f3047848723e52989ea111e75b52fb04aec1539d3f3ffbdf1453e9f607f7aa83"
     },
     {
       "file": "ko/installment-compare/index.html",
-      "bytes": 31837,
-      "sha256": "25770c4e0294f6203cda58e50c9791535985f874485bf3e0fc4a9e9bf420f725"
+      "bytes": 29340,
+      "sha256": "aac36a011d1101d9cf0c3785144015a5ccd679dd7026a40b42ed08690b1cf81b"
     },
     {
       "file": "ko/iso-week/index.html",
-      "bytes": 25908,
-      "sha256": "02852398cd24cd35f601a6bdc3a19667c9273dde9bdb54688f5085768c22a34b"
+      "bytes": 23411,
+      "sha256": "2100cf9c7bae5ee334fed595f7f7c216e796e460c1bc52c864a6721ae814bb8b"
     },
     {
       "file": "ko/json-diff/index.html",
-      "bytes": 31201,
-      "sha256": "7193e16130e99258835391e1270fbdd4e1e67946f111b5204e8e4eb112e585c2"
+      "bytes": 28704,
+      "sha256": "dfe8371c9dbabb37722bc32dabb3a56aa7a56cf1ffe749ff69fec9612bdca887"
     },
     {
       "file": "ko/json-formatter/index.html",
-      "bytes": 27491,
-      "sha256": "fd40c460d9704e8e6d8d7d8103e55102c9219c2a2d9d15c086c17bc87e96f4a6"
+      "bytes": 24994,
+      "sha256": "cc4c7317d7a042b462e4200e5447898dc47f6bda76b6856984d340a752b4d555"
     },
     {
       "file": "ko/json-to-csv/index.html",
-      "bytes": 26415,
-      "sha256": "99552a4c239dd4c88eae1109c2c462db8e594fe7d0b4d0935a682e63b9444b17"
+      "bytes": 23918,
+      "sha256": "3c250eae439316b30229c63404955452e10ee00ea6a4aab6fed8a3d293c6d389"
     },
     {
       "file": "ko/jwt-inspector/index.html",
-      "bytes": 30649,
-      "sha256": "9f503d286d31950a3498fe9826281e31948a8be1e13a3fffb28528d6889edd3d"
+      "bytes": 28152,
+      "sha256": "8bf61ca23f50a35bbc7c4f1702d189a5387178e3b936b0bf400c95e1442c01fa"
     },
     {
       "file": "ko/korean-initials/index.html",
-      "bytes": 25929,
-      "sha256": "42b56661182d3dc655003d4296604ab2aa1fa42d6cc799c3fc09f1c5daff1a22"
+      "bytes": 23432,
+      "sha256": "1130ac6893399e473c1711dbd4e91b6b827ec60e2a02497fcbd1faa708362ff3"
     },
     {
       "file": "ko/label-calibration/index.html",
-      "bytes": 33769,
-      "sha256": "5abba5f1674853ad9e24cbf5f848d5a57a1e277d8a84e8bc835706a44a66f4e0"
+      "bytes": 31272,
+      "sha256": "91422d6167b8809d20b97da28e451c95c6a8be45300b209471b348678793cf52"
     },
     {
       "file": "ko/lecture-speed/index.html",
-      "bytes": 29730,
-      "sha256": "6919e17758617221a579b4293e605da55e2004f3c9fbcf46b4dc090cc23e2b4d"
+      "bytes": 27233,
+      "sha256": "04bfa821a028aea0c56da451c03ac2fac506497c55ada0ea303ac82af8a93c2f"
     },
     {
       "file": "ko/length-converter/index.html",
-      "bytes": 26898,
-      "sha256": "bae52fc3212d8d5f36437c1d3b55e61f0991fd2233f2177a9adf639bcda59d42"
+      "bytes": 24401,
+      "sha256": "2a9f12da0eaed4def7352abad601ee97b6fd710617877c675f628de9c0021621"
     },
     {
       "file": "ko/letter-case/index.html",
-      "bytes": 26538,
-      "sha256": "000fc543f765ca2c31ea2f3f2167d5f69ca55c7cc75acd8f6a93a4aa28ae2208"
+      "bytes": 24041,
+      "sha256": "efb17727cb1f9b119c9b093fa8a6849fcf0e7017d4a730606e3a6b6f3b62e770"
     },
     {
       "file": "ko/line-frequency/index.html",
-      "bytes": 25886,
-      "sha256": "73e0fef8803f5c5a73d92595812692dc7a12e87541eb18aceb14837d25564df7"
+      "bytes": 23389,
+      "sha256": "195c930ca642aba0c81ddf8d1fc0bde358c38063d6da7d72fb2a45dd7309da92"
     },
     {
       "file": "ko/linear-system/index.html",
-      "bytes": 31884,
-      "sha256": "3a7ab2b145feba538005bb002c3a2dad862f126d218b84c25c2469ae247d6e79"
+      "bytes": 29387,
+      "sha256": "41e5764432c78622a93fe5fa08bf39e273c870dfe7b294617724fe212414bfe6"
     },
     {
       "file": "ko/loan-repayment/index.html",
-      "bytes": 30276,
-      "sha256": "98f33d50e327c199804d1ab530de49f734716e749e673814f529e880eea187b1"
+      "bytes": 27779,
+      "sha256": "96aee6ae2ab272a6aec8721b2009c85e27a65c0c1a6eaac92cc4862ce607e094"
     },
     {
       "file": "ko/markdown-preview/index.html",
-      "bytes": 30875,
-      "sha256": "b67b594168b7d8666f8c9735704fd36b6e1edb4a747d32ac75f7c599f84fed89"
+      "bytes": 28378,
+      "sha256": "c29e186cbd22d97df30beb04aef8eaaa45bba014bba3b4a345511f087e69a3cc"
     },
     {
       "file": "ko/markdown-table/index.html",
-      "bytes": 33768,
-      "sha256": "242ec3efe23ce7ca8a43478a5afd9715ea40f53c25017a723b49bb93bbcc74aa"
+      "bytes": 31271,
+      "sha256": "21ce0d95bb4a380dfb45aaf3929f4cca98501580a9ce4710b04f2b887f543ef1"
     },
     {
       "file": "ko/mass-converter/index.html",
-      "bytes": 26610,
-      "sha256": "08bd5c757c0390d4a242adb0d64a0da284b3196958fc64a1f0798c905b18f3cf"
+      "bytes": 24113,
+      "sha256": "8de7a2eb27bda320aa9b2bec2ae04d60af7bd9baa0bd3b09006dcf3db31f47d7"
     },
     {
       "file": "ko/matrix-calculator/index.html",
-      "bytes": 33255,
-      "sha256": "e0b566236e8068f65ed28782fe0dd47c85119557ac0d0f36fe69c9c28e1cf4f3"
+      "bytes": 30758,
+      "sha256": "a4aab23bedbbcd5cb52a32c4bd960b22370ed2a4009c73937f8db2f2049eec09"
     },
     {
       "file": "ko/mcp-config-check/index.html",
-      "bytes": 29264,
-      "sha256": "ceed2281feedc86b27f84420de371c6947c28e2e122dcd0436ed60b07a953af5"
+      "bytes": 26767,
+      "sha256": "9992ff9f731c59568c36ce770bc31b2abb8a10a6089eb31628848b6ea93698d0"
     },
     {
       "file": "ko/median/index.html",
-      "bytes": 25936,
-      "sha256": "d169bdbf0fcfe5405011464dd20363d8d962355a3b0ccfa401da0ee64773a110"
+      "bytes": 23439,
+      "sha256": "147a16fdfbd29cbb9413a6cf8cdbc90fdde6f9b74feb93858a4ded970b4dbc5d"
     },
     {
       "file": "ko/meeting-time/index.html",
-      "bytes": 35270,
-      "sha256": "d3f708a942f04bf065704cd7c41aa13961e610c7deb26fafa3c23240a1c63427"
+      "bytes": 32773,
+      "sha256": "99dc2d45c1727e97b2d184cbf9ffeaf8bf4d40e11c67d5f2a524924633f79af0"
     },
     {
       "file": "ko/meme-maker/index.html",
-      "bytes": 32857,
-      "sha256": "6f92e31bd86800dd487c7ad441f7bd10d55e8de1765170918feb0e83027cf390"
+      "bytes": 30360,
+      "sha256": "700a8c3dac3bbdb9d31e1da21853588012628e90f2ffe66ab92064cc3d87a28c"
     },
     {
       "file": "ko/notebooklm-pdf/index.html",
       "bytes": 24441,
-      "sha256": "26759158851f19d2ef9fca49f2f35a606352cfb0d3673c75b45233b169f0e949"
+      "sha256": "7cb417d8c50b8db5302751553d6e2f91230a81d8bf6d3ae988eae729a7ba8a84"
     },
     {
       "file": "ko/number-base/index.html",
-      "bytes": 25957,
-      "sha256": "1d60f22416cb47bbf7f68823c3986b7233b4b0a42ede6e1ac440c75e9dfcd4c7"
+      "bytes": 23460,
+      "sha256": "e01e4af6fe85e5e932ef3dd4906ab9dd4ddce959a2c7698891f41c15d28c3746"
     },
     {
       "file": "ko/number-lines/index.html",
-      "bytes": 26626,
-      "sha256": "153f6e4a6feb810bf26978353ba24828c80a8c9b3688c800ade9c725a25f1921"
+      "bytes": 24129,
+      "sha256": "b4ffe8db15cca3c6f7efeb3da5ad079b0af375daa8893ee565800f67392c0ce2"
     },
     {
       "file": "ko/pace/index.html",
-      "bytes": 26811,
-      "sha256": "5bfbd6dd3128104dc3609be959b37657fb731c383a71a5ba23be218ce8c9da93"
+      "bytes": 24314,
+      "sha256": "acd98fdbac74a2a291c361b1e02de22ccb7ffe3bc2ab7c15d4888a61018f0e35"
     },
     {
       "file": "ko/password-generator/index.html",
-      "bytes": 26656,
-      "sha256": "a0965e10d33d5943c4ae5f76399ae3f2ac421ba04053403909d0067221e04f7b"
+      "bytes": 24159,
+      "sha256": "3599412a1637ef75c4f72d03479247326175e14ea453d715568874e1479ed4d1"
     },
     {
       "file": "ko/pdf-annotate/index.html",
-      "bytes": 36768,
-      "sha256": "aecbba5ab296781b3c80f661e84f4038e70e500f225f00836ebe78529f535de3"
+      "bytes": 34271,
+      "sha256": "5c6cb7bfe39a5fe66e340814a9046b5ce05dcd6691287cc9eb3b6c98324fb759"
     },
     {
       "file": "ko/pdf-compress/index.html",
-      "bytes": 32553,
-      "sha256": "2adaa405810a3e9ec93a214a2d957a7a5d3a9cfad0e9a36438d08da709f3e2b3"
+      "bytes": 30056,
+      "sha256": "004d398ce88c2a316eec6eecbebf72984e9b7e6fe3482a2afed84cd2f35f9d66"
     },
     {
       "file": "ko/pdf-fill-form/index.html",
-      "bytes": 32549,
-      "sha256": "3e041d6e892855d6615693010a0dcec7042a3e8a43f7d7a1f9d33a21710685e0"
+      "bytes": 30052,
+      "sha256": "b400cbcc6a28d866783413af2f0d3bc3d74a84c44ba6a72ab24b79330aca1f05"
     },
     {
       "file": "ko/pdf-merge/index.html",
-      "bytes": 27958,
-      "sha256": "3340db16a74d97026f830b782d763a4aefa6fed31f0780a62544b12531bc2d2f"
+      "bytes": 25461,
+      "sha256": "704361781d8d65de8bdefc0c3900fc9ca4a157165eb18d8a6a8ed5c272041084"
     },
     {
       "file": "ko/pdf-organize/index.html",
-      "bytes": 30092,
-      "sha256": "450999ad1d3730501687f631f7c39a9695287f7c6ad9e3f6ccbc13b04eb9a0f2"
+      "bytes": 27595,
+      "sha256": "c576d145250c82a28040ec115731d1c724183b787107c830ea0088f5490d9ee8"
     },
     {
       "file": "ko/pdf-page-numbers/index.html",
-      "bytes": 30155,
-      "sha256": "cb3e7efe38da545b0eabacce700fb025315de0a3ab81a86ae3da9f574d77b072"
+      "bytes": 27658,
+      "sha256": "dee6f47a7c3d20067ca4ce2a2873cca81e12f27a44e980eda386289f0b7559cd"
     },
     {
       "file": "ko/pdf-sign/index.html",
-      "bytes": 37767,
-      "sha256": "41ae7d066cb8454caa4de444c2fd5a4a272793954082548c853f3b2d6ce152d2"
+      "bytes": 35270,
+      "sha256": "0bcc174d176f91bdb2d6d5c6a0fb5a88b39b0ef0a02515b5cc9552b57d9ed2f5"
     },
     {
       "file": "ko/pdf-split/index.html",
-      "bytes": 31802,
-      "sha256": "c2170bbe54df6e623eb78ea1fd8fb18b9f0d866a9190ff650c5ec6bad58fa1d1"
+      "bytes": 29305,
+      "sha256": "80fa60aa103405abaccee7d11690d8a0a38235b266b23362e1128d84f627d1e3"
     },
     {
       "file": "ko/pdf-text-extract/index.html",
-      "bytes": 28869,
-      "sha256": "b87a3b15cfcaa860b179599abacb10c7f33e8fa2e5192c1428ae437251b27bf4"
+      "bytes": 26372,
+      "sha256": "11de8507a31e55de3e712d4027809073190b0f15f7c2761330afb66c004b33e7"
     },
     {
       "file": "ko/pdf-to-images/index.html",
-      "bytes": 29045,
-      "sha256": "9c64ee42a79355075893dbec9204eb692057ab72bc6b67c758519f9e75a03c5a"
+      "bytes": 26548,
+      "sha256": "31d7015e5e69da4c1752321c8c2ac827a669094bde3c18cb1787826ba4cc6a99"
     },
     {
       "file": "ko/pdf-watermark/index.html",
-      "bytes": 36490,
-      "sha256": "56a84c1842cfe1751256b7b1fe7eccaa822652cf32c436a2838f0a05eb22dde0"
+      "bytes": 33993,
+      "sha256": "3802ce6fa04b077c318e79dda081448c6415f1cc6276444dcbea955321178f1a"
     },
     {
       "file": "ko/percent-change/index.html",
-      "bytes": 26455,
-      "sha256": "a5fb222d7dd7db06a55c59d90867dd5e6dba4ac9db7698f0c687b995bbc79e14"
+      "bytes": 23958,
+      "sha256": "f12e960bfad766ca6eae43a07fd881dbfc1285b3dd94893543d618e9248e154c"
     },
     {
       "file": "ko/percent-difference/index.html",
-      "bytes": 26784,
-      "sha256": "a28b6c986d19d046ecfab7261d284cd26b94a4ec7c0ba1ba71452bc416f07193"
+      "bytes": 24287,
+      "sha256": "00471a0031d4e45e131611767111a97ad39920c575eedb00b0019fa29b763dae"
     },
     {
       "file": "ko/percentage/index.html",
-      "bytes": 26424,
-      "sha256": "32d26b4219483ca16cd034b4b64e3bd984d6a3a2db173908941e7e07cae919ba"
+      "bytes": 23927,
+      "sha256": "22e6212edee0012e94755516344eb98865aaf6f43f1f7f8190ef31ef603ceb6f"
     },
     {
       "file": "ko/permutations-combinations/index.html",
-      "bytes": 26804,
-      "sha256": "d0916664d0812d6b038a502bdfc5552fa56bd4afe89246831a4303a41762f192"
+      "bytes": 24307,
+      "sha256": "fe79124b386baa9b5973deff381f93fbaee68f836353e9c9c130f9da7c70d119"
     },
     {
       "file": "ko/pizza-value/index.html",
-      "bytes": 35564,
-      "sha256": "545299a400702a7e94f9dc338ce17130513e892b8ced902c514d82b6a3422342"
+      "bytes": 33067,
+      "sha256": "c0fb9b596b53657f9beeaf0945e0222453a5312a1449c551bdd368e3c0fff6d0"
     },
     {
       "file": "ko/pomodoro/index.html",
       "bytes": 23028,
-      "sha256": "bd72d294fbd2bf0207d214be5a761be2d252641176fc8d1cef417ff18db2bf0b"
+      "sha256": "9099b3a973d3c8effcde315c1d5994344cd735671539008e0d24b80e765aa6aa"
     },
     {
       "file": "ko/power-converter/index.html",
-      "bytes": 26536,
-      "sha256": "4305a782dfa4a2d819cc9812f1f0d7cf23bc1f4dbd8aa3f1c09355570ca6f86a"
+      "bytes": 24039,
+      "sha256": "3bede5bdd38ac08b8d86e33f2414e2ea879536f6f3ddb1e0a6ae2d5a00f72c7c"
     },
     {
       "file": "ko/prefix-suffix/index.html",
-      "bytes": 26747,
-      "sha256": "6c5dd54d8b72f88f745ee9165d227ee9927e1ab482c84f8135859a2e21cfbcec"
+      "bytes": 24250,
+      "sha256": "6b4fcf9437f071b79f3ef3fb584c98512e997a5d691df2f7b31c7ba8cda4aab7"
     },
     {
       "file": "ko/pressure-converter/index.html",
-      "bytes": 26827,
-      "sha256": "88bac4e95756bfd60eb0e7960ec172f295591a222cab598b7675d701101c4999"
+      "bytes": 24330,
+      "sha256": "a07a72ea2187452440cd06e6c87c7a2b6f9613bf1e772103162dce63b542667f"
     },
     {
       "file": "ko/prime-factorization/index.html",
-      "bytes": 26035,
-      "sha256": "6edae25d566b52b290ea336076cebe1749757e88e9a9ba1e8ef7254a226ce95f"
+      "bytes": 23538,
+      "sha256": "a6a73503c17fd59eb19087036a7a302320793f8389038073f0815c0016dd0416"
     },
     {
       "file": "ko/printable-calendar/index.html",
-      "bytes": 31116,
-      "sha256": "e364d7b43eaae833797e8502d24ab265d8520e6f8f3dc5ef8e74253269cef33e"
+      "bytes": 28619,
+      "sha256": "f8eef91c7a5f4e03aa2833e0bb2c710629e649f54cab5777570bb19565896450"
     },
     {
       "file": "ko/privacy/index.html",
       "bytes": 12979,
-      "sha256": "1aa8b14828b51fa8cf16c37cbb2a1aff37d589f5ab5873752bb6e204def385a6"
+      "sha256": "4024411b20f35ef8543b52a9f050518b8f93659c22c58c1015f4adceb53d478b"
     },
     {
       "file": "ko/prompt-variables/index.html",
-      "bytes": 29211,
-      "sha256": "9fde5fd7207fefc2b2307ba07717efe9f568ddfb8dcdb7f56a0df045dda41d53"
+      "bytes": 26714,
+      "sha256": "7e002145bf227de5c6576fe1b2b98bb81731a8d6917e8f223465bf74e0095294"
     },
     {
       "file": "ko/proportion/index.html",
-      "bytes": 26152,
-      "sha256": "a15fb547d1a6a812065643864ea6c9293e93e82ec1d195d4dbb49c41b623f33e"
+      "bytes": 23655,
+      "sha256": "99251d2578e4d9a94564c16bc927885ee72d74e64ca5153524ce2b23b89722cf"
     },
     {
       "file": "ko/px-rem/index.html",
-      "bytes": 26341,
-      "sha256": "6450379e9b353c828f1db649328a951d0301cc2437f28ed47de59a59536b783a"
+      "bytes": 23844,
+      "sha256": "d9c395e8f49efeff5f89684f65cf5af212b605356a2e0707c93f373e199040ae"
     },
     {
       "file": "ko/pythagorean/index.html",
-      "bytes": 26380,
-      "sha256": "74eddbf2555c0f642d8217a6bf9cb5704d2fde3947174aa6a125cd281fa9a66d"
+      "bytes": 23883,
+      "sha256": "0923bbbe8add03f7111c2e0580212f51d434dae7f148efd471c5c095a4246e11"
     },
     {
       "file": "ko/qr-generator/index.html",
-      "bytes": 29931,
-      "sha256": "8506cd5b66a58c9e1b5bf857004c978407f21c99d2719d8c6d6109008be88265"
+      "bytes": 27434,
+      "sha256": "574ae878b0b494dd5d2fcd69fc98edf671b94c87008b48d8165260e2dd160080"
     },
     {
       "file": "ko/qr-reader/index.html",
-      "bytes": 31052,
-      "sha256": "1e0b41ccc31a92304c9d9c5fa2c70f090d3d9d5d057fe874545db6667ad1cf6c"
+      "bytes": 28555,
+      "sha256": "de10795fff948a3b5b19b6adbec3c72b0c57a2e70b53b1f50a11c7efee70ac75"
     },
     {
       "file": "ko/quadratic/index.html",
-      "bytes": 26333,
-      "sha256": "31fabb55bcc7c84aebbf6be8663c8335c7dc24c04d75a8bbff28d58a30893a82"
+      "bytes": 23836,
+      "sha256": "174da0300b346499e52d1094f10d755dcdec3a70de8834f9549b31cfd09c433e"
     },
     {
       "file": "ko/query-parser/index.html",
-      "bytes": 26458,
-      "sha256": "81fb0ec86f9e451d4f23c8cdf09ddab3c9df48fad982f45466b1e854e8b6acdb"
+      "bytes": 23961,
+      "sha256": "5e8e69382d6b08b8c2345eb2f54d924b0d2177d4cca57ebdcff812d46c969bf7"
     },
     {
       "file": "ko/race-cutoff/index.html",
-      "bytes": 39161,
-      "sha256": "4627476102128947cfd8801de2af2abf7cf5f3fe80ac6d4a0f9326d6d727e286"
+      "bytes": 36664,
+      "sha256": "ea2088b941d3789bc31205004dc20c8302fc71ea99e8e11b10436221702c256c"
     },
     {
       "file": "ko/random-number/index.html",
-      "bytes": 27157,
-      "sha256": "8d6702142301357c4dd25a9f7e4f1b4fc47cf95989da9290f704eff782b1114a"
+      "bytes": 24660,
+      "sha256": "50fa3658cfcd82c99b72758bbe99c45ee9cb98b54315381be2cc91c11b2bc65d"
     },
     {
       "file": "ko/ratio/index.html",
-      "bytes": 26364,
-      "sha256": "15281a0520fde0dabbdbb60d8a5278eb3c7c9b8c612785c42c4ef133bc11a052"
+      "bytes": 23867,
+      "sha256": "2a6933919ca81f3a2fc3fb7204e35a3c8f532b0ed6f0c3cff21432f4c8b96e11"
     },
     {
       "file": "ko/reading-time/index.html",
-      "bytes": 26615,
-      "sha256": "a21af0dabd53a988047a8ca1c5a59d826a466b16935b227502ac93125feaaf84"
+      "bytes": 24118,
+      "sha256": "40fcc689906d03de735feed9c47b7fde32adad302dabbe36c5632dbe52b79ff5"
     },
     {
       "file": "ko/recipe-scale/index.html",
-      "bytes": 34029,
-      "sha256": "a5504a02c4f0b8a0207938bec9d54549a6387ffca096ffce02dc318b70b298ca"
+      "bytes": 31532,
+      "sha256": "1e39a1a0e2898ef0842c606198d2a1843b0cab8b58c962a3de3b966d89972a73"
     },
     {
       "file": "ko/rectangle/index.html",
-      "bytes": 26319,
-      "sha256": "491ab665f92f9c63f8cc45b096feb93eb5e5231e908ba87da177c65062ae599a"
+      "bytes": 23822,
+      "sha256": "289e540f79c3920fc203d8bb008d9ad18eb00787cffaedb483c22a0c082fff6d"
     },
     {
       "file": "ko/regex-tester/index.html",
-      "bytes": 31254,
-      "sha256": "00ff490a107840cd93bbd36188ad8a0d140619975af6b19a96419ec1f533d885"
+      "bytes": 28757,
+      "sha256": "f5a7353996d2d6886bdfa5773ae7986205de1aa08195e8b5dedf9bcc250a3a47"
     },
     {
       "file": "ko/regression/index.html",
-      "bytes": 31535,
-      "sha256": "548b9bf45ae7cfb6ee3e84a80f8c5877929acfdd0ff90ab138d3dbe043975fc9"
+      "bytes": 29038,
+      "sha256": "c0d820912b1978dc9219bbd346ecf86d6bebfaffa84067b0a5626d01d4fa2174"
     },
     {
       "file": "ko/remove-blank-lines/index.html",
-      "bytes": 25891,
-      "sha256": "b21d92eead427922d7eab85992ecf201c5852dca1e665e158afcad73ba141b50"
+      "bytes": 23394,
+      "sha256": "9628c75cad3a925c0cfd8b2f1ff559ce28b1d65f2746e9ccf6ae2b10bb01218d"
     },
     {
       "file": "ko/remove-invisible/index.html",
-      "bytes": 25943,
-      "sha256": "490991c6f3e681f2a0454eff0f3566f1d29b3415d6c7db6397b2380b62249566"
+      "bytes": 23446,
+      "sha256": "5911ec2f5efdcbb031a5d28a7b66b59e12d7c35b019daa893966e046a7cc2c23"
     },
     {
       "file": "ko/retirement-pay/index.html",
-      "bytes": 33711,
-      "sha256": "fbc709068f044824f1a44acf57ae696445227fd15660a144d193b9eb281170bd"
+      "bytes": 31214,
+      "sha256": "4e7bddb4c94bbd7ef2fbcd3b6eff01e3ec485a16ddda5b8fb8909e91de30d221"
     },
     {
       "file": "ko/reverse-lines/index.html",
-      "bytes": 25717,
-      "sha256": "58442a29ef08d63e6edd0a36c1f0ec0e615c18e0898ad3e138d81b3eadbf258a"
+      "bytes": 23220,
+      "sha256": "a48cfe9ae39d33ce27d0d570a84b25173338650a742f8cd76c55c67416891dac"
     },
     {
       "file": "ko/review-schedule/index.html",
-      "bytes": 36176,
-      "sha256": "b263ddb7cbe584ed030ad2e6a57ebb4017026a051d5d0927cdcb187f691bf569"
+      "bytes": 33679,
+      "sha256": "5595acdcb2ddece29835e174c30329a4dee77ff021ac380a7612956ccc29eeeb"
     },
     {
       "file": "ko/rounding/index.html",
-      "bytes": 26593,
-      "sha256": "1748d471679c0c122a0beb6e57d300f6815a329204022f9bfa3e59d2f711b93c"
+      "bytes": 24096,
+      "sha256": "fe49063cb5a47facfe18afbfe9db08c40b1aeea62214640cea099ddb0cd51ed3"
     },
     {
       "file": "ko/salary-net/index.html",
-      "bytes": 33722,
-      "sha256": "ee5eb7d949ebdfb2d68564095843a1a8a0ce49cd75048f4c28474e0e955f9771"
+      "bytes": 31225,
+      "sha256": "243832843bf29d74cadd14960e2bca10d6f853cf1dbec6b4c91de4d902dd583e"
     },
     {
       "file": "ko/sales-margin/index.html",
-      "bytes": 31151,
-      "sha256": "e96e41d0634505ecbfad2f6765188e8f3562fbc05270b166989453ddd9fc2895"
+      "bytes": 28654,
+      "sha256": "5fb3a447d646a29f9228199ae74aee197ad5fe673696f9094eb76758a50effe7"
     },
     {
       "file": "ko/savings-goal/index.html",
-      "bytes": 31225,
-      "sha256": "81f61d595e5842bcd74247a70d989ec0391accd036c59f8722813a37e1e9eb7f"
+      "bytes": 28728,
+      "sha256": "087cd1d841832f9bce9ea60a7f1f193e5a94a94b00a6da30068a4758c0bede8f"
     },
     {
       "file": "ko/savings-interest/index.html",
-      "bytes": 32157,
-      "sha256": "72a77c0f4594faebb61bab437065f47f078f1882f35b4792d1392735caf27eca"
+      "bytes": 29660,
+      "sha256": "ae1379026d69e78c75236afccdbbdcdb7636c0af2574c83d9bb3f23fbb784ccd"
     },
     {
       "file": "ko/scientific-calculator/index.html",
-      "bytes": 33376,
-      "sha256": "e1524c6720de2fc2e94a2afd26bcbfc31c8330ffb6171493189ff891bc6d43d5"
+      "bytes": 30879,
+      "sha256": "e7eb7ec2ed355efd9d56ca1b2877db184577ad9edc5e61ffcc67fe3cc0d9828c"
     },
     {
       "file": "ko/screen-density/index.html",
-      "bytes": 26843,
-      "sha256": "ef9e02e6a5a7570df5de2bfaccb24d5ee2531920ce57f278f804bb0bb4bbe7da"
+      "bytes": 24346,
+      "sha256": "2a7242ea38c39a6aaf289b6039a3050414e7cc39c83d768d0dec27eb466f7b76"
     },
     {
       "file": "ko/seating-chart/index.html",
-      "bytes": 33601,
-      "sha256": "de60d90fe238eb6f263530507977d34536b39fcbee81c0ca80543d8c34756e6e"
+      "bytes": 31104,
+      "sha256": "277327520fb735ec08977fbe2d8697b78cfa99967424a5d80aa50f8e665c8f93"
     },
     {
       "file": "ko/shoe-size/index.html",
-      "bytes": 28797,
-      "sha256": "f9c65df1b3889cb624666998e1b48d9bb1f89e3909661d4792162b3e6c64ed56"
+      "bytes": 26300,
+      "sha256": "e5d37d2a91742ec38185d1ee654f54bcdcd5cd6b7624db55103b5c2ec6a5b4b0"
     },
     {
       "file": "ko/shuffle-list/index.html",
-      "bytes": 25931,
-      "sha256": "e2b5cc02a3f99a4230734c197c0e3a3dad3bc074349eae3ba7f4bd4df40a2610"
+      "bytes": 23434,
+      "sha256": "4a3c36b89522f3a098f99fc7f3b5e8f9f3e7d00eca0fddf8122c79e061f8c12a"
     },
     {
       "file": "ko/signature-image/index.html",
-      "bytes": 33116,
-      "sha256": "77e208aa2ee66c91d572b26fa4f595e56430c603ec35548590e3c0383d0612ed"
+      "bytes": 30619,
+      "sha256": "3492602d0b488223e9ddcdd96bb2201866f40e3620844095341b2bd6bd034da5"
     },
     {
       "file": "ko/slug-generator/index.html",
-      "bytes": 25993,
-      "sha256": "71c24d2f4788b6858b23b0b656a117fda2f0975c9f57683ad7af9eddcd3533b7"
+      "bytes": 23496,
+      "sha256": "d726cb7ef6e463810ac9b8c2a799512e2cc2d847994effa0b6e88945b9d40c58"
     },
     {
       "file": "ko/sort-lines/index.html",
-      "bytes": 26379,
-      "sha256": "8acc2e5bc41550bf68bb6cea258c8ae7b8ea8b5187dd736f25f5a644af84a0f6"
+      "bytes": 23882,
+      "sha256": "0e86c68df5711bff696157946a8db09a6613ae00ac75a62de919c4c9e6689a62"
     },
     {
       "file": "ko/speed-converter/index.html",
-      "bytes": 26652,
-      "sha256": "fe514ccf9f302ef483537a572ac5b6c32e82f279483890b73556b4dcf1e8a4cb"
+      "bytes": 24155,
+      "sha256": "b0254464555460fb6892d0aea39c82d08b56a4400600039424d42b576b97784f"
     },
     {
       "file": "ko/sphere/index.html",
-      "bytes": 25817,
-      "sha256": "ca226c46236b0ef1336368f8d36242578b40f5d571f3853d0422bd811eccacea"
+      "bytes": 23320,
+      "sha256": "3dcdcb35b0612d6f824418494b42fbe052807bf34953a9fc10f7c700a2dde632"
     },
     {
       "file": "ko/split-join/index.html",
-      "bytes": 26817,
-      "sha256": "5ca81e56dbc4e7e1998092949601e93cf36ca32726530bd88740508a9a274b3d"
+      "bytes": 24320,
+      "sha256": "99f2f04badfe30b7dc220782a03776c6c57282835bcabeb851900d4294710403"
     },
     {
       "file": "ko/sql-formatter/index.html",
-      "bytes": 31628,
-      "sha256": "88b5ef82ec12cbd2e1755c3d23408f37ebcd28cdc93a504f5102f4d0f352cc8a"
+      "bytes": 29131,
+      "sha256": "c4c5e24c60ffd382a7912d75413e1b0371f3cc0f6dc70ac5eca2d4e7305489ce"
     },
     {
       "file": "ko/standard-deviation/index.html",
-      "bytes": 26131,
-      "sha256": "ec43acaf6b872b4ce75a9072528640f009762e4ffd4eabe9788271d6ec96ff84"
+      "bytes": 23634,
+      "sha256": "aebf4e5758fbd435defec6adf6b9f1fd7e9e21cb46423597b2b95008386c6107"
     },
     {
       "file": "ko/stopwatch/index.html",
       "bytes": 21067,
-      "sha256": "e3384dde542a41303581c261fdd49969a86bd174c868129d18604514861cdeef"
+      "sha256": "4011e700a0b7e990ec7ac6a358bdbbcd33f2c2ab9331e4e55d3e9d172671d579"
     },
     {
       "file": "ko/study-quantity/index.html",
-      "bytes": 38474,
-      "sha256": "8af0c49ff0fa9dde1af98500b9a8a4e148666f61486ebb31fd6af375f9664692"
+      "bytes": 35977,
+      "sha256": "5212ab39e1b07aab00529a50a760b9d88f6f4e7fb3df096631560de4608d0f82"
     },
     {
       "file": "ko/subnet-calculator/index.html",
-      "bytes": 28909,
-      "sha256": "9dce2ac0139d5f55832cbbbf8fe3906f71be1b03e7b98f2f3cb5f8c5b617a327"
+      "bytes": 26412,
+      "sha256": "a1289ce4ffccdfcc9f95b6ebb84dfe1177a55e74162c6107f53ff99aca0f1cc7"
     },
     {
       "file": "ko/subscription-cost/index.html",
-      "bytes": 34382,
-      "sha256": "3402bd758cad4f25ef27ea03d03139b0472f459d4e2b9258c1adae06e21c4566"
+      "bytes": 31885,
+      "sha256": "69bdd157f0c687c28ccb939dcffeb09e1ab1018d4d7ca3ba286615f415e0701b"
     },
     {
       "file": "ko/subtitle-convert/index.html",
       "bytes": 24937,
-      "sha256": "c8069a7151aa94c53bc50400dcf7843a72e53009f389fee808294e31710f77ce"
+      "sha256": "f3f637a6bbf6ed6fdc463ecffc3c4f2ca7e5c213987c1d1de8c64571d209786e"
     },
     {
       "file": "ko/subtitle-sync/index.html",
-      "bytes": 36481,
-      "sha256": "2858dacfc499b9dd4dbc5219690704a8079cf64f79ccec60d2310d7e88f2c1f2"
+      "bytes": 33984,
+      "sha256": "a8fe6febe34104b434db3f077105c10c2140f66e7ce08e020b6701342a3f8912"
     },
     {
       "file": "ko/target-grade/index.html",
-      "bytes": 33775,
-      "sha256": "1bfec8d97e1e3c5015f4a72388c2246e72a0233ce38b224d41801295992e4f71"
+      "bytes": 31278,
+      "sha256": "fda87e020f783fd2fb3aa6d0b454c6a1b2a835c596ae77fa7e3eff4c31da7033"
     },
     {
       "file": "ko/team-generator/index.html",
-      "bytes": 26650,
-      "sha256": "9c38a2bcc40a7e7adf3f2cfe45d4e6cb122ffd511618d04e76a389be3ce95cce"
+      "bytes": 24153,
+      "sha256": "89451123a96560810f1c54f97a771cb9601e4049624896e8daa4b3e8443978b9"
     },
     {
       "file": "ko/temperature-converter/index.html",
-      "bytes": 26174,
-      "sha256": "bbcdcd2c723fc9eae6f3e3b1224a8566818ceb603899a3d191c81dff182ddd02"
+      "bytes": 23677,
+      "sha256": "950b482f94e74684e30223afc491ae6143f5044fb80e9acbe7b1a44432bd42b5"
     },
     {
       "file": "ko/terms/index.html",
       "bytes": 8675,
-      "sha256": "42467ad3cadd6911e3bb0be9f7ce88c7e7aa74ed75296134c2b0a4f60b7a31aa"
+      "sha256": "c080c3e49b6fe4dc5536ee4b515d8a0d041fa80094cd869ebab7ddca919f65fe"
     },
     {
       "file": "ko/text-compare/index.html",
-      "bytes": 27336,
-      "sha256": "25983d99cb4f9be37b8422d50544355002d7133c9fd7f31b4ea79ad1890e60ba"
+      "bytes": 24839,
+      "sha256": "de9fe1dda7547312d34097c8b6968b0b9d7baf0eb279b225696ca4b0fcc8ff5c"
     },
     {
       "file": "ko/time-difference/index.html",
-      "bytes": 26917,
-      "sha256": "8eb0356e64aa3ac6f886ac7760c5de062e786d9c730eb64d7976beffaa194d79"
+      "bytes": 24420,
+      "sha256": "d46aa04c9688edbd6c999256416b2161b2dae8eb17065ee1ee1312d40994d252"
     },
     {
       "file": "ko/time-sum/index.html",
-      "bytes": 26100,
-      "sha256": "04938585cd2f9c64b10bf9854dd2500dafb691b75cb5ea6ea5baaf7cce1107de"
+      "bytes": 23603,
+      "sha256": "b9699e36a24ba01aa417a46e1481f492fbf5b3cadb5d8f026c59c633f08491e6"
     },
     {
       "file": "ko/trapezoid/index.html",
-      "bytes": 26883,
-      "sha256": "c61d312f6e5d57dd91964b79850d552b472b835318f36ca5157480ecdf41fe00"
+      "bytes": 24386,
+      "sha256": "7437620dcc770dda9e122b4d2ec769ebae6ae86a1ecbaa5b230a5a4631faf58a"
     },
     {
       "file": "ko/triangle/index.html",
-      "bytes": 26772,
-      "sha256": "f64a687916a4b3815a16ae17ab9c16fb0af959aa6826592ff1412d626d4c3818"
+      "bytes": 24275,
+      "sha256": "19ec9b9c8ec6fc238c3b7182c0b8b5e2df5249ace318e1e8b2891b637959ee99"
     },
     {
       "file": "ko/trim-lines/index.html",
-      "bytes": 25760,
-      "sha256": "d6e572507c502fc036dbd49b786053f3b38ceec575f34c95c88fb0f966e509c1"
+      "bytes": 23263,
+      "sha256": "7cdaf05072e9db2a650f99a508975d64b971f7921506cd00835ab5756e148229"
     },
     {
       "file": "ko/trip-fuel-cost/index.html",
-      "bytes": 35955,
-      "sha256": "a0e932b51009345dedc7f87270fe42f23473fc2ca775599e0bb5f672523fe2d2"
+      "bytes": 33458,
+      "sha256": "5ec36de5a188075b36aa479b4914fac251d3f55ef7c66e161b3f3735ec615e42"
     },
     {
       "file": "ko/truncate-text/index.html",
-      "bytes": 26995,
-      "sha256": "7454abfdd0ad67c4f1c8cb27190960295a596a666740b6373cf7d3634126473a"
+      "bytes": 24498,
+      "sha256": "76ecffbf956bda2b54b4ad83908ae4a9f2963754f5dc35a2244496cd38d63956"
     },
     {
       "file": "ko/typing-test/index.html",
-      "bytes": 33861,
-      "sha256": "286381c5213c06c546c07d771466351e26e46513857cab0e72fe88f78b236b67"
+      "bytes": 31364,
+      "sha256": "2d30764028e19556d520435f777478f7baae947d3c6b87043bd72155f37ac585"
     },
     {
       "file": "ko/unicode-escape/index.html",
-      "bytes": 26702,
-      "sha256": "d6b0225c8bff9c07c16aab973042db20d9365a8cee41757b400596ca8d750545"
+      "bytes": 24205,
+      "sha256": "1f55aac2c190b001bceeec8c2282aacb7394b8cf5be8bdab3c9351ea4375158b"
     },
     {
       "file": "ko/unicode-normalize/index.html",
-      "bytes": 26389,
-      "sha256": "fb15b5859da351bf4d003cfba4b8ba3d6b94ca3f45d48865cdcdb7f52cb2a53e"
+      "bytes": 23892,
+      "sha256": "8f82b855f856a2dd13d6dbb5697ff0bc17300e90f534f030f27dffd44f41e2d9"
     },
     {
       "file": "ko/unit-price/index.html",
-      "bytes": 34928,
-      "sha256": "5fa759f48b32e0757328ef972729708d0ea2f6fa8aab8817aca6e4f66f9034df"
+      "bytes": 32431,
+      "sha256": "f5f77239032bc617b1b3d8d36c5a6c10ac409bbc219ea7f59f772f6519cb28ea"
     },
     {
       "file": "ko/unix-timestamp/index.html",
-      "bytes": 26749,
-      "sha256": "e54cff18a1e8db945b565421ed57b97a04e865ddeb6f02d01e50e2bdffb8bfaa"
+      "bytes": 24252,
+      "sha256": "efc7b4c2702bdfbda63e412820646eb659f83ab0a7fa429bc6c52c07e75fca86"
     },
     {
       "file": "ko/url-codec/index.html",
-      "bytes": 26674,
-      "sha256": "35b738fb36f5af599a4c244dc9085c8006943dc057a95d718109a78f679fe5bc"
+      "bytes": 24177,
+      "sha256": "83514c7a72e07d7cd3ed657582ac81a38ab6abe5a9510603014ee0f04d935b83"
     },
     {
       "file": "ko/url-parser/index.html",
-      "bytes": 25924,
-      "sha256": "78401ca344b0e5718269f8afc3300f73863bae25136de7458ff6955a9d6c80b9"
+      "bytes": 23427,
+      "sha256": "3fb4c8fddd678e928e1c5b62e0b284048e6c2408f0bf7fbb9b04b8525acb14a5"
     },
     {
       "file": "ko/utm-builder/index.html",
-      "bytes": 31509,
-      "sha256": "40176b73e60eac2155df11c1cbb28533b30a1467da07fead7df375cf900ec58e"
+      "bytes": 29012,
+      "sha256": "000a466ba25ff78f34df00cb656a38606441b9abaeedf97c02d2fe5721cc70bf"
     },
     {
       "file": "ko/uuid/index.html",
-      "bytes": 25890,
-      "sha256": "a2ec23cbe93f956600fc386deff8b5848c44c7fde95f24039999ff1d72cd6493"
+      "bytes": 23393,
+      "sha256": "edfd19698d0be92dfafced607668d28c5429e5b93eccdf93da6f69c445936268"
     },
     {
       "file": "ko/vat/index.html",
-      "bytes": 29235,
-      "sha256": "8c9c68f58949772849c85682a6abca1c83c99e0fecd0fbfc23acf79aafcb0a29"
+      "bytes": 26738,
+      "sha256": "948adeebcee337986dd2b3281c2a4f6d95aae9559dfbc326f1afc32c978b1824"
     },
     {
       "file": "ko/video-audio-extract/index.html",
-      "bytes": 32760,
-      "sha256": "81bf9d4aef8eeb2253fec1221384856fef4eaef4a48b7f8b908e2cc3abedce31"
+      "bytes": 30263,
+      "sha256": "1ee9ca360e672ae169764e19acbc5050ddbd1853a61e08f5db0ad6ad3957e865"
     },
     {
       "file": "ko/video-compress/index.html",
-      "bytes": 34096,
-      "sha256": "f6b1d2b68c5a6bede9c457c2da1ebf9aea5cd2eb97131fa672f074431febc1c0"
+      "bytes": 31599,
+      "sha256": "14a420c29f0711bcf5ca95cf967945670697f8b56f2add73cc798d9a27a22a14"
     },
     {
       "file": "ko/video-mute/index.html",
-      "bytes": 32676,
-      "sha256": "1f19389b735baca4b964a68d6880629a9a4dc1c8b3db085221650be1fc8fcdd9"
+      "bytes": 30179,
+      "sha256": "e4aae031dfc8169f21027619d2007117b24f4f0344ee246654b6184f1bab835d"
     },
     {
       "file": "ko/video-reframe/index.html",
-      "bytes": 34429,
-      "sha256": "f7447b5c9172ccde6cc8b91544d6d8a3afece5bd00a5bc4507396feabe672758"
+      "bytes": 31932,
+      "sha256": "29ff2ec7ba8b7c626a7c3f550d36bf81170d6e76ec941933cb4ee8d791391240"
     },
     {
       "file": "ko/video-trim/index.html",
-      "bytes": 33289,
-      "sha256": "6e1d0fbc8aab315c0dfc53ac6266bd441869d947f9a9cb60c74a1ec1da9194a2"
+      "bytes": 30792,
+      "sha256": "35660ba919c0f7bdcf4e336593a88179cd97e989a5f0791dc4dd3bf19004296c"
     },
     {
       "file": "ko/volume-converter/index.html",
-      "bytes": 26852,
-      "sha256": "c0647c8d2ced2ab139a70fc70fc27f343129521528362b880d7da7960e7fd450"
+      "bytes": 24355,
+      "sha256": "2d16f8b967d05d20d8e8974679010dab986b2af54f64363f480924b0a98ef333"
     },
     {
       "file": "ko/weekday-counter/index.html",
-      "bytes": 26643,
-      "sha256": "a955742bf922f025637f98fcc74811e69133e42517317a57aa4a9c60e3a1ccf3"
+      "bytes": 24146,
+      "sha256": "6e04d6ab2b65aa4266546387e2c04b3f3b686d95631303294006688217013c23"
     },
     {
       "file": "ko/weekly-allowance/index.html",
-      "bytes": 31376,
-      "sha256": "e4b670ee58b01a0a24d80030d550487f315b1d4ea09bafeaa6949626a8fc7174"
+      "bytes": 28879,
+      "sha256": "e9613fb815f760c65b9893f32444f2f6d56cdd2169b321a228f66cbe19646c38"
     },
     {
       "file": "ko/weekly-timetable/index.html",
-      "bytes": 51945,
-      "sha256": "83bc55efbc322b1bf7d2f1fdea5e13f1ce8e109f311fd79a19a17c07320e1e11"
+      "bytes": 49448,
+      "sha256": "0e3ce0740072dec494e80ba0dde479c83a3e46c3f6629a3e0ade9aeaa533d3b1"
     },
     {
       "file": "ko/weighted-average/index.html",
-      "bytes": 26050,
-      "sha256": "2ca054f09f4e58d5a6bcafdd1caa7332168874578192b44152492bbe0b8f8697"
+      "bytes": 23553,
+      "sha256": "e17962e125bf8789dc7f608d808bf92a5f3d865ca5a8f11db2f53863f93ca119"
     },
     {
       "file": "ko/word-frequency/index.html",
-      "bytes": 25855,
-      "sha256": "b312d51511e94a7c535b832164f8d7bbb84d3ca933f08d12f574d16307e4aedb"
+      "bytes": 23358,
+      "sha256": "2b28624f53048c38f9fd475989819130dcf5cc4a3fbdcb44ad966c8c3774dfc5"
     },
     {
       "file": "ko/workdays/index.html",
-      "bytes": 27421,
-      "sha256": "868a42f27bf3f02a2998dacc73c8596cc14e3de10cf13f6b29b15e115f834009"
+      "bytes": 24924,
+      "sha256": "5573f81e15cab638e6cd737e193efd79b21cc9953c340912b6d594bfbdf1968e"
     },
     {
       "file": "ko/wrap-text/index.html",
-      "bytes": 26395,
-      "sha256": "a9a7ecf387ce3391b253d313cd0e952927f592bbfcbf744b5a74a9f7236c7d16"
+      "bytes": 23898,
+      "sha256": "522a6a9193ee8eaac94e664c727cd317e405b08dce7ab874058cd6a8d2d6455f"
     },
     {
       "file": "ko/yaml-json/index.html",
-      "bytes": 30683,
-      "sha256": "b84e26101cf87b434399be842339df5ce1a0b0b6e1a48b78ab01b70269a02c5d"
+      "bytes": 28186,
+      "sha256": "db40716f04f8b9ebea31b0466ac6be45ae40131e857a857d6039f79f2e64f64f"
     },
     {
       "file": "ko/zip-create/index.html",
-      "bytes": 28625,
-      "sha256": "c14649fc2e1e53ae4c0e02fbc92e72beaa4fa568931ea54aeb3ba50027b9678d"
+      "bytes": 26128,
+      "sha256": "78ec01e942cf9a14d86010a0fcd8f0b4aaf48b225d5cc028c3ad03d0bb43f760"
     },
     {
       "file": "korean-initials/index.html",
