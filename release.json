@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-12T14:14:41.424Z",
+  "builtAt": "2026-10-13T13:38:16.757Z",
   "files": [
     {
       "file": "404.html",
@@ -2339,8 +2339,8 @@
     },
     {
       "file": "en/category/study/index.html",
-      "bytes": 15701,
-      "sha256": "be15be71df249ed9a6cb6961da577a23e92ec08e6eb8c963abb82d63b301104d"
+      "bytes": 15729,
+      "sha256": "2499f7927e6278c5c0300e41df9b596e9181526e71a8716728fb4fcaf70a8e06"
     },
     {
       "file": "en/category/text/index.html",
@@ -2379,8 +2379,8 @@
     },
     {
       "file": "en/completion-plan/index.html",
-      "bytes": 26878,
-      "sha256": "957b43bfc71f0971a643fb4a2faa1146ecce5bd59e51ee49f115a1699d727195"
+      "bytes": 26906,
+      "sha256": "f4f275df9d22a8494c89f66500feaa40dde9cb063691e428517c6f39d96d96e1"
     },
     {
       "file": "en/compound-interest/index.html",
@@ -2404,8 +2404,8 @@
     },
     {
       "file": "en/countdown-timer/index.html",
-      "bytes": 22035,
-      "sha256": "ae6a77d6fa28d8424941c5d0eec16895d89a49b898e4824fde6c44912202214d"
+      "bytes": 22063,
+      "sha256": "df75f8138fcfead7f99d3c939db5c18ca50503e56c83ad41678cb7d69555247b"
     },
     {
       "file": "en/coupon-discount/index.html",
@@ -2659,8 +2659,8 @@
     },
     {
       "file": "en/index.html",
-      "bytes": 167535,
-      "sha256": "43c1a61d885044fc0c0b3a1157f8325f159cdd92931e87a0f7a86b3152e7324b"
+      "bytes": 167591,
+      "sha256": "c7af7f0e094e0316182bc6ff1a2664976783597a14cf9432cc84513a4b2793b0"
     },
     {
       "file": "en/installment-compare/index.html",
@@ -2704,8 +2704,8 @@
     },
     {
       "file": "en/lecture-speed/index.html",
-      "bytes": 23900,
-      "sha256": "a00c7899d861e7582e5b89dc042dd6716546cbc3e712dd6c9c33d0c966483587"
+      "bytes": 24010,
+      "sha256": "e4ba91599473aa7c6df9ec03aa12872c9b48f94f5a522081c3bbd6c7c574b691"
     },
     {
       "file": "en/length-converter/index.html",
@@ -3109,8 +3109,8 @@
     },
     {
       "file": "en/stopwatch/index.html",
-      "bytes": 19951,
-      "sha256": "78e2e3bf7335238abeffbcf828ad80b2e2cacbf8f9e1931c4a04bcf4c3e4074f"
+      "bytes": 19979,
+      "sha256": "2ffe818c16d5cf70d28a6db7da0680aa299e6b99068ceb0e6f9c00fe04df2788"
     },
     {
       "file": "en/study-quantity/index.html",
@@ -3169,8 +3169,8 @@
     },
     {
       "file": "en/time-sum/index.html",
-      "bytes": 20370,
-      "sha256": "c7072eb742b1d772ce12e43bfada34b53bf1aca786ec5521dcf730fee5de26a0"
+      "bytes": 20398,
+      "sha256": "8c4f62fa5b125fce28b099db7fe58035181091d9efac12fd032ee10d19d062c2"
     },
     {
       "file": "en/trapezoid/index.html",
@@ -13774,8 +13774,8 @@
     },
     {
       "file": "ja/category/study/index.html",
-      "bytes": 16896,
-      "sha256": "179ff666c2d3c68b577409221cc88c67b8e4e3a31459b8a902da85ae6bfdbe1b"
+      "bytes": 16933,
+      "sha256": "2c7140fe48d06d4ddb622d1288b82bcfd69a148147e536c5bc3ca39c2e4fb3b1"
     },
     {
       "file": "ja/category/text/index.html",
@@ -13814,8 +13814,8 @@
     },
     {
       "file": "ja/completion-plan/index.html",
-      "bytes": 28585,
-      "sha256": "f1788d52b0a827edd47720183030860b4336143827028db67f4ef2d3704bd8f2"
+      "bytes": 28622,
+      "sha256": "65e90f33c2c64698fd6fa6b479f7ee46c107446b96b6854a1d8c99781126fed7"
     },
     {
       "file": "ja/compound-interest/index.html",
@@ -13839,8 +13839,8 @@
     },
     {
       "file": "ja/countdown-timer/index.html",
-      "bytes": 23439,
-      "sha256": "a0e91b09b042f44a2f768d39a466684ab630c54f754518d007ff61a86d5939a9"
+      "bytes": 23476,
+      "sha256": "5b8f4b302ea7ffdc320ab96f0de6e6401ce1e9beee2ac1599f40236539e91944"
     },
     {
       "file": "ja/coupon-discount/index.html",
@@ -14094,8 +14094,8 @@
     },
     {
       "file": "ja/index.html",
-      "bytes": 180256,
-      "sha256": "7394eabc1092724094129f457ee81f00feeda01630d4f2ea913363b85f0129e3"
+      "bytes": 180342,
+      "sha256": "f0f585f251164bc90c2b1142122fea87fc06f0965c01438c10d0e805d1ed01db"
     },
     {
       "file": "ja/installment-compare/index.html",
@@ -14139,8 +14139,8 @@
     },
     {
       "file": "ja/lecture-speed/index.html",
-      "bytes": 25483,
-      "sha256": "87d0cb56f594fc41ad21ea3a4969da3db3dcdb68db121d050e5aa8c02aa56b63"
+      "bytes": 25408,
+      "sha256": "204b79a5a341110cabaa55648c6162c0ab319a555fb7683e644e3ba0245f03e7"
     },
     {
       "file": "ja/length-converter/index.html",
@@ -14544,8 +14544,8 @@
     },
     {
       "file": "ja/stopwatch/index.html",
-      "bytes": 21307,
-      "sha256": "89d81eab09b631337276cd6c866725fe74e4646e9e453b10b352379768367a75"
+      "bytes": 21344,
+      "sha256": "d1f270d0673cd43b198f7ba78398695dea4412138b09744a92cd071022d7d5af"
     },
     {
       "file": "ja/study-quantity/index.html",
@@ -14604,8 +14604,8 @@
     },
     {
       "file": "ja/time-sum/index.html",
-      "bytes": 21261,
-      "sha256": "f4a488f41c45bb413b439e0d22bd5f6a3ec7db921d36acc04ed4f371f97fcb74"
+      "bytes": 21298,
+      "sha256": "d90ebce8da1f4d864d2af8f64aeab887794127b13a698a3116db826960f46868"
     },
     {
       "file": "ja/trapezoid/index.html",
@@ -14929,8 +14929,8 @@
     },
     {
       "file": "ko/category/study/index.html",
-      "bytes": 16638,
-      "sha256": "ce30135b71e2d0f00a39fe6740985b130a0335524eefaa89776503eb42e6e158"
+      "bytes": 16703,
+      "sha256": "7a4c2fc31dc0ebb7b34f1e9ba7138718a9838e83fa9691eaa06e2708fa0357c9"
     },
     {
       "file": "ko/category/text/index.html",
@@ -14969,8 +14969,8 @@
     },
     {
       "file": "ko/completion-plan/index.html",
-      "bytes": 30430,
-      "sha256": "70f113c00a2eaecf5f79322d931a72190d810745ce0f43f8eae84fc740de591b"
+      "bytes": 30495,
+      "sha256": "42292067669ebfe063ef0a28c545fd56a02bc2f3321187bc5547361dd8a836e1"
     },
     {
       "file": "ko/compound-interest/index.html",
@@ -14994,8 +14994,8 @@
     },
     {
       "file": "ko/countdown-timer/index.html",
-      "bytes": 23278,
-      "sha256": "c4e2547027c150659c78b2eacd2c3a732ae7dbec0e7d03135c1637eb00a39d46"
+      "bytes": 23343,
+      "sha256": "f73e8611a82e0276580b3c0a5d8f3fe8221b73d8715617e86f8567fa59478c28"
     },
     {
       "file": "ko/coupon-discount/index.html",
@@ -15249,8 +15249,8 @@
     },
     {
       "file": "ko/index.html",
-      "bytes": 173802,
-      "sha256": "f3047848723e52989ea111e75b52fb04aec1539d3f3ffbdf1453e9f607f7aa83"
+      "bytes": 173932,
+      "sha256": "992a64a3cee887e34c915adad30bd1c4c85a7a1fc9db16fb2274aaa8c570d913"
     },
     {
       "file": "ko/installment-compare/index.html",
@@ -15294,8 +15294,8 @@
     },
     {
       "file": "ko/lecture-speed/index.html",
-      "bytes": 27233,
-      "sha256": "04bfa821a028aea0c56da451c03ac2fac506497c55ada0ea303ac82af8a93c2f"
+      "bytes": 27576,
+      "sha256": "5dae2dabedc12f4d7657e7fde5b81f502d7262bca2b7b688c63acd9582a12c49"
     },
     {
       "file": "ko/length-converter/index.html",
@@ -15699,8 +15699,8 @@
     },
     {
       "file": "ko/stopwatch/index.html",
-      "bytes": 21067,
-      "sha256": "4011e700a0b7e990ec7ac6a358bdbbcd33f2c2ab9331e4e55d3e9d172671d579"
+      "bytes": 21132,
+      "sha256": "298abec87ecd6cae4ee40e58c575f617854990edc813a0a73a2352fdbf0a86c2"
     },
     {
       "file": "ko/study-quantity/index.html",
@@ -15759,8 +15759,8 @@
     },
     {
       "file": "ko/time-sum/index.html",
-      "bytes": 23603,
-      "sha256": "b9699e36a24ba01aa417a46e1481f492fbf5b3cadb5d8f026c59c633f08491e6"
+      "bytes": 23668,
+      "sha256": "cadc7ab3b0f3653be70e5265d36c9e04aa932fcdf93198850d34ab18908e4ca1"
     },
     {
       "file": "ko/trapezoid/index.html",
@@ -16759,8 +16759,8 @@
     },
     {
       "file": "og/en/lecture-speed.png",
-      "bytes": 52784,
-      "sha256": "a00626d896f5cbea990294531ce2a664d8a794ff476ac1ecf2160bf7e95707c0"
+      "bytes": 52389,
+      "sha256": "7f70e1d8c8339c740ee4698dff0a7aff60074d446c8b08b4c08a75df899edf8c"
     },
     {
       "file": "og/en/length-converter.png",
@@ -17974,8 +17974,8 @@
     },
     {
       "file": "og/ja/lecture-speed.png",
-      "bytes": 68089,
-      "sha256": "1ea9db61badd35769e9f2e576488fa85c06a1e5e183440fc44d836e23f991784"
+      "bytes": 64902,
+      "sha256": "ad85d734872214a835508e487d80f2f15417fd8b931332aa8cc7de0f634f8574"
     },
     {
       "file": "og/ja/length-converter.png",
@@ -19044,8 +19044,8 @@
     },
     {
       "file": "og/ko/lecture-speed.png",
-      "bytes": 48095,
-      "sha256": "f2c2b9424b9de44cd32902c1ab889749599ad5429cff38b67aa32f325563f70a"
+      "bytes": 50561,
+      "sha256": "d82e0c82306d8c8eaf860d7382c565255a3b1ab60d29f801dc7731c0ea18999c"
     },
     {
       "file": "og/ko/length-converter.png",
@@ -20615,7 +20615,7 @@
     {
       "file": "sitemap.xml",
       "bytes": 323313,
-      "sha256": "6d0c53b62104f73d5f5cc9e78121e994240fce93108b9183da454c35235571be"
+      "sha256": "c3954bf9ff1193c309cda10da3a97196eeff5e6c6b156b0b8f28c989162049a6"
     },
     {
       "file": "slug-generator/index.html",
