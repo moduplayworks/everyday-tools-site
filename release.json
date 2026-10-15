@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-15T02:41:40.684Z",
+  "builtAt": "2026-10-15T02:56:39.656Z",
   "files": [
     {
       "file": "404.html",
@@ -2474,18 +2474,18 @@
     },
     {
       "file": "en/date-add/index.html",
-      "bytes": 20152,
-      "sha256": "ff748b5ab97e43f6b6d8a03102f2abe29f0d8c718e6d4b609ae86bf25d6e84e1"
+      "bytes": 20155,
+      "sha256": "74aa36f0b5bca1aeb2966a9692fe3a79466fc4a68020a773b6755637e3f9985e"
     },
     {
       "file": "en/date-difference/index.html",
-      "bytes": 21229,
-      "sha256": "63cc3b22f599f24380f45253de5e0eecaa64c3e62e43448db14eeffd90b92d3c"
+      "bytes": 21235,
+      "sha256": "8fdcaafc1c88b90f60325b7cba1697025fb9352d304cbb87378a87dd41d286c6"
     },
     {
       "file": "en/day-of-year/index.html",
-      "bytes": 19731,
-      "sha256": "e9274a64e103ecb53b52ee7467c30979c00b7cd6048226b0735e5bde936b8009"
+      "bytes": 19734,
+      "sha256": "149b1ef7bf7b985e170429d6ec8e98bc109c32ad2d43a31df36649f2cf6a5512"
     },
     {
       "file": "en/deduplicate-lines/index.html",
@@ -2684,8 +2684,8 @@
     },
     {
       "file": "en/iso-week/index.html",
-      "bytes": 20147,
-      "sha256": "4857d3502f86135e583beaf0fabfd0e1073fb1525170322390d6f69e0190eac8"
+      "bytes": 20166,
+      "sha256": "bb9543089f269d71e10109e5cb8f8abda39d5053571a49a852d21ba553053c45"
     },
     {
       "file": "en/json-diff/index.html",
@@ -3179,13 +3179,13 @@
     },
     {
       "file": "en/time-difference/index.html",
-      "bytes": 21341,
-      "sha256": "f4eb0cddaf7fa01b96dc61cbb6982b2dac8f36a28dc21c3e50c5c25219c030c2"
+      "bytes": 21353,
+      "sha256": "061323f7f78d2e91b763385edc9222afa7221d996ae2373bce93423a501e5e26"
     },
     {
       "file": "en/time-sum/index.html",
-      "bytes": 20387,
-      "sha256": "e94294aa408236a7bb707613ec1bb10d5d6d6df6f1b7b7a2be75d6805751a7ac"
+      "bytes": 20359,
+      "sha256": "38d919665828502f19b9b990e4cc2c894e7bfecc1a73cbb09e8d2ab108a8dc8c"
     },
     {
       "file": "en/trapezoid/index.html",
@@ -13939,18 +13939,18 @@
     },
     {
       "file": "ja/date-add/index.html",
-      "bytes": 21450,
-      "sha256": "ed8b9c3888e7e3e95f9664e8faf1419053a32517ed4c649090e566519341fa22"
+      "bytes": 21441,
+      "sha256": "7ab94113f8efc2c507db2e62bde132a87d94ce1f366e104cfa75047fb9777412"
     },
     {
       "file": "ja/date-difference/index.html",
-      "bytes": 22278,
-      "sha256": "9554366b27fe6efa94adaa01b7d467c3be7789df7611b7b48943e9d303c3c14f"
+      "bytes": 22305,
+      "sha256": "f123b594d31082c5212bebb67da6e09aa74b7795cab1bc96a42d04e1d7de7676"
     },
     {
       "file": "ja/day-of-year/index.html",
-      "bytes": 20771,
-      "sha256": "24bedcfadac2b4bad47d28378f1cd1d8635df06e57cfd362721db65cfa76cad3"
+      "bytes": 20762,
+      "sha256": "456306376e0b45dfa6f3d3eb9b9c26b5553f1728ae55868a44599dc955edfc29"
     },
     {
       "file": "ja/deduplicate-lines/index.html",
@@ -14149,8 +14149,8 @@
     },
     {
       "file": "ja/iso-week/index.html",
-      "bytes": 20837,
-      "sha256": "84ae2941bf71466bd175517b4412d28d52c497050a3b43e77571ca332de6f6dd"
+      "bytes": 20858,
+      "sha256": "700ca0036d60947b122061303ca96e58787e7afa87fe32367219e424e9450e3f"
     },
     {
       "file": "ja/json-diff/index.html",
@@ -14644,13 +14644,13 @@
     },
     {
       "file": "ja/time-difference/index.html",
-      "bytes": 21986,
-      "sha256": "ef58b0bed5f5e61630946516acb88bcb89149cdc61fc7e8d720bcd09667bc500"
+      "bytes": 22001,
+      "sha256": "8ab0dead6cf136b3919283c47707faa27473bfdedaa56bf2d70b3d1440ba0bec"
     },
     {
       "file": "ja/time-sum/index.html",
-      "bytes": 21272,
-      "sha256": "ae3d13469649915131c40e46ec6d3e8e942ec237f4309e5e1949702d771147f6"
+      "bytes": 21321,
+      "sha256": "0082d5cbb7f6cf8f99178e7871b4b52459079fb930838c93b5f7bb008f26863f"
     },
     {
       "file": "ja/trapezoid/index.html",
