@@ -1,5 +1,40 @@
 const locale = document.documentElement.lang;
 if (locale === 'en' || locale === 'ja') {
+  const comparisonMessages =
+    locale === 'ja'
+      ? {
+          loading: '翻訳を読み込んでいます。少し待ってから再計算してください。',
+          failed:
+            '翻訳を読み込めませんでした。ページを再読み込みしてください。',
+        }
+      : {
+          loading:
+            'Translations are loading. Try calculating again in a moment.',
+          failed:
+            'Translations could not be loaded. Refresh this page and try again.',
+        };
+  let catalogReady = false;
+  let catalogFailed = false;
+  document.addEventListener(
+    'submit',
+    (event) => {
+      const form = event.target;
+      if (
+        catalogReady ||
+        !(form instanceof HTMLFormElement) ||
+        !form.closest('[data-comparison-tool]')
+      )
+        return;
+      event.preventDefault();
+      event.stopPropagation();
+      const status = form.querySelector('[data-status]');
+      if (status)
+        status.textContent = catalogFailed
+          ? comparisonMessages.failed
+          : comparisonMessages.loading;
+    },
+    true,
+  );
   const normalize = (value) => value.replace(/\s+/g, ' ').trim();
   const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const isKorean = (value) =>
@@ -157,8 +192,16 @@ if (locale === 'en' || locale === 'ja') {
         attributes: true,
         attributeFilter: ['aria-label', 'title', 'placeholder'],
       });
+      document.documentElement.dataset.i18nReady = locale;
+      catalogReady = true;
+      document.dispatchEvent(new Event('et:i18n-ready'));
     })
     .catch(() => {
-      // The calculator remains usable if an optional translation catalog fails.
+      catalogFailed = true;
+      document
+        .querySelectorAll('[data-comparison-tool] [data-status]')
+        .forEach((status) => {
+          status.textContent = comparisonMessages.failed;
+        });
     });
 }
