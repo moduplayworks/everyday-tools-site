@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-16T04:53:45.440Z",
+  "builtAt": "2026-10-16T05:37:45.473Z",
   "files": [
     {
       "file": "404.html",
@@ -2603,6 +2603,11 @@
       "sha256": "63002e85b88a179a4ffaa0cd590e87168d5d39bbbb1564a9b967131ffd677541"
     },
     {
+      "file": "_astro/catalog-random.astro_astro_type_script_index_0_lang.DehijL3N.js",
+      "bytes": 2116,
+      "sha256": "e956931e8293814b22880c394901b55d12e795e6f4b34a81742a26a87e9a5cd2"
+    },
+    {
       "file": "_astro/catalog-random.astro_astro_type_script_index_0_lang.DrQegs5y.js",
       "bytes": 1485,
       "sha256": "6518f7c04414399c5dac329f2573eadaa9186111fbb24129e3a13b36eaf95d8e"
@@ -3684,8 +3689,8 @@
     },
     {
       "file": "en/category/random/index.html",
-      "bytes": 14012,
-      "sha256": "be6971c4c9b2e1b945208310795556ac8f354e4b285bc8f49a7a8778ecf605c4"
+      "bytes": 14060,
+      "sha256": "c970a7916a5e6307ea54bef0db436155d85fa46f0d77766caeeec17fb6d0537b"
     },
     {
       "file": "en/category/study/index.html",
@@ -3719,8 +3724,8 @@
     },
     {
       "file": "en/coin-flip/index.html",
-      "bytes": 20067,
-      "sha256": "a1754f669d254b75a1288b0df7814415848b0f6ec5892ae6260302d106361172"
+      "bytes": 20070,
+      "sha256": "41b1ead1fec432e50065732d63808b0c5432c23ae689a45fcab3d4d3fdbde190"
     },
     {
       "file": "en/color-converter/index.html",
@@ -3829,8 +3834,8 @@
     },
     {
       "file": "en/dice/index.html",
-      "bytes": 20388,
-      "sha256": "0e5470a447b30e41eb56d0584fb812456aadb45974bfbcc71f6b10bece65e539"
+      "bytes": 20391,
+      "sha256": "ea27f8c1c3396cf7c8d305735445f9d34c3df5ec7ecdad6d7e4ea54c53b819ba"
     },
     {
       "file": "en/document-scan/index.html",
@@ -4009,8 +4014,8 @@
     },
     {
       "file": "en/index.html",
-      "bytes": 169413,
-      "sha256": "33c2cf85ce6c6d66b6ae2b6cbffb2b9b0f6bb8d34e647cde0129668b113eda96"
+      "bytes": 169461,
+      "sha256": "c4f659af721a98ecb5a28b4e86932876278438cd151323925691415c857d3029"
     },
     {
       "file": "en/installment-compare/index.html",
@@ -4149,8 +4154,8 @@
     },
     {
       "file": "en/password-generator/index.html",
-      "bytes": 20560,
-      "sha256": "b90627fa6e4a7c7b7112530752a902ff2316bd610889dc8a150228d005374684"
+      "bytes": 20587,
+      "sha256": "7a58a494d4af6e73627deea344102add1288ec6e17dfc0c514ada06b82853748"
     },
     {
       "file": "en/pdf-annotate/index.html",
@@ -4314,8 +4319,8 @@
     },
     {
       "file": "en/random-number/index.html",
-      "bytes": 21494,
-      "sha256": "1fffa74c1545839b0a03a061f505fc5e1422c9d2c3d8010e65b54968cc2063b1"
+      "bytes": 21497,
+      "sha256": "f771ff0221a9b7c1d53dd52651695bb1ddbebab0bd5bb3673908dbd7effc854a"
     },
     {
       "file": "en/ratio/index.html",
@@ -4419,8 +4424,8 @@
     },
     {
       "file": "en/shuffle-list/index.html",
-      "bytes": 20348,
-      "sha256": "6b35f295daff1c8b5ebd17a2bcf23f6d7a4fd2f2d4972fa4a28fa4f8eaa0022a"
+      "bytes": 20351,
+      "sha256": "3c9f29c4eaaf6759f8f2b1e16b654931460deabf4f43abba1cbc764ef3eac0b9"
     },
     {
       "file": "en/signature-image/index.html",
@@ -4504,8 +4509,8 @@
     },
     {
       "file": "en/team-generator/index.html",
-      "bytes": 21226,
-      "sha256": "2e59a45607d4bb6f3c66399bcfbb2b152fc818b4b9c0e2cc05deef4514265d0b"
+      "bytes": 21229,
+      "sha256": "3a175b3a2757774abee1f01e9114e367da9cc8e5a462a2e7147b9318be7588df"
     },
     {
       "file": "en/temperature-converter/index.html",
@@ -4599,8 +4604,8 @@
     },
     {
       "file": "en/uuid/index.html",
-      "bytes": 19883,
-      "sha256": "844a8898dffd8747f746625941d34ad548cf77610e101380d95f9d7eceb9cbd3"
+      "bytes": 22234,
+      "sha256": "8757f37c3d441528292a201c938df13cde112a2e5cfb47629d9d41fbda01e920"
     },
     {
       "file": "en/vat/index.html",
@@ -6253,6 +6258,11 @@
       "sha256": "974daea91f9d51b3254c7550f6553202fc2b2a0b6ef50fa1a0ff21a92c770c78"
     },
     {
+      "file": "i18n/en/coin-flip.a55d8a7f1ade1f8d.json",
+      "bytes": 18114,
+      "sha256": "a55d8a7f1ade1f8de92533c4b128e09ec5ae3d6a70eaf7cb9db1ab9b8a0caec6"
+    },
+    {
       "file": "i18n/en/coin-flip.b846500eebc6bc59.json",
       "bytes": 17796,
       "sha256": "b846500eebc6bc590e07daadef8220897b601580c2e5592404dc29190fbf3251"
@@ -7146,6 +7156,11 @@
       "file": "i18n/en/dice.974daea91f9d51b3.json",
       "bytes": 17441,
       "sha256": "974daea91f9d51b3254c7550f6553202fc2b2a0b6ef50fa1a0ff21a92c770c78"
+    },
+    {
+      "file": "i18n/en/dice.a55d8a7f1ade1f8d.json",
+      "bytes": 18114,
+      "sha256": "a55d8a7f1ade1f8de92533c4b128e09ec5ae3d6a70eaf7cb9db1ab9b8a0caec6"
     },
     {
       "file": "i18n/en/dice.b846500eebc6bc59.json",
@@ -9658,6 +9673,11 @@
       "sha256": "974daea91f9d51b3254c7550f6553202fc2b2a0b6ef50fa1a0ff21a92c770c78"
     },
     {
+      "file": "i18n/en/password-generator.a55d8a7f1ade1f8d.json",
+      "bytes": 18114,
+      "sha256": "a55d8a7f1ade1f8de92533c4b128e09ec5ae3d6a70eaf7cb9db1ab9b8a0caec6"
+    },
+    {
       "file": "i18n/en/password-generator.b846500eebc6bc59.json",
       "bytes": 17796,
       "sha256": "b846500eebc6bc590e07daadef8220897b601580c2e5592404dc29190fbf3251"
@@ -10968,6 +10988,11 @@
       "sha256": "974daea91f9d51b3254c7550f6553202fc2b2a0b6ef50fa1a0ff21a92c770c78"
     },
     {
+      "file": "i18n/en/random-number.a55d8a7f1ade1f8d.json",
+      "bytes": 18114,
+      "sha256": "a55d8a7f1ade1f8de92533c4b128e09ec5ae3d6a70eaf7cb9db1ab9b8a0caec6"
+    },
+    {
       "file": "i18n/en/random-number.b846500eebc6bc59.json",
       "bytes": 17796,
       "sha256": "b846500eebc6bc590e07daadef8220897b601580c2e5592404dc29190fbf3251"
@@ -11808,6 +11833,11 @@
       "sha256": "974daea91f9d51b3254c7550f6553202fc2b2a0b6ef50fa1a0ff21a92c770c78"
     },
     {
+      "file": "i18n/en/shuffle-list.a55d8a7f1ade1f8d.json",
+      "bytes": 18114,
+      "sha256": "a55d8a7f1ade1f8de92533c4b128e09ec5ae3d6a70eaf7cb9db1ab9b8a0caec6"
+    },
+    {
       "file": "i18n/en/shuffle-list.b846500eebc6bc59.json",
       "bytes": 17796,
       "sha256": "b846500eebc6bc590e07daadef8220897b601580c2e5592404dc29190fbf3251"
@@ -12461,6 +12491,11 @@
       "file": "i18n/en/team-generator.974daea91f9d51b3.json",
       "bytes": 17441,
       "sha256": "974daea91f9d51b3254c7550f6553202fc2b2a0b6ef50fa1a0ff21a92c770c78"
+    },
+    {
+      "file": "i18n/en/team-generator.a55d8a7f1ade1f8d.json",
+      "bytes": 18114,
+      "sha256": "a55d8a7f1ade1f8de92533c4b128e09ec5ae3d6a70eaf7cb9db1ab9b8a0caec6"
     },
     {
       "file": "i18n/en/team-generator.b846500eebc6bc59.json",
@@ -13221,6 +13256,11 @@
       "file": "i18n/en/uuid.974daea91f9d51b3.json",
       "bytes": 17441,
       "sha256": "974daea91f9d51b3254c7550f6553202fc2b2a0b6ef50fa1a0ff21a92c770c78"
+    },
+    {
+      "file": "i18n/en/uuid.a55d8a7f1ade1f8d.json",
+      "bytes": 18114,
+      "sha256": "a55d8a7f1ade1f8de92533c4b128e09ec5ae3d6a70eaf7cb9db1ab9b8a0caec6"
     },
     {
       "file": "i18n/en/uuid.b846500eebc6bc59.json",
@@ -15153,6 +15193,11 @@
       "sha256": "c42381156def1d819371b2e93ff14439317d40dfbf053504ee15a2d52c139e43"
     },
     {
+      "file": "i18n/ja/coin-flip.f0988f90ab15d7a7.json",
+      "bytes": 19445,
+      "sha256": "f0988f90ab15d7a758a50ab1f6df59ee9f71efd7428bdf546d0eb163361fad89"
+    },
+    {
       "file": "i18n/ja/coin-flip.fff039a492244c33.json",
       "bytes": 19095,
       "sha256": "fff039a492244c33fb1fabdec567ce436fb80abb8fd3b61e1c16c5cd721ee6ca"
@@ -15936,6 +15981,11 @@
       "file": "i18n/ja/dice.c42381156def1d81.json",
       "bytes": 18675,
       "sha256": "c42381156def1d819371b2e93ff14439317d40dfbf053504ee15a2d52c139e43"
+    },
+    {
+      "file": "i18n/ja/dice.f0988f90ab15d7a7.json",
+      "bytes": 19445,
+      "sha256": "f0988f90ab15d7a758a50ab1f6df59ee9f71efd7428bdf546d0eb163361fad89"
     },
     {
       "file": "i18n/ja/dice.fff039a492244c33.json",
@@ -18133,6 +18183,11 @@
       "sha256": "c42381156def1d819371b2e93ff14439317d40dfbf053504ee15a2d52c139e43"
     },
     {
+      "file": "i18n/ja/password-generator.f0988f90ab15d7a7.json",
+      "bytes": 19445,
+      "sha256": "f0988f90ab15d7a758a50ab1f6df59ee9f71efd7428bdf546d0eb163361fad89"
+    },
+    {
       "file": "i18n/ja/password-generator.fff039a492244c33.json",
       "bytes": 19095,
       "sha256": "fff039a492244c33fb1fabdec567ce436fb80abb8fd3b61e1c16c5cd721ee6ca"
@@ -19278,6 +19333,11 @@
       "sha256": "c42381156def1d819371b2e93ff14439317d40dfbf053504ee15a2d52c139e43"
     },
     {
+      "file": "i18n/ja/random-number.f0988f90ab15d7a7.json",
+      "bytes": 19445,
+      "sha256": "f0988f90ab15d7a758a50ab1f6df59ee9f71efd7428bdf546d0eb163361fad89"
+    },
+    {
       "file": "i18n/ja/random-number.fff039a492244c33.json",
       "bytes": 19095,
       "sha256": "fff039a492244c33fb1fabdec567ce436fb80abb8fd3b61e1c16c5cd721ee6ca"
@@ -20013,6 +20073,11 @@
       "sha256": "c42381156def1d819371b2e93ff14439317d40dfbf053504ee15a2d52c139e43"
     },
     {
+      "file": "i18n/ja/shuffle-list.f0988f90ab15d7a7.json",
+      "bytes": 19445,
+      "sha256": "f0988f90ab15d7a758a50ab1f6df59ee9f71efd7428bdf546d0eb163361fad89"
+    },
+    {
       "file": "i18n/ja/shuffle-list.fff039a492244c33.json",
       "bytes": 19095,
       "sha256": "fff039a492244c33fb1fabdec567ce436fb80abb8fd3b61e1c16c5cd721ee6ca"
@@ -20586,6 +20651,11 @@
       "file": "i18n/ja/team-generator.c42381156def1d81.json",
       "bytes": 18675,
       "sha256": "c42381156def1d819371b2e93ff14439317d40dfbf053504ee15a2d52c139e43"
+    },
+    {
+      "file": "i18n/ja/team-generator.f0988f90ab15d7a7.json",
+      "bytes": 19445,
+      "sha256": "f0988f90ab15d7a758a50ab1f6df59ee9f71efd7428bdf546d0eb163361fad89"
     },
     {
       "file": "i18n/ja/team-generator.fff039a492244c33.json",
@@ -21251,6 +21321,11 @@
       "file": "i18n/ja/uuid.c42381156def1d81.json",
       "bytes": 18675,
       "sha256": "c42381156def1d819371b2e93ff14439317d40dfbf053504ee15a2d52c139e43"
+    },
+    {
+      "file": "i18n/ja/uuid.f0988f90ab15d7a7.json",
+      "bytes": 19445,
+      "sha256": "f0988f90ab15d7a758a50ab1f6df59ee9f71efd7428bdf546d0eb163361fad89"
     },
     {
       "file": "i18n/ja/uuid.fff039a492244c33.json",
@@ -22079,8 +22154,8 @@
     },
     {
       "file": "ja/category/random/index.html",
-      "bytes": 14535,
-      "sha256": "431f6b16534586b0948da7c42296db21108af6df574c570dd1367c0e049f2ad8"
+      "bytes": 14588,
+      "sha256": "4a86916bca67777f45e24625c17e2b368fb721ab3fe8a61978a67b2744045b7c"
     },
     {
       "file": "ja/category/study/index.html",
@@ -22114,8 +22189,8 @@
     },
     {
       "file": "ja/coin-flip/index.html",
-      "bytes": 21074,
-      "sha256": "ca96661341ad914cd637e091c49126e6380c950468dcf655c6c46f476f483d1e"
+      "bytes": 21095,
+      "sha256": "a30d2607dc2d54e6bfaf3b13a6c2fce3d39532009c59989314dd01f52260be49"
     },
     {
       "file": "ja/color-converter/index.html",
@@ -22224,8 +22299,8 @@
     },
     {
       "file": "ja/dice/index.html",
-      "bytes": 21516,
-      "sha256": "815a283cedaea8f10db6647c9d1650d251aa679a959d0a784fe1326f165287ea"
+      "bytes": 21537,
+      "sha256": "a3d043c987ccdcf35c1ab73064f7c0d75ced886c2283ac452a5f2df2c858fccb"
     },
     {
       "file": "ja/document-scan/index.html",
@@ -22404,8 +22479,8 @@
     },
     {
       "file": "ja/index.html",
-      "bytes": 182348,
-      "sha256": "e82c6b51c91c47367c62a27905f40198c4a528e386f00657674c15b46abcb6b7"
+      "bytes": 182401,
+      "sha256": "4055838d05a2bbe75ba924deabc2529d3145d81379d767b5b55bb29835302010"
     },
     {
       "file": "ja/installment-compare/index.html",
@@ -22544,8 +22619,8 @@
     },
     {
       "file": "ja/password-generator/index.html",
-      "bytes": 21887,
-      "sha256": "966c5603d67542c67e3dc7e384f229d9559b3e6aa7ac6d32b5b3a5aa641f6ff6"
+      "bytes": 21945,
+      "sha256": "404acd6a59a75471d788b67bd588c6785339b0636e3ae951fb5186c9587554d0"
     },
     {
       "file": "ja/pdf-annotate/index.html",
@@ -22709,8 +22784,8 @@
     },
     {
       "file": "ja/random-number/index.html",
-      "bytes": 22295,
-      "sha256": "017e99acbeed2d971f33fdf4705cf5dd852bcda6172a45d1a90af7ca9b5452f7"
+      "bytes": 22316,
+      "sha256": "4a8a0f6500ff23c56db31738e2bf4bac3bb916b1ad14c6fa29063769bddff401"
     },
     {
       "file": "ja/ratio/index.html",
@@ -22814,8 +22889,8 @@
     },
     {
       "file": "ja/shuffle-list/index.html",
-      "bytes": 21264,
-      "sha256": "6d5a104d07c511065516d9a23e625f5bf07232d02bb99a4e05b4c91a2bd5c11f"
+      "bytes": 21285,
+      "sha256": "e1aee08a9dbb24b278318c07406220880da5f3fb4b88aab706768b827d2dcf05"
     },
     {
       "file": "ja/signature-image/index.html",
@@ -22899,8 +22974,8 @@
     },
     {
       "file": "ja/team-generator/index.html",
-      "bytes": 21885,
-      "sha256": "9b1b40482acd43725fdb437b966411f43c79244414d83605d45262d82710dffa"
+      "bytes": 21906,
+      "sha256": "360bec7b9119fd5d417a055cf0546e6e7b5aed041bd37f1bf4a5fb62307f6df5"
     },
     {
       "file": "ja/temperature-converter/index.html",
@@ -22994,8 +23069,8 @@
     },
     {
       "file": "ja/uuid/index.html",
-      "bytes": 21032,
-      "sha256": "6637b4e1a577e15fc1a27382a8c55308cfd850f8ef3eb37b9f6a38e793d9aa8c"
+      "bytes": 23586,
+      "sha256": "e175928095ec2c1719b93cedca6dad9e0d9b47e458e18c3ddcfbe8b9fff1bc74"
     },
     {
       "file": "ja/vat/index.html",
@@ -23244,8 +23319,8 @@
     },
     {
       "file": "ko/category/random/index.html",
-      "bytes": 14784,
-      "sha256": "10fbaa5cb28d0fedcdca9ece5f2b98f1ce699122176ed04f95eab8384c5e0292"
+      "bytes": 14848,
+      "sha256": "d633eda389551b15bec21b5703b21d14c5fe6d0dc1fe625c29ed456e1f371cdb"
     },
     {
       "file": "ko/category/study/index.html",
@@ -23280,7 +23355,7 @@
     {
       "file": "ko/coin-flip/index.html",
       "bytes": 23535,
-      "sha256": "21dedf2ae5512882bde01345e007f0be7aa2b0ae97ba11159fcc9130d53d5e69"
+      "sha256": "bafb426ae8ff11a2f55c57bf558cdf8ff84066fecbad51f4f5fa864275b2efeb"
     },
     {
       "file": "ko/color-converter/index.html",
@@ -23390,7 +23465,7 @@
     {
       "file": "ko/dice/index.html",
       "bytes": 23856,
-      "sha256": "002183f5e8911bfe16cf8093a054a78d47940889edd65e1c3ae78da95d3c95e8"
+      "sha256": "b32efe440303e793048e7457b8657c835f47798857a68d90a08cfa4cfc4431fb"
     },
     {
       "file": "ko/document-scan/index.html",
@@ -23569,8 +23644,8 @@
     },
     {
       "file": "ko/index.html",
-      "bytes": 176020,
-      "sha256": "4c3756a1a954014f0f8b306842afac0fe4e788e5df2536af6e7e9434d05e9173"
+      "bytes": 176084,
+      "sha256": "43cde9d4c6d304763526ead7edbb56b9d7f879b769d5ad8def0493bc3a7731d5"
     },
     {
       "file": "ko/installment-compare/index.html",
@@ -23709,8 +23784,8 @@
     },
     {
       "file": "ko/password-generator/index.html",
-      "bytes": 24219,
-      "sha256": "724c8c3d55c98ddca5348e757d357014f1d01afa15e916536a153778634c76ab"
+      "bytes": 24251,
+      "sha256": "249c36f74af2318be8caa08846b72c8f66bdb08a8bf3ae3e6d348d469f9aad0c"
     },
     {
       "file": "ko/pdf-annotate/index.html",
@@ -23875,7 +23950,7 @@
     {
       "file": "ko/random-number/index.html",
       "bytes": 24720,
-      "sha256": "efae91cdba47dd4cd78855f2d2f49ce8ab54f116c90c9b31cc4e4993c8eb96a6"
+      "sha256": "56d7e054d86f4e7de1c4094bc85759b1f841a65399361746e942491767efb2d8"
     },
     {
       "file": "ko/ratio/index.html",
@@ -23980,7 +24055,7 @@
     {
       "file": "ko/shuffle-list/index.html",
       "bytes": 23494,
-      "sha256": "0485880d59f19cd0d440647c5439e362b73fe2238b88fb77bfac16bf1bd22c8c"
+      "sha256": "a1f9bce8b350448cb89fc7835b6d74c93d1ea621af9d7816e31410cd05e8ed60"
     },
     {
       "file": "ko/signature-image/index.html",
@@ -24065,7 +24140,7 @@
     {
       "file": "ko/team-generator/index.html",
       "bytes": 24213,
-      "sha256": "fa807ee3f53fcf36578bcd009e82e8a5fdf16551064c79e5f65e89f64b1f64c0"
+      "sha256": "f0a06b4974ed829b2ccedecf6b5160b425be6db608aa59fab86a1ae5aa567764"
     },
     {
       "file": "ko/temperature-converter/index.html",
@@ -24159,8 +24234,8 @@
     },
     {
       "file": "ko/uuid/index.html",
-      "bytes": 23453,
-      "sha256": "1e5f9980c92754991950de36d1940103f50a48d6f36a5635fec7f5435c478800"
+      "bytes": 25934,
+      "sha256": "daae19bbf8820fabb52319b652ea80d9f1eee535bba56771284c74b38df1c936"
     },
     {
       "file": "ko/vat/index.html",
@@ -25634,8 +25709,8 @@
     },
     {
       "file": "og/en/uuid.png",
-      "bytes": 39754,
-      "sha256": "0e227a540d6c8e6e81634251039a714ea17df9e1bee51117fa5a3bd4f8198e50"
+      "bytes": 47297,
+      "sha256": "f6aea420e76a9492b3cc65819e9f263bb11feae7ddd7a96f40697953912ce02b"
     },
     {
       "file": "og/en/vat.png",
@@ -26859,8 +26934,8 @@
     },
     {
       "file": "og/ja/uuid.png",
-      "bytes": 55546,
-      "sha256": "f715d9937238c418f714d7dc9a6d2bd22ddf5f693b3e2704b671b5d8ed00e74e"
+      "bytes": 62051,
+      "sha256": "b3028fa78037984c74b477ccab282d66ca1903e843cc6abe452e91cf28d4b489"
     },
     {
       "file": "og/ja/vat.png",
@@ -27939,8 +28014,8 @@
     },
     {
       "file": "og/ko/uuid.png",
-      "bytes": 49134,
-      "sha256": "5e9f6ad7ba87104d9e2f84b7e27d0fab83494970204dafd4fcd6c8d1648899c2"
+      "bytes": 50784,
+      "sha256": "4542e79504bd25ed39c75e25400fe720ac82422ee543312f18a025ada141b180"
     },
     {
       "file": "og/ko/vat.png",
@@ -28569,8 +28644,8 @@
     },
     {
       "file": "og/uuid.png",
-      "bytes": 39937,
-      "sha256": "a564412d3a132a1e2a95bb113a29a467db6005bd6ad8f9caf5db565de67ef05a"
+      "bytes": 43698,
+      "sha256": "079e74aecc1c9dda3e80ab6166e2f73110ccbeeaec8e19ace03166dc2818b83b"
     },
     {
       "file": "og/vat.png",
