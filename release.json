@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-16T05:37:45.473Z",
+  "builtAt": "2026-10-16T08:38:44.690Z",
   "files": [
     {
       "file": "404.html",
@@ -2228,6 +2228,11 @@
       "sha256": "eec1fd4aa8a44d65dc038874628d2b5512287d06214a1828db14db43ff34d918"
     },
     {
+      "file": "_astro/TextValidationPage.astro_astro_type_script_index_0_lang.CpW6m6PB.js",
+      "bytes": 26642,
+      "sha256": "6d9306a085455bab0939eb276f038cc1b526bfb05691b67942f42b894ff4e967"
+    },
+    {
       "file": "_astro/TextValidationPage.astro_astro_type_script_index_0_lang.CtaNZmgn.js",
       "bytes": 18803,
       "sha256": "75b90de79407faffd7497e9f6238169d96eee1ac9165a1d9b2d7cc7aea0d0313"
@@ -2246,6 +2251,11 @@
       "file": "_astro/TextValidationPage.astro_astro_type_script_index_0_lang.DdViXTs3.js",
       "bytes": 18803,
       "sha256": "00158adf3df1cb7e0d3bf58c1e9bc7b003ed2ee7e6afeff41054d32d66b8296d"
+    },
+    {
+      "file": "_astro/TextValidationPage.astro_astro_type_script_index_0_lang.DnLMRA9m.js",
+      "bytes": 26642,
+      "sha256": "0045f15fa923eb085343a624b49104db0c2df2080085f92bcbb72bc0dae84494"
     },
     {
       "file": "_astro/TextValidationPage.astro_astro_type_script_index_0_lang.DvGiR8Qu.js",
@@ -3564,8 +3574,8 @@
     },
     {
       "file": "en/anki-cloze-check/index.html",
-      "bytes": 22295,
-      "sha256": "e3579081084592b4f647aac96ba3ad2f6fa15b8fdd1a194ff6eafc814775dfb1"
+      "bytes": 22697,
+      "sha256": "85d592494c3a33ad80e979c1a060b3f6e693b3f8dac13e061953c272c36603a8"
     },
     {
       "file": "en/appliance-energy/index.html",
@@ -4109,8 +4119,8 @@
     },
     {
       "file": "en/mcp-config-check/index.html",
-      "bytes": 23465,
-      "sha256": "c48358ef773cec3ac34c5431b83f0a202b99f7183be94863c36eda3fc3cf7d72"
+      "bytes": 23867,
+      "sha256": "43869a2c1467f5c3551feeae5a9e2024587e6823c7423affd5e0e4fe221dfab1"
     },
     {
       "file": "en/median/index.html",
@@ -4274,8 +4284,8 @@
     },
     {
       "file": "en/prompt-variables/index.html",
-      "bytes": 22978,
-      "sha256": "83644dfd7bd4d3f250be9449ea58e4c0770b6de899bb7ea44ac8f159074955c7"
+      "bytes": 25771,
+      "sha256": "b0c6390c3fec2c955863a625ef406afd788c413307ae86a21b5228e435274beb"
     },
     {
       "file": "en/proportion/index.html",
@@ -5001,6 +5011,11 @@
       "file": "i18n/en/anki-cloze-check.a786dc665238a82e.json",
       "bytes": 23412,
       "sha256": "a786dc665238a82eeb933f5c80a909da0b6fd23190b8a9e3b154bc6faac759b7"
+    },
+    {
+      "file": "i18n/en/anki-cloze-check.adbbf63a6e299627.json",
+      "bytes": 25551,
+      "sha256": "adbbf63a6e299627de41c530523149d0d894037ebcc708b4a95822eeec3000cc"
     },
     {
       "file": "i18n/en/anki-cloze-check.ba7fcd6df4155a31.json",
@@ -9363,6 +9378,11 @@
       "sha256": "a786dc665238a82eeb933f5c80a909da0b6fd23190b8a9e3b154bc6faac759b7"
     },
     {
+      "file": "i18n/en/mcp-config-check.adbbf63a6e299627.json",
+      "bytes": 25551,
+      "sha256": "adbbf63a6e299627de41c530523149d0d894037ebcc708b4a95822eeec3000cc"
+    },
+    {
       "file": "i18n/en/mcp-config-check.ba7fcd6df4155a31.json",
       "bytes": 23375,
       "sha256": "ba7fcd6df4155a31a5ace58a36222b3df95126c85db948dff884242221d531cf"
@@ -10651,6 +10671,11 @@
       "file": "i18n/en/prompt-variables.a786dc665238a82e.json",
       "bytes": 23412,
       "sha256": "a786dc665238a82eeb933f5c80a909da0b6fd23190b8a9e3b154bc6faac759b7"
+    },
+    {
+      "file": "i18n/en/prompt-variables.adbbf63a6e299627.json",
+      "bytes": 25551,
+      "sha256": "adbbf63a6e299627de41c530523149d0d894037ebcc708b4a95822eeec3000cc"
     },
     {
       "file": "i18n/en/prompt-variables.ba7fcd6df4155a31.json",
@@ -14081,6 +14106,11 @@
       "file": "i18n/ja/anki-cloze-check.83df442f8f951734.json",
       "bytes": 25247,
       "sha256": "83df442f8f9517347a2724d333434d1ae4c26c18a7f8329a29078ecdfd8c122a"
+    },
+    {
+      "file": "i18n/ja/anki-cloze-check.968e4300097091ba.json",
+      "bytes": 27654,
+      "sha256": "968e4300097091ba6c71af30b07ec27a386f287f257073d057c38880a26342b1"
     },
     {
       "file": "i18n/ja/anki-cloze-check.c4ff07edee5057e0.json",
@@ -17898,6 +17928,11 @@
       "sha256": "83df442f8f9517347a2724d333434d1ae4c26c18a7f8329a29078ecdfd8c122a"
     },
     {
+      "file": "i18n/ja/mcp-config-check.968e4300097091ba.json",
+      "bytes": 27654,
+      "sha256": "968e4300097091ba6c71af30b07ec27a386f287f257073d057c38880a26342b1"
+    },
+    {
       "file": "i18n/ja/mcp-config-check.c4ff07edee5057e0.json",
       "bytes": 25409,
       "sha256": "c4ff07edee5057e089c8c9bc528f22b25d6e98879610fd0785cc052972c38e15"
@@ -19026,6 +19061,11 @@
       "file": "i18n/ja/prompt-variables.83df442f8f951734.json",
       "bytes": 25247,
       "sha256": "83df442f8f9517347a2724d333434d1ae4c26c18a7f8329a29078ecdfd8c122a"
+    },
+    {
+      "file": "i18n/ja/prompt-variables.968e4300097091ba.json",
+      "bytes": 27654,
+      "sha256": "968e4300097091ba6c71af30b07ec27a386f287f257073d057c38880a26342b1"
     },
     {
       "file": "i18n/ja/prompt-variables.c4ff07edee5057e0.json",
@@ -22029,8 +22069,8 @@
     },
     {
       "file": "ja/anki-cloze-check/index.html",
-      "bytes": 23709,
-      "sha256": "8c042220777230181cb04666dd9da669d41630026e85481856c14bb53c4b4e74"
+      "bytes": 24111,
+      "sha256": "8ff25da3a12dcbd03cc36f9f3e95311a3fd5679b3b576769de718651e756a18f"
     },
     {
       "file": "ja/appliance-energy/index.html",
@@ -22574,8 +22614,8 @@
     },
     {
       "file": "ja/mcp-config-check/index.html",
-      "bytes": 24334,
-      "sha256": "cc0cb357508f61ab5cf57e4f98601a509fb68ee10d42e87fea1b3b1784e737ab"
+      "bytes": 24736,
+      "sha256": "37d3d2579e798f100e3db69e500c5956970d04b10e113d3f2ed8249ca3c615ed"
     },
     {
       "file": "ja/median/index.html",
@@ -22739,8 +22779,8 @@
     },
     {
       "file": "ja/prompt-variables/index.html",
-      "bytes": 23934,
-      "sha256": "56c6b5a2f21c279668958171a58b0f0969d2437159364f36ab71c4873d795855"
+      "bytes": 27299,
+      "sha256": "9452da8d928b703fa93bb7db6e7c75488275f01053aa41e3a896c9ad6512cca9"
     },
     {
       "file": "ja/proportion/index.html",
@@ -23194,8 +23234,8 @@
     },
     {
       "file": "ko/anki-cloze-check/index.html",
-      "bytes": 26128,
-      "sha256": "b590d1f63b5f6942be218a5e0f1d0b3309d1281de67b5fab0b7f54c5a4d25284"
+      "bytes": 26530,
+      "sha256": "8a80a88983b2f0b318d88e5852b440916cefab7c77711633d7eab531cecd7e34"
     },
     {
       "file": "ko/appliance-energy/index.html",
@@ -23739,8 +23779,8 @@
     },
     {
       "file": "ko/mcp-config-check/index.html",
-      "bytes": 26827,
-      "sha256": "593185aa98170b4dfa0ab3400dd8e9c710fef367f7e7c8b9582f430ecd33ffc5"
+      "bytes": 27229,
+      "sha256": "0afc8e34d457630e116aafc033298878d7cb2457cc2300fe54db16f2e033159c"
     },
     {
       "file": "ko/median/index.html",
@@ -23904,8 +23944,8 @@
     },
     {
       "file": "ko/prompt-variables/index.html",
-      "bytes": 26774,
-      "sha256": "c73707ccffd59f3bf43b91a7d5b96be56f60642a9946433ed82283511dac754c"
+      "bytes": 29990,
+      "sha256": "7b20a16528089a98c53f19b9d50c6b08a4e24b7d3894733ff7ec313c3622f458"
     },
     {
       "file": "ko/proportion/index.html",
@@ -25379,8 +25419,8 @@
     },
     {
       "file": "og/en/prompt-variables.png",
-      "bytes": 44761,
-      "sha256": "a1b0fe238009229322a2137a6b207ea077cc84edd65d9812fb80546f3ea7eb17"
+      "bytes": 45814,
+      "sha256": "06bf225ea17443966bdad54a95a541a22e851e421dc32176dccfc05cfb132423"
     },
     {
       "file": "og/en/proportion.png",
@@ -26604,8 +26644,8 @@
     },
     {
       "file": "og/ja/prompt-variables.png",
-      "bytes": 55285,
-      "sha256": "e95bd9d9b870d7419298c9d5891790944e4702b8cc42164da657fe60165c5a26"
+      "bytes": 59794,
+      "sha256": "c2e2b7b6400a7573e16fae90101891f9bb97fcef70a1a73e7ece57c12f0f06d2"
     },
     {
       "file": "og/ja/proportion.png",
@@ -27684,8 +27724,8 @@
     },
     {
       "file": "og/ko/prompt-variables.png",
-      "bytes": 45684,
-      "sha256": "7304239eb84d77e15d95b948c3797aaa89be2137f213f57ff0d2b974ff6742ca"
+      "bytes": 49779,
+      "sha256": "a17bd90b92c77f531c0c7d1c4068b2b15dcfbbcf083bbfe9f085c5ee3b284bcd"
     },
     {
       "file": "og/ko/proportion.png",
@@ -28319,8 +28359,8 @@
     },
     {
       "file": "og/prompt-variables.png",
-      "bytes": 54122,
-      "sha256": "15c96fcb2f815eb38b57262cb74fe600a7aef245bcf0c47ec73f0a8e8fe761be"
+      "bytes": 69321,
+      "sha256": "c55fafc8057c9074421be684462769efd34fdda0069e67af28b0797207bbb568"
     },
     {
       "file": "og/proportion.png",
@@ -29065,7 +29105,7 @@
     {
       "file": "sitemap.xml",
       "bytes": 326292,
-      "sha256": "5c6cead71351eb3cb2a5b3231db270ec8d455c15cc96d3b9bbea7596e57f056d"
+      "sha256": "69d71025e52b2c07b026fe1147af2c875ac205629fc9da1e3701d0e5790fc812"
     },
     {
       "file": "slug-generator/index.html",
