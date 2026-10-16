@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-16T02:48:48.690Z",
+  "builtAt": "2026-10-16T03:35:44.339Z",
   "files": [
     {
       "file": "404.html",
@@ -843,9 +843,19 @@
       "sha256": "820a55554d454fb24c3b0031e0b09c9f9cf8f76d6c501471534df80b092645d4"
     },
     {
+      "file": "_astro/FileEditorPage.astro_astro_type_script_index_0_lang.DS53H5Cs.js",
+      "bytes": 14470,
+      "sha256": "cfbcc12f8a57c4a555923636fa742133874cda9a205d878daca080926a9c2492"
+    },
+    {
       "file": "_astro/FileEditorPage.astro_astro_type_script_index_0_lang.DiORuHyV.js",
       "bytes": 14285,
       "sha256": "1d24ccf67f1486855b3a14c093919b437f91a543c442238f2d3f5a77a9d616f9"
+    },
+    {
+      "file": "_astro/FileEditorPage.astro_astro_type_script_index_0_lang.Djh-hFzC.js",
+      "bytes": 14470,
+      "sha256": "66724ebfd1deb282a01438c90cf051048da8530571446ecb36672fa640a4802d"
     },
     {
       "file": "_astro/FileEditorPage.astro_astro_type_script_index_0_lang.to_8Wp6K.js",
@@ -3154,8 +3164,8 @@
     },
     {
       "file": "en/background-remove/index.html",
-      "bytes": 27429,
-      "sha256": "0466cbe942a3357796eb4324c5b11ffdd07517b0a8ba31105a0f4cddd2e6454a"
+      "bytes": 27438,
+      "sha256": "f9ac47cce36e815846da7764cceb8b310f1215dcf3e9979cece683e97a990e29"
     },
     {
       "file": "en/baking-pan/index.html",
@@ -3204,8 +3214,8 @@
     },
     {
       "file": "en/category/image/index.html",
-      "bytes": 23675,
-      "sha256": "75daf472fb55972aa30db3169e235e3a615dade792bee2ebbcfaed631cee8f64"
+      "bytes": 23652,
+      "sha256": "3b59dd378b7a2a6b7e61a9d9b8dcc9ae1796d6c5092807786f423526420f2c22"
     },
     {
       "file": "en/category/life/index.html",
@@ -3384,8 +3394,8 @@
     },
     {
       "file": "en/duplex-photocard/index.html",
-      "bytes": 27186,
-      "sha256": "ca29279f048f8fdd18ce44607387645c683f4592519477de3dcf95e720c860cf"
+      "bytes": 27195,
+      "sha256": "a683b71a3864b1069d910c4d272755ee4648a0295569b2867062fbae5226f1b7"
     },
     {
       "file": "en/duration-unit-converter/index.html",
@@ -3409,8 +3419,8 @@
     },
     {
       "file": "en/favicon-maker/index.html",
-      "bytes": 26956,
-      "sha256": "bc317b23e050dbb210ffd54a0646573d9f3cb4edbd6ec007c095c0548d3c6a9c"
+      "bytes": 26965,
+      "sha256": "543bc0716d7b32f706ca098a66f2b8d3da53d868ba02c2e792a1950299d367c9"
     },
     {
       "file": "en/file-checksum/index.html",
@@ -3504,23 +3514,23 @@
     },
     {
       "file": "en/image-convert/index.html",
-      "bytes": 24163,
-      "sha256": "95403ac95a10cb375a6fd91d7ac22905653fa9c1219e2ccdfeefc981862a7a8d"
+      "bytes": 24912,
+      "sha256": "1bc40b0c7e3a05059e8fed68eff648977714da9c2ff18be447d6fb131d335243"
     },
     {
       "file": "en/image-crop/index.html",
-      "bytes": 27113,
-      "sha256": "a02d179d8b891887e5e115cc5c02d9f0c9064c3a99556a46b5739ed97c61ff53"
+      "bytes": 27122,
+      "sha256": "64bfa7edbbf2fa91a4c3a9f941d82a6ccd39be1e0be951b520b7e42bf21fb432"
     },
     {
       "file": "en/image-metadata/index.html",
-      "bytes": 25425,
-      "sha256": "48832d5adfe6e5f343f0cd81b4c7b2a972a185216a36970b64c16009ecd24f80"
+      "bytes": 25422,
+      "sha256": "5524bf398516c47646d14b07fd384e36b28c3fc69f281553cf1ab6852c13eb33"
     },
     {
       "file": "en/image-ocr/index.html",
-      "bytes": 27501,
-      "sha256": "913d2fea712361456aa3fd88bcaa167fe5d86cc3e6fdc95ab96ce2c155f9fa3e"
+      "bytes": 27510,
+      "sha256": "8b21e74c69c29accd47752a3f688cbb5d2da360849834b1d3c4fb3bb7a9621ce"
     },
     {
       "file": "en/image-palette/index.html",
@@ -3534,18 +3544,18 @@
     },
     {
       "file": "en/image-resize/index.html",
-      "bytes": 26611,
-      "sha256": "4763edde26141da3e80bb4ee701881855f513422e35b12be9b33a9e8f53998d1"
+      "bytes": 26521,
+      "sha256": "23bf338629b1e17fc1a4f8a5a8d84284c344f62b3da9d6a275e3bb5229e14515"
     },
     {
       "file": "en/image-upscale/index.html",
-      "bytes": 28258,
-      "sha256": "7da29745aa74682fcf06aca91482925b68d4512e3478330747d7631bca21a07e"
+      "bytes": 28264,
+      "sha256": "bb2e53294e0a9ad1df918f9a3dcb49e848729ddf5e9abb512cb6a64ef548e4e3"
     },
     {
       "file": "en/image-watermark/index.html",
-      "bytes": 26639,
-      "sha256": "31e812c7460a9a81578416aabd0417d7fe63efb04e93a639b596af7420c077d1"
+      "bytes": 26648,
+      "sha256": "763ef78fa1906c5390fd3b320b6b38b63b67af72eb2cf15a0fbd7726bebc4e75"
     },
     {
       "file": "en/images-to-pdf/index.html",
@@ -3554,8 +3564,8 @@
     },
     {
       "file": "en/index.html",
-      "bytes": 169293,
-      "sha256": "9dc24c31051702e8c272e0372a5ec257660eabe4170769d9c470d9c8ac101590"
+      "bytes": 169270,
+      "sha256": "8c2a8d6cad438685d36e4e70f27910c209d0a1fb7c0e25fd0e3b917aa6def999"
     },
     {
       "file": "en/installment-compare/index.html",
@@ -3719,8 +3729,8 @@
     },
     {
       "file": "en/pdf-organize/index.html",
-      "bytes": 24289,
-      "sha256": "7ccbdbb1b601c4aa673ada8fcaace66bcb2cdd82185e0f8245a62c9618f8bfb8"
+      "bytes": 24298,
+      "sha256": "58ce8c285c70fa2feceb82dc893efc1831e95b09e6047adb32e0dd35b12fd4b6"
     },
     {
       "file": "en/pdf-page-numbers/index.html",
@@ -3734,8 +3744,8 @@
     },
     {
       "file": "en/pdf-split/index.html",
-      "bytes": 25675,
-      "sha256": "5a8ac15664de5c74d2f07fccb2c88a57d368d612c145537c40eddddd97f9c78a"
+      "bytes": 25672,
+      "sha256": "dcb764ffdc559c7e32891a19fc91f5e09305f3cf0ee105b09be5b2d2a989aa71"
     },
     {
       "file": "en/pdf-text-extract/index.html",
@@ -3969,8 +3979,8 @@
     },
     {
       "file": "en/signature-image/index.html",
-      "bytes": 27083,
-      "sha256": "2958ebe274e5548b29995e8acf6a07cdd8f44158900a01d1b2272079363a4a77"
+      "bytes": 27089,
+      "sha256": "7c217145ee78707cb6a4d2719c43bdb938a67542eed723ff17ad1f31ffeae2c8"
     },
     {
       "file": "en/slug-generator/index.html",
@@ -3979,8 +3989,8 @@
     },
     {
       "file": "en/social-image-pack/index.html",
-      "bytes": 36717,
-      "sha256": "52bbfb94552acece0210105502ffc772e8f03f85925eedfc822195a7d9fa9896"
+      "bytes": 36726,
+      "sha256": "64c169a2b0d9e796b155da6fbd81ffdb15ce9581c161d1154d6d9a382909f7c4"
     },
     {
       "file": "en/sort-lines/index.html",
@@ -7348,6 +7358,11 @@
       "sha256": "e46254310eb1df59b2970af4e50d8586111fd70101e11b762bd0002598f5f100"
     },
     {
+      "file": "i18n/en/image-convert.e62245c4092bb98e.json",
+      "bytes": 21981,
+      "sha256": "e62245c4092bb98ee31cb4dc685cd56dd30a092181b3a3ea1783002fa75bff57"
+    },
+    {
       "file": "i18n/en/image-convert.json",
       "bytes": 40760,
       "sha256": "61315838feedefcb534f2897f542b4becb258fe358d2da1bde5e1eb674b2f26d"
@@ -7556,6 +7571,11 @@
       "file": "i18n/en/image-resize.e46254310eb1df59.json",
       "bytes": 21779,
       "sha256": "e46254310eb1df59b2970af4e50d8586111fd70101e11b762bd0002598f5f100"
+    },
+    {
+      "file": "i18n/en/image-resize.e62245c4092bb98e.json",
+      "bytes": 21981,
+      "sha256": "e62245c4092bb98ee31cb4dc685cd56dd30a092181b3a3ea1783002fa75bff57"
     },
     {
       "file": "i18n/en/image-resize.json",
@@ -8768,6 +8788,11 @@
       "sha256": "e46254310eb1df59b2970af4e50d8586111fd70101e11b762bd0002598f5f100"
     },
     {
+      "file": "i18n/en/pdf-organize.e62245c4092bb98e.json",
+      "bytes": 21981,
+      "sha256": "e62245c4092bb98ee31cb4dc685cd56dd30a092181b3a3ea1783002fa75bff57"
+    },
+    {
       "file": "i18n/en/pdf-organize.json",
       "bytes": 40760,
       "sha256": "61315838feedefcb534f2897f542b4becb258fe358d2da1bde5e1eb674b2f26d"
@@ -8871,6 +8896,11 @@
       "file": "i18n/en/pdf-split.e46254310eb1df59.json",
       "bytes": 21779,
       "sha256": "e46254310eb1df59b2970af4e50d8586111fd70101e11b762bd0002598f5f100"
+    },
+    {
+      "file": "i18n/en/pdf-split.e62245c4092bb98e.json",
+      "bytes": 21981,
+      "sha256": "e62245c4092bb98ee31cb4dc685cd56dd30a092181b3a3ea1783002fa75bff57"
     },
     {
       "file": "i18n/en/pdf-split.json",
@@ -14803,6 +14833,11 @@
       "sha256": "042e0768bf2f058d945be89f9f3a6aa5667d38e77e471b005e7e4aafc4766918"
     },
     {
+      "file": "i18n/ja/image-convert.1e28e0f133fc2f5b.json",
+      "bytes": 24003,
+      "sha256": "1e28e0f133fc2f5b2348cb45903d6d77cfed57ab540c58d024249929e8a5ec4d"
+    },
+    {
       "file": "i18n/ja/image-convert.21a38ecb21ceb98c.json",
       "bytes": 23763,
       "sha256": "21a38ecb21ceb98c5426a46f56889a5d761bc3a6d698052c2e7bf4b0613ee0df"
@@ -14981,6 +15016,11 @@
       "file": "i18n/ja/image-resize.042e0768bf2f058d.json",
       "bytes": 23601,
       "sha256": "042e0768bf2f058d945be89f9f3a6aa5667d38e77e471b005e7e4aafc4766918"
+    },
+    {
+      "file": "i18n/ja/image-resize.1e28e0f133fc2f5b.json",
+      "bytes": 24003,
+      "sha256": "1e28e0f133fc2f5b2348cb45903d6d77cfed57ab540c58d024249929e8a5ec4d"
     },
     {
       "file": "i18n/ja/image-resize.21a38ecb21ceb98c.json",
@@ -16018,6 +16058,11 @@
       "sha256": "042e0768bf2f058d945be89f9f3a6aa5667d38e77e471b005e7e4aafc4766918"
     },
     {
+      "file": "i18n/ja/pdf-organize.1e28e0f133fc2f5b.json",
+      "bytes": 24003,
+      "sha256": "1e28e0f133fc2f5b2348cb45903d6d77cfed57ab540c58d024249929e8a5ec4d"
+    },
+    {
       "file": "i18n/ja/pdf-organize.21a38ecb21ceb98c.json",
       "bytes": 23763,
       "sha256": "21a38ecb21ceb98c5426a46f56889a5d761bc3a6d698052c2e7bf4b0613ee0df"
@@ -16106,6 +16151,11 @@
       "file": "i18n/ja/pdf-split.042e0768bf2f058d.json",
       "bytes": 23601,
       "sha256": "042e0768bf2f058d945be89f9f3a6aa5667d38e77e471b005e7e4aafc4766918"
+    },
+    {
+      "file": "i18n/ja/pdf-split.1e28e0f133fc2f5b.json",
+      "bytes": 24003,
+      "sha256": "1e28e0f133fc2f5b2348cb45903d6d77cfed57ab540c58d024249929e8a5ec4d"
     },
     {
       "file": "i18n/ja/pdf-split.21a38ecb21ceb98c.json",
@@ -19209,8 +19259,8 @@
     },
     {
       "file": "ja/background-remove/index.html",
-      "bytes": 28926,
-      "sha256": "13b5b4890020138c7d0c5ab09bfd45725a13be2f53b503707bc4ad2fe5045f20"
+      "bytes": 28913,
+      "sha256": "aabe9d67af5dedf959bcc4acecf339de3743d3b72730ae3ccaa86f3ebe650868"
     },
     {
       "file": "ja/baking-pan/index.html",
@@ -19259,8 +19309,8 @@
     },
     {
       "file": "ja/category/image/index.html",
-      "bytes": 25842,
-      "sha256": "8224818ce187b9fb885a874e674d7ea251969836de75fe93cd03aef05f326d90"
+      "bytes": 25730,
+      "sha256": "b3eccecfedeb4992371bee87a10c547290359870b04207892818d89b6b7ea47d"
     },
     {
       "file": "ja/category/life/index.html",
@@ -19439,8 +19489,8 @@
     },
     {
       "file": "ja/duplex-photocard/index.html",
-      "bytes": 29069,
-      "sha256": "6d72952c9ae3befc3de2100c9f19f924d1789eb92b79be1c8c3f2220c8891038"
+      "bytes": 29056,
+      "sha256": "1c3ff5c9b46d2bd3c9b7c319e2f670e1ce9b207259a10a80732fbcf5e7fc363e"
     },
     {
       "file": "ja/duration-unit-converter/index.html",
@@ -19464,8 +19514,8 @@
     },
     {
       "file": "ja/favicon-maker/index.html",
-      "bytes": 28408,
-      "sha256": "9183d675d7f6dab55e2fd685e40c81714dcb74caff8dac4b3da9d6be2a178cef"
+      "bytes": 28395,
+      "sha256": "393626f1713440f0550a8a02f247f48b6f28fef7982eb71303b06a5c2b42e978"
     },
     {
       "file": "ja/file-checksum/index.html",
@@ -19559,23 +19609,23 @@
     },
     {
       "file": "ja/image-convert/index.html",
-      "bytes": 25367,
-      "sha256": "9087e1d8f3c1bf9e8d8614f2c548ffeac57e22d1a1be0ed7445d854af8e2f1da"
+      "bytes": 26234,
+      "sha256": "7908adce3d602d28516abf1d7074d744b960fe68b74c2c8dcb99f0922762f25f"
     },
     {
       "file": "ja/image-crop/index.html",
-      "bytes": 28766,
-      "sha256": "be5fb432f70745ceee039a55b41b9057ba763bb1967881f02db09aac14373452"
+      "bytes": 28753,
+      "sha256": "36a6f2a1c042f80d17ab2c943486f978a10cecec81957bacebea31e6fe40c97e"
     },
     {
       "file": "ja/image-metadata/index.html",
-      "bytes": 26991,
-      "sha256": "484e2943809e62926de074a29ae72057c9beee35c7880dc5a12cb23df0c2c1c2"
+      "bytes": 26960,
+      "sha256": "5a5703e4305fa78ad86ce6792615c9f4babcaf5141b793189967ebe321392b2b"
     },
     {
       "file": "ja/image-ocr/index.html",
-      "bytes": 29239,
-      "sha256": "b47197780601b6386adb2adca5d650befa0c617ead4761ec0618adb492d204e9"
+      "bytes": 29226,
+      "sha256": "bd83a1b9d60591065ad04c411560f251e488f333f1facd38121202504e632b7e"
     },
     {
       "file": "ja/image-palette/index.html",
@@ -19589,18 +19639,18 @@
     },
     {
       "file": "ja/image-resize/index.html",
-      "bytes": 27939,
-      "sha256": "d2d07683124273cde0fbb20699fc9510af62c9fe576149b3de881695adb05578"
+      "bytes": 28034,
+      "sha256": "906d2abfb2a937308ff281bd060bdc4716e938fd369d8aac60ec25b6ae7313ac"
     },
     {
       "file": "ja/image-upscale/index.html",
-      "bytes": 30192,
-      "sha256": "baacfa648f72819f059f14989a46d4e44d1e81c36ab857dcb3e3b537bcd25973"
+      "bytes": 30148,
+      "sha256": "90417f9d06c9311e8baaf4e38f487473c14a6d27e44c704e5d10cb54b72354a0"
     },
     {
       "file": "ja/image-watermark/index.html",
-      "bytes": 27771,
-      "sha256": "9f922d3bc194b8acd21b964c5e9e75313cec61dd937bdc7f4f7d95f25975eab3"
+      "bytes": 27758,
+      "sha256": "01d2e064d03b11a599ff75e7c8cd23882fcfe636cfbf02882ae770bba65f5465"
     },
     {
       "file": "ja/images-to-pdf/index.html",
@@ -19609,8 +19659,8 @@
     },
     {
       "file": "ja/index.html",
-      "bytes": 182358,
-      "sha256": "8d44ebf6e6c0dc2100a4fff521e3d49243efdcb96a8ef0a8db391d3c1728f6bf"
+      "bytes": 182246,
+      "sha256": "f5cbf15497bdd9b6681c4ed94b686ce9a3935a103fe979bd891c39c755800ca2"
     },
     {
       "file": "ja/installment-compare/index.html",
@@ -19774,8 +19824,8 @@
     },
     {
       "file": "ja/pdf-organize/index.html",
-      "bytes": 25681,
-      "sha256": "6b51fc6967025f0c8deedfbc78734d398a8b11c81a4c8d41c90a1b4786a14557"
+      "bytes": 25668,
+      "sha256": "d604240370bd24fea3ee81ad1b9d404e8b1cb51101060b955de83441f11a7dd0"
     },
     {
       "file": "ja/pdf-page-numbers/index.html",
@@ -19789,8 +19839,8 @@
     },
     {
       "file": "ja/pdf-split/index.html",
-      "bytes": 27042,
-      "sha256": "ce8e6875941d0fd3af8b80a67bf42195fa5030c32ad55ecda1c5c4f5165fe11e"
+      "bytes": 27011,
+      "sha256": "fe53e2a3b4ad5d024734fe4e12d3f59bc5e16dfaf253d28c96ad9cbc903b0b2c"
     },
     {
       "file": "ja/pdf-text-extract/index.html",
@@ -20024,8 +20074,8 @@
     },
     {
       "file": "ja/signature-image/index.html",
-      "bytes": 28523,
-      "sha256": "ee186f4284bcdd59f6efe1761314c5b12aa682b715e7b0857127002ec1e16fa3"
+      "bytes": 28479,
+      "sha256": "f62dcacae86353a8a625de347f550caaaf64e840194cdc5090b15f5b95b2bdbb"
     },
     {
       "file": "ja/slug-generator/index.html",
@@ -20034,8 +20084,8 @@
     },
     {
       "file": "ja/social-image-pack/index.html",
-      "bytes": 39726,
-      "sha256": "2d93a92d2183ab8cbe7fbebf177bdeed8f081dce3c494196311ab58e86f197a5"
+      "bytes": 39713,
+      "sha256": "63f2f2158fe07a77c26d6f616b297864d4685debdf9384e68c1d459b4d3c75e2"
     },
     {
       "file": "ja/sort-lines/index.html",
@@ -20374,8 +20424,8 @@
     },
     {
       "file": "ko/background-remove/index.html",
-      "bytes": 30872,
-      "sha256": "2c8e9bf508fd97a1f8181be3d94915704090c75e0d32f1440df7582ee91dff0d"
+      "bytes": 30865,
+      "sha256": "19905049fda41a582f1611ba462e988f5acabaeb909bcb800a8520745d499511"
     },
     {
       "file": "ko/baking-pan/index.html",
@@ -20424,8 +20474,8 @@
     },
     {
       "file": "ko/category/image/index.html",
-      "bytes": 25651,
-      "sha256": "e38b9e674b19e6bf456b5fd8c9f288a7c8ba1efa9b72de40560982fde6619a7b"
+      "bytes": 25607,
+      "sha256": "788759f57e39ff54b40cd7dd9a8060862e82ac14f1541e53553331f643d31bba"
     },
     {
       "file": "ko/category/life/index.html",
@@ -20604,8 +20654,8 @@
     },
     {
       "file": "ko/duplex-photocard/index.html",
-      "bytes": 31871,
-      "sha256": "f296e37effb15b350200b49cc215bc533f9d8fbae5d6ea5eb3bc6df8ba2769c7"
+      "bytes": 31864,
+      "sha256": "e7a73a5e4f7944474c36c7f47bf1e9c77c5efb2fc3e81b7125d033cd2932478e"
     },
     {
       "file": "ko/duration-unit-converter/index.html",
@@ -20629,8 +20679,8 @@
     },
     {
       "file": "ko/favicon-maker/index.html",
-      "bytes": 30413,
-      "sha256": "e0c371dada14a2aede4d2b59c19659e189b2d99fb56b890d885e1dcac282a501"
+      "bytes": 30406,
+      "sha256": "e4e1bde3d95a3c6e986294d2176002d0c7ee2fd67ae461f5f80562671a2eacfa"
     },
     {
       "file": "ko/file-checksum/index.html",
@@ -20724,23 +20774,23 @@
     },
     {
       "file": "ko/image-convert/index.html",
-      "bytes": 27574,
-      "sha256": "8f216bb356cb1e4baf759d2bebf5ccffa82620abafd9986b96f7efaa2a699be5"
+      "bytes": 28690,
+      "sha256": "d2cab548892029f9369a98590d5adaf10898a8af6521c9b0353d23ebfa54ff3c"
     },
     {
       "file": "ko/image-crop/index.html",
-      "bytes": 30934,
-      "sha256": "081e2e9fe856471e2e1e2136de1dc4bcd933073cbd82eac53822310638be2afb"
+      "bytes": 30927,
+      "sha256": "7567f0f954ac6fb22f8b25c03ad886a58f1312f557c9bf9cb2f2a1385ade4d15"
     },
     {
       "file": "ko/image-metadata/index.html",
-      "bytes": 28867,
-      "sha256": "3b6a33f68e29db24433151d182a5b8aaf125d079a4cbff453d38c124cc49fd9b"
+      "bytes": 28852,
+      "sha256": "29a731a29fc495df97f34dc8ca172faa025327e3965ced1a9c892f026592a23f"
     },
     {
       "file": "ko/image-ocr/index.html",
-      "bytes": 31068,
-      "sha256": "5a62191bd10fda125a903b702ae7f66a72a348738d2186d58b6db437c1d259a4"
+      "bytes": 31061,
+      "sha256": "345d2be0c5db06b40cbe53da620ebb293b0750b173c536fe1a6d5a334b3c00dc"
     },
     {
       "file": "ko/image-palette/index.html",
@@ -20754,18 +20804,18 @@
     },
     {
       "file": "ko/image-resize/index.html",
-      "bytes": 30148,
-      "sha256": "26276f1e81e3e96ab11d77269408fa2619a7b01dbcd73d44dd969c31fb2ab91b"
+      "bytes": 30351,
+      "sha256": "7fca71cab37fab50238588e8c8eeffe96e5229807bf46cbc9aaabd4a97e758f4"
     },
     {
       "file": "ko/image-upscale/index.html",
-      "bytes": 32283,
-      "sha256": "2b0090f64af0b0a1d1bed21882b166504d69f1d9eb35f2bdccd438cb4e4d6ab2"
+      "bytes": 32261,
+      "sha256": "2250ce634dfcb16e937ff91726753b0c954ba1a23b1104630202362bb9a0f5a5"
     },
     {
       "file": "ko/image-watermark/index.html",
-      "bytes": 30070,
-      "sha256": "05fef3e948f4f4e8130aa9bd827c26a6b5ff126237ebd796cfd9aa38c6d35218"
+      "bytes": 30063,
+      "sha256": "f97bf5a33dd61507036b34926b9665d2eccb7849e8634372477bb4b08b7e50ff"
     },
     {
       "file": "ko/images-to-pdf/index.html",
@@ -20774,8 +20824,8 @@
     },
     {
       "file": "ko/index.html",
-      "bytes": 176019,
-      "sha256": "07274a6874ad6f8aa75900584c26a498a064b2460b0794a4856cb3134eb0d970"
+      "bytes": 175975,
+      "sha256": "f43b37151b7f8afcb4731c56894d12752c13a8f6fd7cac93512999fe04081e58"
     },
     {
       "file": "ko/installment-compare/index.html",
@@ -20939,8 +20989,8 @@
     },
     {
       "file": "ko/pdf-organize/index.html",
-      "bytes": 27655,
-      "sha256": "4ad1c5ec4cfe39efaf7f398ed0bdb451190f9b33eced207e7fd47417fdd8abe6"
+      "bytes": 27648,
+      "sha256": "547feec1c9da147fc05a861b1a2b032e994fb0280858c1febc0281043b0e13d1"
     },
     {
       "file": "ko/pdf-page-numbers/index.html",
@@ -20954,8 +21004,8 @@
     },
     {
       "file": "ko/pdf-split/index.html",
-      "bytes": 29365,
-      "sha256": "f7e17c72fee0d1833ce5ed9ad9d3c11b83778c79c0595ed906f3318a78ada69c"
+      "bytes": 29350,
+      "sha256": "c345b4ad6263b4b030bf1b8086f7b0963186202066acfb5464dd9511b4fc3a2a"
     },
     {
       "file": "ko/pdf-text-extract/index.html",
@@ -21189,8 +21239,8 @@
     },
     {
       "file": "ko/signature-image/index.html",
-      "bytes": 30679,
-      "sha256": "fb5e9de83bfb26bf5f75ec66b9a288fe3499e005b6a3b652b6b5168311dd899d"
+      "bytes": 30657,
+      "sha256": "13270cbf8ad0b7c5ea480359af2d12c06eb0ce0399386ebeef4b44bd0f482645"
     },
     {
       "file": "ko/slug-generator/index.html",
@@ -21199,8 +21249,8 @@
     },
     {
       "file": "ko/social-image-pack/index.html",
-      "bytes": 41781,
-      "sha256": "4a1bb628803c8b983c6a80b917c6bef11fa6c0e1646fa3d34b68686bef3c659d"
+      "bytes": 41774,
+      "sha256": "5b9d50b1f14e683bf82dadca3a8baeedd0e51a3027a4c09a06df46987fd0386c"
     },
     {
       "file": "ko/sort-lines/index.html",
@@ -22209,8 +22259,8 @@
     },
     {
       "file": "og/en/image-convert.png",
-      "bytes": 46537,
-      "sha256": "a9dd9d5d482c834c13410249edd7e47e6054c6d9d999169f95a1cc5e96add370"
+      "bytes": 47617,
+      "sha256": "7cc8554af1f26fcfd3cc595459b407ae280fcf83081a8356a3a2c5f921905180"
     },
     {
       "file": "og/en/image-crop.png",
@@ -22239,8 +22289,8 @@
     },
     {
       "file": "og/en/image-resize.png",
-      "bytes": 46516,
-      "sha256": "fd2426a26ff5f5a9105655224f0d83b320d3fc722334d57dfb0a658be34d9067"
+      "bytes": 46153,
+      "sha256": "555964063570f9bb79689fb2ed550bc62a72f0f05828e7bbf7a35d8990c50586"
     },
     {
       "file": "og/en/image-upscale.png",
@@ -23029,8 +23079,8 @@
     },
     {
       "file": "og/image-convert.png",
-      "bytes": 44340,
-      "sha256": "ea73b90e182d9f67eecd67a2d55090ddf4bd9462f8bf7a8e1f68f241449dd5b2"
+      "bytes": 43928,
+      "sha256": "89e4390dbe48e278c1a7969f4ff2c86c44d799b54e2595d0c47a1bc1b809f9c7"
     },
     {
       "file": "og/image-crop.png",
@@ -23434,8 +23484,8 @@
     },
     {
       "file": "og/ja/image-convert.png",
-      "bytes": 61719,
-      "sha256": "76bff32b75b99dba937b19b3261836d50fe92a456dca194616f1e4b0ae94a408"
+      "bytes": 55730,
+      "sha256": "11aa9e77cd8ba273c40d6325af95d3bc24e284055fbe6d0c7308d1dc42e2e1c1"
     },
     {
       "file": "og/ja/image-crop.png",
@@ -23464,8 +23514,8 @@
     },
     {
       "file": "og/ja/image-resize.png",
-      "bytes": 60861,
-      "sha256": "d85ff90511fd98b98b4612b1b84e66ffc6ac9ebf8bf293b5f2cb6ae248034997"
+      "bytes": 57860,
+      "sha256": "b4bc20546034d6e6a65c320fbda64f4420d9c21b515670ef2e795c088f240315"
     },
     {
       "file": "og/ja/image-upscale.png",
@@ -24514,8 +24564,8 @@
     },
     {
       "file": "og/ko/image-convert.png",
-      "bytes": 48259,
-      "sha256": "2a8e3ed3e75f35d5278e7db49237e07ffdf5a16810347e3256252343fa1feebb"
+      "bytes": 47130,
+      "sha256": "0833e51996cbc396e285072a0e4c05a90f7fcd03bd67e0b281555b966eb7d951"
     },
     {
       "file": "og/ko/image-crop.png",
@@ -24544,8 +24594,8 @@
     },
     {
       "file": "og/ko/image-resize.png",
-      "bytes": 47502,
-      "sha256": "ee8ab88f60d20664811056529508801f9256a9041d379de0881e84f76cd43050"
+      "bytes": 48029,
+      "sha256": "7c2d61cfb2245290585387f873dd4e834b63c6ff39df911fc07b4b465669a038"
     },
     {
       "file": "og/ko/image-upscale.png",
@@ -26195,7 +26245,7 @@
     {
       "file": "sitemap.xml",
       "bytes": 326292,
-      "sha256": "0a000ab20294f2bc058c0eb3dcf75ce2f176d5861764388ad40926a0e25615ab"
+      "sha256": "fd725314ed5ffe0b8a14bb1079e22d1cf0a51f1de98be8240e1be7099eea1b57"
     },
     {
       "file": "slug-generator/index.html",
