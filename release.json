@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-16T10:47:16.736Z",
+  "builtAt": "2026-10-16T15:21:59.658Z",
   "files": [
     {
       "file": "404.html",
@@ -1556,6 +1556,11 @@
       "file": "_astro/ImageMetadataPage.astro_astro_type_script_index_0_lang.BncUBuYG.js",
       "bytes": 7262,
       "sha256": "53a9c83a1323c0284aca2e2a06b7fac8b257349a50ee0d4f9878f5959daa05f8"
+    },
+    {
+      "file": "_astro/ImageMetadataPage.astro_astro_type_script_index_0_lang.C41MdEhe.js",
+      "bytes": 8903,
+      "sha256": "99b4e74590834ef59675a9366318256e2453384e734222a1a296ebbf244be17c"
     },
     {
       "file": "_astro/ImageMetadataPage.astro_astro_type_script_index_0_lang.CS-pAnt1.js",
@@ -3138,6 +3143,31 @@
       "sha256": "96cf308a72d445d2ff740a716900f640000a0a3920788da92d9f5523c6a88ca1"
     },
     {
+      "file": "_astro/c2pa-inspection.BTgRN0MM.js",
+      "bytes": 10376,
+      "sha256": "1fc2b64358ad108026c53bbe6dff8e584215ffc0f92551c803000bb50bf281ce"
+    },
+    {
+      "file": "_astro/c2pa_bg.CgB0FLjj.js",
+      "bytes": 59,
+      "sha256": "015758d93eeec064f3ad202e84a110a658b06e2808c08b5883fe58a6807bdc29"
+    },
+    {
+      "file": "_astro/c2pa_bg.DAnrFHtY.wasm",
+      "bytes": 8987699,
+      "sha256": "29e981f3c6c96e5500b476b5ba8970e631f7520b684b8f5610a356fd0238fa92"
+    },
+    {
+      "file": "_astro/c2pa_worker-CljcAcbh.js",
+      "bytes": 24169,
+      "sha256": "d8d24c25e6bd356be9e862a56784bcc091525986d0f1edbd71b07360968956ca"
+    },
+    {
+      "file": "_astro/c2pa_worker.D1ACA5mH.js",
+      "bytes": 61,
+      "sha256": "9c3ed1bb7c5726e447483ec9523841eb279707302f94bb9d42e45572e38f9118"
+    },
+    {
       "file": "_astro/calendar-search.worker-Cx_TDwDm.js",
       "bytes": 2411,
       "sha256": "04034c8c23c746c6b6b1444f97061c271bab8b10f12202bd5ee1a21497edc7c2"
@@ -3536,6 +3566,11 @@
       "file": "_astro/developer-workbench.worker-DvgHBFEF.js",
       "bytes": 2171,
       "sha256": "c055ca7f0ce98814047e5965f6e3089d762862a51d57af6a73c3f8eadd05328b"
+    },
+    {
+      "file": "_astro/dist.CbK1flJ5.js",
+      "bytes": 40019,
+      "sha256": "d35362fee81030ffba85fc2434bc0d69aae40b562b37c77b57bb2ab5a11499b8"
     },
     {
       "file": "_astro/document-scan.worker-BULrLoUs.js",
@@ -4564,8 +4599,8 @@
     },
     {
       "file": "en/category/image/index.html",
-      "bytes": 23652,
-      "sha256": "93f40bde534ef51e03b15529d00d1900e3d53567420a85d844cd3d39f010a7e0"
+      "bytes": 23584,
+      "sha256": "55e0fa56602806988732c8f17b08c737b1a4091a33aff91e1890fb7615969e85"
     },
     {
       "file": "en/category/life/index.html",
@@ -4879,8 +4914,8 @@
     },
     {
       "file": "en/image-metadata/index.html",
-      "bytes": 25422,
-      "sha256": "52d97b2dc292399f66f35253cdbd85fd739a32ba6e0419d400eabd3d5bd978f0"
+      "bytes": 29372,
+      "sha256": "bb8990b0516d43f5e15d5dcf86671221c8183c694ecfcb198b6feee6d0207b0b"
     },
     {
       "file": "en/image-ocr/index.html",
@@ -4894,8 +4929,8 @@
     },
     {
       "file": "en/image-redact/index.html",
-      "bytes": 26278,
-      "sha256": "79d65e320a61fbd22e6457a44ae1c148675e6ea0aaf1754a2c47dbadcdcb32b9"
+      "bytes": 26248,
+      "sha256": "468f9b8fca5013028ca6180e012bb0e9c831d02ee3fe749df1f185d9fe7d71be"
     },
     {
       "file": "en/image-resize/index.html",
@@ -4919,8 +4954,8 @@
     },
     {
       "file": "en/index.html",
-      "bytes": 171429,
-      "sha256": "a6cf755aef84f70221c6958b4fca7ad6710674a2941ff1b65fe44900ad37321e"
+      "bytes": 171361,
+      "sha256": "2ff5c4f4fa89429681805bafa86cc47000a9876ff5ef27466886041df025ded7"
     },
     {
       "file": "en/installment-compare/index.html",
@@ -10126,6 +10161,11 @@
       "file": "i18n/en/image-metadata.8d8368d64fec5f45.json",
       "bytes": 21139,
       "sha256": "8d8368d64fec5f4573462fa0eb00a78d9b1cdaa66288c6438b5369e57048382f"
+    },
+    {
+      "file": "i18n/en/image-metadata.8f66ff65aa8e51d8.json",
+      "bytes": 21413,
+      "sha256": "8f66ff65aa8e51d8062d0c3bd52aa64b1fb75daa7a8e697d7c95c113a52cf494"
     },
     {
       "file": "i18n/en/image-metadata.947c6620e24ec0ec.json",
@@ -21113,6 +21153,11 @@
       "sha256": "c203619872c6687016aae9f205562e9777a52953e38063d8a2ff7439d62d8748"
     },
     {
+      "file": "i18n/ja/image-metadata.c32434dec153f273.json",
+      "bytes": 23276,
+      "sha256": "c32434dec153f27378db8726a9f8e55fa8c6e3a0b46129f24d5357b8e7ebf893"
+    },
+    {
       "file": "i18n/ja/image-metadata.c61e4433b9faed55.json",
       "bytes": 24181,
       "sha256": "c61e4433b9faed5526706108b1d5cd74cac6abad1d53ffdb198bcef67139344a"
@@ -27689,8 +27734,8 @@
     },
     {
       "file": "ja/category/image/index.html",
-      "bytes": 25730,
-      "sha256": "e3066762df02d3005cd3641be2521d33b861e6c70e50cdabc53513acbda7974d"
+      "bytes": 25606,
+      "sha256": "92925e05628b7272d03af0991a8b15735fee7b98685d1bc60a88174ba0d6e84e"
     },
     {
       "file": "ja/category/life/index.html",
@@ -28004,8 +28049,8 @@
     },
     {
       "file": "ja/image-metadata/index.html",
-      "bytes": 26960,
-      "sha256": "26db12cc0b88c8749b4c51ecbf639447f2a536aa4bc746bd542c4629e06c2f68"
+      "bytes": 31439,
+      "sha256": "8a8d3e3c6b11450a360472af1976de6494abef24813d02fb899fca6df79d083c"
     },
     {
       "file": "ja/image-ocr/index.html",
@@ -28019,8 +28064,8 @@
     },
     {
       "file": "ja/image-redact/index.html",
-      "bytes": 27674,
-      "sha256": "5a998e898bc6958e3230202f6b681fbe9215c5c75d0e4e045b879bc754df739e"
+      "bytes": 27624,
+      "sha256": "baeed25700e9cf3e8848a7ce16667284dc80a81885a0befa7d3ecdb4316515b7"
     },
     {
       "file": "ja/image-resize/index.html",
@@ -28044,8 +28089,8 @@
     },
     {
       "file": "ja/index.html",
-      "bytes": 184200,
-      "sha256": "701cb1a497571703e39787d716eab579cde3f1ee84cc28623e4e2e90649d1b83"
+      "bytes": 184076,
+      "sha256": "2a923d4947175d8971d95fc51eccfd3a310c3c04a79c0c76705232fdc49877fc"
     },
     {
       "file": "ja/installment-compare/index.html",
@@ -28869,8 +28914,8 @@
     },
     {
       "file": "ko/category/image/index.html",
-      "bytes": 25607,
-      "sha256": "c4b5c0b451397ea3d979bb40634982133264cd553b136b16e57d4793a26ff60e"
+      "bytes": 25565,
+      "sha256": "fc9e5ea6c3e6abdc2328375c57bf14c6c8d11a027a9b19d9cf0fd96a5f425b33"
     },
     {
       "file": "ko/category/life/index.html",
@@ -29184,8 +29229,8 @@
     },
     {
       "file": "ko/image-metadata/index.html",
-      "bytes": 28852,
-      "sha256": "f398b63fe2c704a3231b8e70f30900e6b9591e51f37f0987c8ce08263c10f94f"
+      "bytes": 33646,
+      "sha256": "48fa8d589ad8b032bc111af9d8430ad3e4435ebba7089e45f608f93f299f8c2b"
     },
     {
       "file": "ko/image-ocr/index.html",
@@ -29199,8 +29244,8 @@
     },
     {
       "file": "ko/image-redact/index.html",
-      "bytes": 29985,
-      "sha256": "4667a0744acc3e028b771de4edf18c3f83d38c02b62fd11056e4a5b4686cfae9"
+      "bytes": 29964,
+      "sha256": "b3a0e840efa465543daa33c584f4853d5319ebda6ca625e7f10ddcb5b58c3789"
     },
     {
       "file": "ko/image-resize/index.html",
@@ -29224,8 +29269,8 @@
     },
     {
       "file": "ko/index.html",
-      "bytes": 178044,
-      "sha256": "cb83372cbe84f551d14467d46482347c9365fee175bd0f1df190b0caf9b6f803"
+      "bytes": 178002,
+      "sha256": "b438c4e23d98611a29b29a199aaa0df44cf67891be58e62daaec0bbcae1a5129"
     },
     {
       "file": "ko/installment-compare/index.html",
@@ -30679,8 +30724,8 @@
     },
     {
       "file": "og/en/image-metadata.png",
-      "bytes": 47937,
-      "sha256": "17a2ad533a05e3c49df63e59e9f97180bdedbf458e266e5e096468256bcc57c3"
+      "bytes": 48872,
+      "sha256": "cf3cec7ffc2245a5863ce40a677bc290511d4dc92b8fb6bb4aaad48a60b0b288"
     },
     {
       "file": "og/en/image-ocr.png",
@@ -31509,8 +31554,8 @@
     },
     {
       "file": "og/image-metadata.png",
-      "bytes": 42693,
-      "sha256": "7486406b0dabffea779631be5cf9d4c50fb73ed423de73e10b178fbea5a58334"
+      "bytes": 51357,
+      "sha256": "ff4e9a22d759fbf493a38957079ed7752b11e5ea11317b45668972a5d7ac4b1e"
     },
     {
       "file": "og/image-ocr.png",
@@ -31919,8 +31964,8 @@
     },
     {
       "file": "og/ja/image-metadata.png",
-      "bytes": 59080,
-      "sha256": "e474337689b26c6eeec2125d5e3e842a7263617ad16094647752d18490f56c47"
+      "bytes": 60402,
+      "sha256": "2c7995f1e40067eb2293ccaf715e19553c09aef77b370e8895cf346a51c7f7af"
     },
     {
       "file": "og/ja/image-ocr.png",
@@ -33014,8 +33059,8 @@
     },
     {
       "file": "og/ko/image-metadata.png",
-      "bytes": 48343,
-      "sha256": "d610c0ed4dda9464814af3f1fd47287126d345384e80381501999e2173204387"
+      "bytes": 52472,
+      "sha256": "121f5b0cb91ff890d26051a468379784e6fc3ea2883595ca3a1584d6c70aa6ce"
     },
     {
       "file": "og/ko/image-ocr.png",

@@ -1,0 +1,1 @@
+var e=`/_astro/c2pa_worker-CljcAcbh.js`;export{e as default};

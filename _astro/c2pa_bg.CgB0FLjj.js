@@ -1,0 +1,1 @@
+var e=`/_astro/c2pa_bg.DAnrFHtY.wasm`;export{e as default};
