@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-16T03:35:44.339Z",
+  "builtAt": "2026-10-16T04:16:44.801Z",
   "files": [
     {
       "file": "404.html",
@@ -428,6 +428,11 @@
       "sha256": "474d3d4a675a9f927972c402c940b87163554e618b01b9a87d04ae6d7b8e4969"
     },
     {
+      "file": "_astro/CsvWorkbenchPage.2v14aOxp.css",
+      "bytes": 5322,
+      "sha256": "22e99463ae11e1b40db7b052466dd324702b6704ddff6fd4f7c39d6839bb981a"
+    },
+    {
       "file": "_astro/CsvWorkbenchPage.DT1XAtBs.css",
       "bytes": 4707,
       "sha256": "af6510113d058303afb52f09f6d577e7c03dca39f315c8cc6547cf2840ddc118"
@@ -468,6 +473,11 @@
       "sha256": "80436c470f1b83f4e292c77a7cc2a71da23d6f9d36a248fdd4d495a5bd9a6779"
     },
     {
+      "file": "_astro/CsvWorkbenchPage.astro_astro_type_script_index_0_lang.CULanj58.js",
+      "bytes": 11950,
+      "sha256": "d8924f8846d4d376c7e53090643d990d5c1798f56c31ccf467ae0213819a7bad"
+    },
+    {
       "file": "_astro/CsvWorkbenchPage.astro_astro_type_script_index_0_lang.D2FuR9M6.js",
       "bytes": 10210,
       "sha256": "abb08aafd31d77ee00c550095a576329fe5cd574bce0c2af874935f6740ca806"
@@ -481,6 +491,11 @@
       "file": "_astro/CsvWorkbenchPage.astro_astro_type_script_index_0_lang.DEJxtKIT.js",
       "bytes": 10210,
       "sha256": "c9fc4b8a04900f4bc5c9ec34e6ba21ce0df7b8d2cabb1b167a0c08a01e83eeca"
+    },
+    {
+      "file": "_astro/CsvWorkbenchPage.astro_astro_type_script_index_0_lang.DsqapvAV.js",
+      "bytes": 11950,
+      "sha256": "f0add48def7c64ce3ba3851f8218026a97a468f4de9f14e5d22635a486ce0989"
     },
     {
       "file": "_astro/CsvWorkbenchPage.astro_astro_type_script_index_0_lang.DwrYz0Bx.js",
@@ -3204,8 +3219,8 @@
     },
     {
       "file": "en/category/developer/index.html",
-      "bytes": 34121,
-      "sha256": "d1bcca5e6a62c6932c8c944ee881ddf424dd1445c3654025902efbfe6f8fa99f"
+      "bytes": 34211,
+      "sha256": "e6e5558f8e2f3ee97548eccb3873c1475d8b50d89f1b8ed7b4917462aa7463aa"
     },
     {
       "file": "en/category/file/index.html",
@@ -3339,13 +3354,13 @@
     },
     {
       "file": "en/csv-to-json/index.html",
-      "bytes": 20719,
-      "sha256": "949300c60b2c86f7f098d97e67cf1169a183e01e4e77555a5efdcad714b2d322"
+      "bytes": 20774,
+      "sha256": "1b8467301bad91f36a69c5e4f67716bb6c3b93cbf6dd4e2cb30bc69b6e6e1a6d"
     },
     {
       "file": "en/csv-viewer/index.html",
-      "bytes": 26837,
-      "sha256": "b003362ea7c7c3392e38018db4bb9235a0979f39b124c6d484e1488bf9d58f9b"
+      "bytes": 29000,
+      "sha256": "8d232bd6272c53bc17c6fcc08db2285a05718dc34fe7d21c5b3ed304644faa33"
     },
     {
       "file": "en/currency-budget/index.html",
@@ -3564,8 +3579,8 @@
     },
     {
       "file": "en/index.html",
-      "bytes": 169270,
-      "sha256": "8c2a8d6cad438685d36e4e70f27910c209d0a1fb7c0e25fd0e3b917aa6def999"
+      "bytes": 169360,
+      "sha256": "4d04639c88871dd92504b8e6ce0bbe6bc843abc19bad0e23e15d744a62ac2e54"
     },
     {
       "file": "en/installment-compare/index.html",
@@ -3589,8 +3604,8 @@
     },
     {
       "file": "en/json-to-csv/index.html",
-      "bytes": 20822,
-      "sha256": "3e7b335ad72df8edffa53b9e6afcbbc2bc0b12fa24b2ac3bd8ccf7beca03c445"
+      "bytes": 20877,
+      "sha256": "e557fbd6d362e1cc20cc383d36a3ee4cabc1b9207f647c390fcc04bcbf589e67"
     },
     {
       "file": "en/jwt-inspector/index.html",
@@ -6111,6 +6126,11 @@
       "file": "i18n/en/csv-to-json.json",
       "bytes": 82375,
       "sha256": "129c99556da25bedd112889d4bb2187c193718422f7f342d27bd0d45c0c1a37a"
+    },
+    {
+      "file": "i18n/en/csv-viewer.360534d466700a57.json",
+      "bytes": 21206,
+      "sha256": "360534d466700a5782298ed56aab5ce82974d125470cb6c506a38a4fadfffec2"
     },
     {
       "file": "i18n/en/csv-viewer.4965b328c54e762a.json",
@@ -13793,6 +13813,11 @@
       "sha256": "4e130cc14b1a2e4d64b4f737eacb64cd1d923a3247b1e1011742d3c0d3efcc54"
     },
     {
+      "file": "i18n/ja/csv-viewer.67019a7af5ad68c6.json",
+      "bytes": 23131,
+      "sha256": "67019a7af5ad68c674edc8ad4e334bfc49e2d738594d9ddf8aeeafc7b6fbdcf6"
+    },
+    {
       "file": "i18n/ja/csv-viewer.70155930b55b66b2.json",
       "bytes": 21327,
       "sha256": "70155930b55b66b2226c9ceed49b7e32ada6ed7b82c8fac045c0207882e66e23"
@@ -19299,8 +19324,8 @@
     },
     {
       "file": "ja/category/developer/index.html",
-      "bytes": 37284,
-      "sha256": "fddc5a50a794ce42d516db928551d9de2347cdf72ab6da59f7e992fb1e1d0590"
+      "bytes": 37338,
+      "sha256": "24a74c488f519f6e1528d0cd99ddf8819780726bb625ff76f4a7a77aaa89d927"
     },
     {
       "file": "ja/category/file/index.html",
@@ -19434,13 +19459,13 @@
     },
     {
       "file": "ja/csv-to-json/index.html",
-      "bytes": 22112,
-      "sha256": "322f0e32de2c36bad1b2c37a159356c09cd9463bf68dfd0cd83fe4b094e6e5c9"
+      "bytes": 22141,
+      "sha256": "4dc3feb6c98ebc054bb388c08043c6b0671af9b0e688662bc80f17ba361a0675"
     },
     {
       "file": "ja/csv-viewer/index.html",
-      "bytes": 28890,
-      "sha256": "209faea96c2d99f26b9d0731dcceb8ce871343ba6cde78e9b6bebe97ff709e8e"
+      "bytes": 31783,
+      "sha256": "f5724e4bf5b3223c8bc51be74b1fa12a28ecbba0c7878021eb1ffaaf265bc2a5"
     },
     {
       "file": "ja/currency-budget/index.html",
@@ -19659,8 +19684,8 @@
     },
     {
       "file": "ja/index.html",
-      "bytes": 182246,
-      "sha256": "f5cbf15497bdd9b6681c4ed94b686ce9a3935a103fe979bd891c39c755800ca2"
+      "bytes": 182300,
+      "sha256": "377079e1d07ca768620de3cb3eddad04d30e00c645f4d077ca65ea5c94c02c24"
     },
     {
       "file": "ja/installment-compare/index.html",
@@ -19684,8 +19709,8 @@
     },
     {
       "file": "ja/json-to-csv/index.html",
-      "bytes": 22189,
-      "sha256": "2ea0348a1c59bc8e4d3cf6ef426f64f3fcaea367f2f681e75effbc4f3c0c8abe"
+      "bytes": 22218,
+      "sha256": "e331f67eba942b67c65a2e0606235372cb3c11774cb3fb69589d0a46cecd0a0c"
     },
     {
       "file": "ja/jwt-inspector/index.html",
@@ -20464,8 +20489,8 @@
     },
     {
       "file": "ko/category/developer/index.html",
-      "bytes": 36253,
-      "sha256": "356e4d12ccec194a1176a350b31d3a7bbc3ec4c287f4c5d6c4d739080dd188e5"
+      "bytes": 36289,
+      "sha256": "3c25cc9dd0f234fc0aef5ed54e79cf873b5b0c6ec0b177b6eaace6b8dd1e4602"
     },
     {
       "file": "ko/category/file/index.html",
@@ -20599,13 +20624,13 @@
     },
     {
       "file": "ko/csv-to-json/index.html",
-      "bytes": 23954,
-      "sha256": "667d7c5abed94ba6fa96199e944e1fd47636bd90243b3bfac03e8868e52d47b2"
+      "bytes": 23972,
+      "sha256": "ba00562169965883ae9a857f2fe9f1a4a452394018dbd1c17b626cde77fc44ec"
     },
     {
       "file": "ko/csv-viewer/index.html",
-      "bytes": 30635,
-      "sha256": "7ab53f7cd09bb9b55f973616ef54866fe77a86b1befe532125d98404ec68a29f"
+      "bytes": 33249,
+      "sha256": "b668b1fb69903530f514ae86ae6f1b37b2bfb4a6f0c2c1be19782099a3ca1a4c"
     },
     {
       "file": "ko/currency-budget/index.html",
@@ -20824,8 +20849,8 @@
     },
     {
       "file": "ko/index.html",
-      "bytes": 175975,
-      "sha256": "f43b37151b7f8afcb4731c56894d12752c13a8f6fd7cac93512999fe04081e58"
+      "bytes": 176011,
+      "sha256": "493a6d85d5795ad3294c1e6196595d953897215b925b9a0156bba61957138491"
     },
     {
       "file": "ko/installment-compare/index.html",
@@ -20849,8 +20874,8 @@
     },
     {
       "file": "ko/json-to-csv/index.html",
-      "bytes": 23978,
-      "sha256": "198c46a65b78b8079590a674c4c3841f276a987ffbe57c37847c3084bf1cfdff"
+      "bytes": 23996,
+      "sha256": "85abbc83fbae1409be42ef5e719610153dc8082a983b9ad17a6ab8e64ab70dd5"
     },
     {
       "file": "ko/jwt-inspector/index.html",
@@ -21854,8 +21879,8 @@
     },
     {
       "file": "og/csv-viewer.png",
-      "bytes": 48932,
-      "sha256": "87f034bdb7cc487573f6ddfe018b5ad2f45e07fba72df809b2ac3067d5ab136b"
+      "bytes": 52849,
+      "sha256": "601b9bbab6206f0461f7414d105f36fe445dda174be200a68187a3512c3425e0"
     },
     {
       "file": "og/currency-budget.png",
@@ -22094,8 +22119,8 @@
     },
     {
       "file": "og/en/csv-viewer.png",
-      "bytes": 47249,
-      "sha256": "c1ba4591a43616172b834f5b9f68f2997596f2cb40179e6c9dc40edbf9608269"
+      "bytes": 48559,
+      "sha256": "607ff0873a9225037a22ee05e05789c256e05c9539e543cfc74ba6d650c03720"
     },
     {
       "file": "og/en/currency-budget.png",
@@ -23319,8 +23344,8 @@
     },
     {
       "file": "og/ja/csv-viewer.png",
-      "bytes": 62002,
-      "sha256": "90cd7e8b4d2a8ee43e086428519b0f83bc80d422935a52d546e32d2ac269116b"
+      "bytes": 68987,
+      "sha256": "3bdd8c09bc1c66debcab20be545e7f66790e9b756d3b09e3d854cd3743b5835a"
     },
     {
       "file": "og/ja/currency-budget.png",
@@ -24399,8 +24424,8 @@
     },
     {
       "file": "og/ko/csv-viewer.png",
-      "bytes": 50059,
-      "sha256": "94d8b1f02c79eed32ce96e36e5b0cddb5f83ff256ed88354e6ecaa7e9f8bf9fd"
+      "bytes": 53904,
+      "sha256": "f92e8b371d88230438709c45dc38ec74c84f66d83a2f891ce65447512a1b6cfb"
     },
     {
       "file": "og/ko/currency-budget.png",
@@ -26245,7 +26270,7 @@
     {
       "file": "sitemap.xml",
       "bytes": 326292,
-      "sha256": "fd725314ed5ffe0b8a14bb1079e22d1cf0a51f1de98be8240e1be7099eea1b57"
+      "sha256": "9a803e8420a87293d6129f80024182a4e4098f5533aaf5769235a59c1460a463"
     },
     {
       "file": "slug-generator/index.html",
