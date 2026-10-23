@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["_astro/data.Bx0TtPc_.js","_astro/next-tool.D1mtC7zV.js","_astro/analytics.ByjYHMoJ.js","_astro/csv-merge.ByUteGUK.js","_astro/developer-workbench.CEXcaKR0.js"])))=>i.map(i=>d[i]);
+import{t as e}from"./next-tool.D1mtC7zV.js";import{t}from"./preload-helper.oCYlU9a4.js";e(()=>t(()=>import(`./data.Bx0TtPc_.js`),__vite__mapDeps([0,1,2,3,4])));
