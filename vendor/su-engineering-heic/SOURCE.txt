@@ -1,0 +1,4 @@
+Package: @su-engineering/heic 0.2.0
+Source: https://github.com/su-engineering/heic-web/tree/v0.2.0
+This application uses the MIT-licensed browser parser and native/WebCodecs decoding paths.
+The optional libheif WASM adapter is not included.
