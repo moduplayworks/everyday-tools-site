@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "builtAt": "2026-10-23T07:29:24.172Z",
+  "builtAt": "2026-10-23T08:14:58.273Z",
   "files": [
     {
       "file": "404.html",
@@ -5413,6 +5413,11 @@
       "sha256": "00c59423c5c090848d149f8ec1275e60d62e6d5e60a7404de5614d3bdceb28e0"
     },
     {
+      "file": "_astro/PdfCompressPage.astro_astro_type_script_index_0_lang.DDOPVLDP.js",
+      "bytes": 6314,
+      "sha256": "dc76b9a496a38e2d4e21ae59d1d4fbc067a75c4cc256e82bc1eea9237cea0b74"
+    },
+    {
       "file": "_astro/PdfCompressPage.astro_astro_type_script_index_0_lang.DDowhg3h.js",
       "bytes": 6305,
       "sha256": "9b09517064607e3bb7112b9316aa252102384afebbaa174cbde024216d103c5e"
@@ -5506,6 +5511,11 @@
       "file": "_astro/PdfCompressPage.astro_astro_type_script_index_0_lang._6h1ix8L.js",
       "bytes": 6305,
       "sha256": "9c1f88d0e354144083f93a32786bfb836b41241a67b19aaed4c81ee8d683c381"
+    },
+    {
+      "file": "_astro/PdfCompressPage.astro_astro_type_script_index_0_lang._ysy-gb0.js",
+      "bytes": 6314,
+      "sha256": "8933867fc5290b26644131fcef6e542c674d2ca6c08d70e8e3da1ca76063dfcc"
     },
     {
       "file": "_astro/PdfCompressPage.astro_astro_type_script_index_0_lang.fePdIi7w.js",
@@ -6013,9 +6023,19 @@
       "sha256": "6413c12bc55f4ce575f95376e7076a376b9a837b9948371c56a3172b7f1dc0bc"
     },
     {
+      "file": "_astro/PdfRedactPage.astro_astro_type_script_index_0_lang.AT6xH3Is.js",
+      "bytes": 5293,
+      "sha256": "5017fdb5ed1b7472b1ff8961105ec17acac53fb7963aef6854c43909d02031c3"
+    },
+    {
       "file": "_astro/PdfRedactPage.astro_astro_type_script_index_0_lang.CqTpUXPf.js",
       "bytes": 5293,
       "sha256": "ca2ea6dca2f8ee99c988fec76c79f59dea28588ac49c5243d0c229beaba05977"
+    },
+    {
+      "file": "_astro/PdfRedactPage.astro_astro_type_script_index_0_lang.Dbc2GlW0.js",
+      "bytes": 5293,
+      "sha256": "390bd19eff0122388c23135cff4f3523464d80b3f50a16afa93bebb7b555fa4f"
     },
     {
       "file": "_astro/PdfRedactPage.astro_astro_type_script_index_0_lang.KQV8z0pa.js",
@@ -7801,6 +7821,11 @@
       "file": "_astro/ToolDirectory.astro_astro_type_script_index_0_lang.Dv5MrQNQ.js",
       "bytes": 2251,
       "sha256": "fe5904b411840d2427cde2a46180bfc57a98ed83643e0ec10d97cd230d14ec16"
+    },
+    {
+      "file": "_astro/ToolDirectory.astro_astro_type_script_index_0_lang.w3k466jk.js",
+      "bytes": 2697,
+      "sha256": "6d0599fb1a688a87af2745dd661e7eb96c3698a0d8613480def220328a223d60"
     },
     {
       "file": "_astro/VideoTrimPage.astro_astro_type_script_index_0_lang.28TuzMFy.js",
@@ -10108,6 +10133,16 @@
       "sha256": "871f61ed7fbda77f8e57a9b8bd36afc4631cc9d41540e7cf13af2117296d40b5"
     },
     {
+      "file": "_astro/pdf-redact-engine.B1dIB_zR.js",
+      "bytes": 2088,
+      "sha256": "efdc7765a948664ea050071482a48f9f90ac13267a0ee73aa111cdd1366de88f"
+    },
+    {
+      "file": "_astro/pdf-redact-engine.BGFzWSCO.js",
+      "bytes": 2088,
+      "sha256": "64095c0e49e244a3015408fb41a1862eac4b1a7e8a4f84c65cf7a2936e03dc79"
+    },
+    {
       "file": "_astro/pdf-redact-engine.Cz0Njc-h.js",
       "bytes": 2088,
       "sha256": "86239e9f83c2b4afdb244175e2926428d8973cd83220c820e20d879cc51d6556"
@@ -11040,42 +11075,42 @@
     {
       "file": "en/category/developer/index.html",
       "bytes": 42727,
-      "sha256": "b0ae6396721c29016d9a3819dac701da6a64e8f7a8e2148dcb8b2cb69d3a82ed"
+      "sha256": "d1f3b0fb1738a8945d26318a14b88f22adae0c3c88fb05c5e362aa7b62e2d94d"
     },
     {
       "file": "en/category/file/index.html",
       "bytes": 15408,
-      "sha256": "7131015fe4c0e67fa02cd3a48677c0dc3127b3e3975f013619bdadd010a418ea"
+      "sha256": "859ad061041bbbe486e49df6c644e5448bef9079016b3c165c7e425e4fcacbfc"
     },
     {
       "file": "en/category/image/index.html",
       "bytes": 28362,
-      "sha256": "f41117697c86b76e7577b6fad1e154f549fe47b458eaf7849a927252d2222439"
+      "sha256": "2a91ea8d2ce4a30ade249153a6469aadda8892b77279e929a854de2b7b905236"
     },
     {
       "file": "en/category/life/index.html",
       "bytes": 37917,
-      "sha256": "ebe3cf70b0b7f1aa73d0a16c7413dce3631aa9d785720147a15238cc06b30cbe"
+      "sha256": "e37a58d9d37d0a15a24f486ae6123ce1a1a7853d140788d6481b8ff4c200cc48"
     },
     {
       "file": "en/category/math/index.html",
       "bytes": 35512,
-      "sha256": "f5995d75ee9a009b1535c57fe9db27cd1e07150db616956f8afba06ad86418cf"
+      "sha256": "190c4ccbf081e9cd3dd5b4de67550d2c94d378495367876407cbf881706242e0"
     },
     {
       "file": "en/category/media/index.html",
       "bytes": 22571,
-      "sha256": "d64f862bed0b9a0283610635dae13fd4c1938f314fe09da6852da0c02d9842f5"
+      "sha256": "163a44e0c84862572ff5681c18cda4ef6d188162d2f190c61b503653ffaad1ed"
     },
     {
       "file": "en/category/pdf/index.html",
       "bytes": 24647,
-      "sha256": "33860c819e90de9d997cf31a20da97a2f5399b8d3d88a659339141a8cc33dfba"
+      "sha256": "46e3487a29c4ccd031f80535ab7ce2a6a2b2ca540efd3f654c1e23bc1cc4def2"
     },
     {
       "file": "en/category/random/index.html",
       "bytes": 16881,
-      "sha256": "580b434a35318622269d5f2379b5e0bb4546d0a81da43c5e897f7c0d4a81dc6b"
+      "sha256": "cd56d2f49d2b3a129bd2d386e4d58831f004889b887916c5730fdfe6b5f60120"
     },
     {
       "file": "en/category/study/index.html",
@@ -11090,12 +11125,12 @@
     {
       "file": "en/category/time/index.html",
       "bytes": 23331,
-      "sha256": "4761275e258b6b2c8e044c9f223e7a0efaeb790055d673af13bb306c46155589"
+      "sha256": "cae50d447fa5e89e44fa7bf28cf3d45dd5d9235ba4d6d9b1026092da57562cda"
     },
     {
       "file": "en/category/unit/index.html",
       "bytes": 22737,
-      "sha256": "7add444d1f2c81c3dfad3f1dbfbee3838e00fd4c6ebf5f743ab6e009635e5160"
+      "sha256": "1df40a0919ab0c52419274518881d9612b6b78dc14a5b856538a05a270bbfc84"
     },
     {
       "file": "en/character-count/index.html",
@@ -11425,7 +11460,7 @@
     {
       "file": "en/index.html",
       "bytes": 191583,
-      "sha256": "8eeb7745dfd1137d76ea6801cafc7a328f5a67a3deb18fbfe44a970b4c7ed09a"
+      "sha256": "4109852ed3d5c3cea36be9bbab322cb87ad92953dced63213a2f4cb200b12ecf"
     },
     {
       "file": "en/installment-compare/index.html",
@@ -11595,7 +11630,7 @@
     {
       "file": "en/pdf-compress/index.html",
       "bytes": 30658,
-      "sha256": "fd64aff68ea403ec0cba15be8bba669a5621d7161c8b07085a3c4266ef817e74"
+      "sha256": "9f7b23c84b0f575bc527b78e2adb4136f849f8534ed8ca7cf95d15364a8c1050"
     },
     {
       "file": "en/pdf-fill-form/index.html",
@@ -11620,7 +11655,7 @@
     {
       "file": "en/pdf-redact/index.html",
       "bytes": 26243,
-      "sha256": "57f5c0666fbad35b2380c038144ecfec488676dfb5a62939a44e0f061b2dd9d0"
+      "sha256": "5d92ad4cc5940633ab64c09568136a83b744f92812e2737789338d31a8dca357"
     },
     {
       "file": "en/pdf-sign/index.html",
@@ -65020,42 +65055,42 @@
     {
       "file": "ja/category/developer/index.html",
       "bytes": 46798,
-      "sha256": "eb9117956aa425ea1dda28aeed1ee615e091cbe55461fc76ed232608b37ecc3b"
+      "sha256": "d8d871aa7487246da420e7442bc31f4283a6bf24c656dd40cde73f1d2f47d117"
     },
     {
       "file": "ja/category/file/index.html",
       "bytes": 16479,
-      "sha256": "c113582a9ddd668f74119d0935be348c8eeaba67aa8a43212572858f79e7e092"
+      "sha256": "c54bb5f421cce55c0b33f18d5cc6ef94c82c2db9dedb81b65db00fdc10cb2d7b"
     },
     {
       "file": "ja/category/image/index.html",
       "bytes": 30900,
-      "sha256": "f7f1630b10a365a5d40b78ca2967150b0fa7a0ad0873c5a82e23a8006fde5c33"
+      "sha256": "aec797559591a736290c3941c6c2bf9c93852a8b3272fd8e2c3d9078b02eeb4d"
     },
     {
       "file": "ja/category/life/index.html",
       "bytes": 40062,
-      "sha256": "4e213799ea765c1b02639a2a890f4583839981eef1459ea6d0828989734a0f63"
+      "sha256": "593653b1f6ed48f0687d55492cd6386be850baa66c94949b1527e5d993bee723"
     },
     {
       "file": "ja/category/math/index.html",
       "bytes": 35794,
-      "sha256": "342c39e8b760cd5746b9738340f181356963f432597eef417a5d9aa0136820f5"
+      "sha256": "e9ceba350a1a28a71f4a73cc04285083496e717c9d0c7f769a4c920dd1bb465c"
     },
     {
       "file": "ja/category/media/index.html",
       "bytes": 25287,
-      "sha256": "c711a156f90682e4aa7616eae5cb0d96ddeb56cb4fb821455282b47ab6e8742e"
+      "sha256": "74f87c4e7e4f3a923e9f8c3ed16c3e8ccf96b836bc5f4722840a01ff52057e02"
     },
     {
       "file": "ja/category/pdf/index.html",
       "bytes": 27170,
-      "sha256": "d6c8bb04a54982aa4eb312208e169a57938e0426b7ae49ca1cbcfa26b66948a7"
+      "sha256": "324728aae859899a32c43296af09389bc57808d3f4429624ddaa4499586ab80c"
     },
     {
       "file": "ja/category/random/index.html",
       "bytes": 17640,
-      "sha256": "d38f9016554f11f6d9ee3d161863c5f873890f472c698c976e9f44604f49981c"
+      "sha256": "68a6674bf71b3cc934d342da882b1d03df879ceff07a3cd4105dc25166b638fc"
     },
     {
       "file": "ja/category/study/index.html",
@@ -65070,12 +65105,12 @@
     {
       "file": "ja/category/time/index.html",
       "bytes": 24853,
-      "sha256": "424f8f77b79612024ec1d2a1362f7ee0ffcbd5fa6a405614873d04dd1baabf4b"
+      "sha256": "eed02d2cf5f053b0d8e368e215d3d0010a631b3c67dc4f18d50fc68c819f7442"
     },
     {
       "file": "ja/category/unit/index.html",
       "bytes": 23594,
-      "sha256": "43af037093411d1da059a6e461b72eede8104ab861fcc04e05df4774fe049cb5"
+      "sha256": "5561e3d4d1a3bcbf4cc3fcdfe03035c4dda120a7aa2cc3c3168df185f97a4fec"
     },
     {
       "file": "ja/character-count/index.html",
@@ -65405,7 +65440,7 @@
     {
       "file": "ja/index.html",
       "bytes": 207240,
-      "sha256": "8adb1a1d6cdcd22a574b754d34fb47bc4244764fe4af4ffd79ddaf92af42c024"
+      "sha256": "a44adfe49ab7ac8ecc83591c5f74886c0ca87b855325d516e6f7050a07e06d50"
     },
     {
       "file": "ja/installment-compare/index.html",
@@ -65575,7 +65610,7 @@
     {
       "file": "ja/pdf-compress/index.html",
       "bytes": 33494,
-      "sha256": "d68bc2866771c0653456f9b79a3ff31d2f66ca4fd473bdac2915d79198c10ca5"
+      "sha256": "e31ff7ce8bc1b2413f6fafcc184c817b308465057d75091591064491110aff31"
     },
     {
       "file": "ja/pdf-fill-form/index.html",
@@ -65600,7 +65635,7 @@
     {
       "file": "ja/pdf-redact/index.html",
       "bytes": 27720,
-      "sha256": "49a262f02bd8a7dd114bd2ec182d65024acbaa9a4207607d540f935929635175"
+      "sha256": "0a56223d2cbb62210b6d4faf3ffadad7d1421f4402a681c6e0f05ca0a5b0441d"
     },
     {
       "file": "ja/pdf-sign/index.html",
@@ -66280,42 +66315,42 @@
     {
       "file": "ko/category/developer/index.html",
       "bytes": 44301,
-      "sha256": "9e842a0a7d18596b8f66a1d0fb940382b5c043fc6b6dbe0f93740300b058ecfe"
+      "sha256": "a8b7b9c85e42ae50e4f1fc9a2c411bb3014b3b17adac7186423875c536dd618e"
     },
     {
       "file": "ko/category/file/index.html",
       "bytes": 15455,
-      "sha256": "9b9e17f4eddbd6f0e845c6fb13145a80cd3c5c323b6f1e6ef34693c0e5a98516"
+      "sha256": "69408f5eaf316f59e6e1745248a92021395159b965d9afbe649da4920d772a18"
     },
     {
       "file": "ko/category/image/index.html",
       "bytes": 29911,
-      "sha256": "142f7c128e05cb626378d01137514106b204ebc743df06650a0037e1a4cd27ce"
+      "sha256": "f91e47f5bfcab72a3ae4f6411e73817604ac08fe61b5550e1f896868bf3b7789"
     },
     {
       "file": "ko/category/life/index.html",
       "bytes": 38929,
-      "sha256": "135fdc869773a598901c0f74eb11c13c4244be24fc620946213664ba5177490a"
+      "sha256": "d269b7de78fadf372d09f21c86e52205546829f7c622996e8bf6d2f7981e4912"
     },
     {
       "file": "ko/category/math/index.html",
       "bytes": 35059,
-      "sha256": "f2b775e3c72f02d5f332d6f6650d72a0eca13a990149e2f45aec8f5519a873fa"
+      "sha256": "e0af678f5f74040bb11888f02a0ac165bb6349fa9c16bbd187d3fef1a19252e5"
     },
     {
       "file": "ko/category/media/index.html",
       "bytes": 24152,
-      "sha256": "f9e2c62e637a54e5119b4e940a70ddf340a491084f812a916a19412b76ff7fba"
+      "sha256": "f033cf3012b758bca58163f61e337eddbc3ea980f7071b1fd1d4a734ae32b930"
     },
     {
       "file": "ko/category/pdf/index.html",
       "bytes": 26069,
-      "sha256": "6d320875883e7c761803a6a0f864ed185f0fcb217525b7840399a7e611db21f8"
+      "sha256": "3982b327bde389d1e5208ff84546ceda372abccac73151c9532c52ff9f48a02e"
     },
     {
       "file": "ko/category/random/index.html",
       "bytes": 17000,
-      "sha256": "bade25365ec2f7b9d7d0a4eb89a230deaf865b986946eb586e7c81ece5a3fe85"
+      "sha256": "3af20dc2f5f2613dc51242f20b9e391aa9279f3f762b38be51b916753f7e8225"
     },
     {
       "file": "ko/category/study/index.html",
@@ -66330,12 +66365,12 @@
     {
       "file": "ko/category/time/index.html",
       "bytes": 23905,
-      "sha256": "10be4c8d6817247cb1c3f0f9dcaa6b233c60d4bda28d33b3050f6666b9689f9c"
+      "sha256": "fa97469ac140910de7ae6076a8a3292f6cabda254fd86ee0c3cf5c2e3429d592"
     },
     {
       "file": "ko/category/unit/index.html",
       "bytes": 22972,
-      "sha256": "5993df0b7a4caad10fa7003acd28a18699cd35bb3b4a5fba980e6f448be2bb72"
+      "sha256": "c7a1c597746b010390db18d009aaf8d960801a7e5ffd97025becd5c5f1fb7b01"
     },
     {
       "file": "ko/character-count/index.html",
@@ -66665,7 +66700,7 @@
     {
       "file": "ko/index.html",
       "bytes": 199369,
-      "sha256": "e02019b7abbc5f225c02aa35b149e90820f5237aa6740c689a54b5b0511d2a61"
+      "sha256": "9a362300a39ff653321d3259dc025f9539a7a66d7b46312fc48fc9b9f03284a0"
     },
     {
       "file": "ko/installment-compare/index.html",
@@ -66835,7 +66870,7 @@
     {
       "file": "ko/pdf-compress/index.html",
       "bytes": 32725,
-      "sha256": "56f6436681ff915a01d2323307890c99c29284390fa1ef7fe864d27e4dadf7ed"
+      "sha256": "17d32bfa66dea219051e80194bb996c547d1fa6af70b887904040283d6bbabaf"
     },
     {
       "file": "ko/pdf-fill-form/index.html",
@@ -66860,7 +66895,7 @@
     {
       "file": "ko/pdf-redact/index.html",
       "bytes": 27658,
-      "sha256": "23feaadc78f8a1a40099229eebc4580b26d925c4e70492ea2f084ef59e3de0a7"
+      "sha256": "c2e9f1460b3c165cfa4285defbc6478e082a40a0d8858208d32e5b365ad121a4"
     },
     {
       "file": "ko/pdf-sign/index.html",
