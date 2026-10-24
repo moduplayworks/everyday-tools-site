@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["_astro/ads.KiNjh4Y-.js","_astro/ad-consent.C_Z09J6P.js"])))=>i.map(i=>d[i]);
-import{n as e,t}from"./ad-consent.C_Z09J6P.js";import{t as n}from"./preload-helper.oCYlU9a4.js";var r;function i(){(document.querySelector(`ins.adsbygoogle`)||document.querySelector(`[data-coupang-slot]`)&&e(`coupang`)===`granted`||document.querySelector(`[data-adsterra-slot]`)&&e(`adsterra`)===`granted`)&&!r&&(r=n(()=>import(`./ads.KiNjh4Y-.js`),__vite__mapDeps([0,1])).catch(()=>{r=void 0}))}window.addEventListener(t,i),i();

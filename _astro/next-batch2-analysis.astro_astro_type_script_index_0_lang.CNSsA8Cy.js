@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["_astro/batch2-analysis.BEzkZo4c.js","_astro/next-tool.BJ7Wv_Uf.js","_astro/analytics.Bvmb6S_J.js"])))=>i.map(i=>d[i]);
+import{t as e}from"./next-tool.BJ7Wv_Uf.js";import{t}from"./preload-helper.oCYlU9a4.js";e(()=>t(()=>import(`./batch2-analysis.BEzkZo4c.js`),__vite__mapDeps([0,1,2])));
