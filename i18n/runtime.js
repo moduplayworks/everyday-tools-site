@@ -40,8 +40,9 @@ if (locale === 'en' || locale === 'ja') {
   const isKorean = (value) =>
     /[\u1100-\u11ff\u3130-\u318f\uac00-\ud7af]/.test(value);
   const runtimeRegions =
-    'button,option,[role="status"],[role="alert"],[aria-live],[data-i18n-dynamic],[data-result-summary],[data-result-hint]';
+    'button,option,[role="status"],[role="alert"],[aria-live],[data-i18n-dynamic],[data-i18n-dynamic-value],[data-result-summary],[data-result-hint]';
   const exactOnlyRegions = '[data-result-summary],[data-result-hint]';
+  const dynamicValueRegions = 'textarea[data-i18n-dynamic-value]';
 
   const preserveEdgeWhitespace = (original, replacement) => {
     const leading = original.match(/^\s*/)?.[0] ?? '';
@@ -82,6 +83,25 @@ if (locale === 'en' || locale === 'ja') {
     const current = element.getAttribute(attribute);
     const translated = exact.get(normalize(current));
     if (translated) element.setAttribute(attribute, translated);
+  };
+
+  const translateDynamicValue = (element, exact, patterns) => {
+    if (
+      !(element instanceof HTMLTextAreaElement) ||
+      !element.matches(dynamicValueRegions)
+    )
+      return;
+    const original = element.value;
+    if (!isKorean(original)) return;
+    const translated = original
+      .split(/(\r?\n)/)
+      .map((line) =>
+        /^\r?\n$/.test(line)
+          ? line
+          : translateString(line, exact, patterns, [], false),
+      )
+      .join('');
+    if (translated !== original) element.value = translated;
   };
 
   const translateRegion = (root, exact, patterns, fragments) => {
@@ -137,6 +157,7 @@ if (locale === 'en' || locale === 'ja') {
     for (const element of elements) {
       for (const attribute of ['aria-label', 'title', 'placeholder'])
         translateAttribute(element, attribute, exact);
+      translateDynamicValue(element, exact, patterns);
     }
   };
 
@@ -184,6 +205,11 @@ if (locale === 'en' || locale === 'ja') {
             translateAttribute(record.target, record.attributeName, exact);
           }
         }
+      });
+      document.addEventListener('et:i18n-dynamic-value', (event) => {
+        const target = event.target;
+        if (target instanceof Element && target.matches(dynamicValueRegions))
+          translateDynamicValue(target, exact, patterns);
       });
       observer.observe(document.body, {
         subtree: true,
